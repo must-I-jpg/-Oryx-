@@ -1,0 +1,4015 @@
+week_start,type,loss_count,rate_per_day,rate_per_30_days
+2022-02-21,Airplanes,4,0.571429,17.142857
+2022-02-21,"Ambulances, medical vehicles",0,0.0,0.0
+2022-02-21,Anti-aircraft systems,16,2.285714,68.571429
+2022-02-21,Anti-tank systems,3,0.428571,12.857143
+2022-02-21,"Command posts, communication",23,3.285714,98.571429
+2022-02-21,Drones,0,0.0,0.0
+2022-02-21,Engineering,37,5.285714,158.571429
+2022-02-21,Helicopters,7,1.0,30.0
+2022-02-21,Infantry fighting vehicles,70,10.0,300.0
+2022-02-21,Infantry mobility vehicles,18,2.571429,77.142857
+2022-02-21,Other,0,0.0,0.0
+2022-02-21,"Radars, jammers",1,0.142857,4.285714
+2022-02-21,Rocket and missile artillery,5,0.714286,21.428571
+2022-02-21,Self-propelled artillery,2,0.285714,8.571429
+2022-02-21,Tanks,42,6.0,180.0
+2022-02-21,Towed artillery,3,0.428571,12.857143
+2022-02-21,Transport,87,12.428571,372.857143
+2022-02-21,Vessels,0,0.0,0.0
+2022-02-28,Airplanes,7,1.0,30.0
+2022-02-28,"Ambulances, medical vehicles",8,1.142857,34.285714
+2022-02-28,Anti-aircraft systems,17,2.428571,72.857143
+2022-02-28,Anti-tank systems,1,0.142857,4.285714
+2022-02-28,"Command posts, communication",22,3.142857,94.285714
+2022-02-28,Drones,2,0.285714,8.571429
+2022-02-28,Engineering,16,2.285714,68.571429
+2022-02-28,Helicopters,8,1.142857,34.285714
+2022-02-28,Infantry fighting vehicles,150,21.428571,642.857143
+2022-02-28,Infantry mobility vehicles,16,2.285714,68.571429
+2022-02-28,Other,0,0.0,0.0
+2022-02-28,"Radars, jammers",4,0.571429,17.142857
+2022-02-28,Rocket and missile artillery,8,1.142857,34.285714
+2022-02-28,Self-propelled artillery,19,2.714286,81.428571
+2022-02-28,Tanks,76,10.857143,325.714286
+2022-02-28,Towed artillery,17,2.428571,72.857143
+2022-02-28,Transport,214,30.571429,917.142857
+2022-02-28,Vessels,0,0.0,0.0
+2022-03-07,Airplanes,4,0.571429,17.142857
+2022-03-07,"Ambulances, medical vehicles",3,0.428571,12.857143
+2022-03-07,Anti-aircraft systems,10,1.428571,42.857143
+2022-03-07,Anti-tank systems,0,0.0,0.0
+2022-03-07,"Command posts, communication",10,1.428571,42.857143
+2022-03-07,Drones,4,0.571429,17.142857
+2022-03-07,Engineering,13,1.857143,55.714286
+2022-03-07,Helicopters,11,1.571429,47.142857
+2022-03-07,Infantry fighting vehicles,87,12.428571,372.857143
+2022-03-07,Infantry mobility vehicles,14,2.0,60.0
+2022-03-07,Other,1,0.142857,4.285714
+2022-03-07,"Radars, jammers",2,0.285714,8.571429
+2022-03-07,Rocket and missile artillery,3,0.428571,12.857143
+2022-03-07,Self-propelled artillery,10,1.428571,42.857143
+2022-03-07,Tanks,49,7.0,210.0
+2022-03-07,Towed artillery,1,0.142857,4.285714
+2022-03-07,Transport,73,10.428571,312.857143
+2022-03-07,Vessels,0,0.0,0.0
+2022-03-14,Airplanes,3,0.428571,12.857143
+2022-03-14,"Ambulances, medical vehicles",4,0.571429,17.142857
+2022-03-14,Anti-aircraft systems,6,0.857143,25.714286
+2022-03-14,Anti-tank systems,5,0.714286,21.428571
+2022-03-14,"Command posts, communication",17,2.428571,72.857143
+2022-03-14,Drones,5,0.714286,21.428571
+2022-03-14,Engineering,21,3.0,90.0
+2022-03-14,Helicopters,13,1.857143,55.714286
+2022-03-14,Infantry fighting vehicles,96,13.714286,411.428571
+2022-03-14,Infantry mobility vehicles,12,1.714286,51.428571
+2022-03-14,Other,2,0.285714,8.571429
+2022-03-14,"Radars, jammers",7,1.0,30.0
+2022-03-14,Rocket and missile artillery,7,1.0,30.0
+2022-03-14,Self-propelled artillery,12,1.714286,51.428571
+2022-03-14,Tanks,57,8.142857,244.285714
+2022-03-14,Towed artillery,9,1.285714,38.571429
+2022-03-14,Transport,156,22.285714,668.571429
+2022-03-14,Vessels,0,0.0,0.0
+2022-03-21,Airplanes,0,0.0,0.0
+2022-03-21,"Ambulances, medical vehicles",2,0.285714,8.571429
+2022-03-21,Anti-aircraft systems,3,0.428571,12.857143
+2022-03-21,Anti-tank systems,0,0.0,0.0
+2022-03-21,"Command posts, communication",18,2.571429,77.142857
+2022-03-21,Drones,4,0.571429,17.142857
+2022-03-21,Engineering,13,1.857143,55.714286
+2022-03-21,Helicopters,3,0.428571,12.857143
+2022-03-21,Infantry fighting vehicles,79,11.285714,338.571429
+2022-03-21,Infantry mobility vehicles,8,1.142857,34.285714
+2022-03-21,Other,1,0.142857,4.285714
+2022-03-21,"Radars, jammers",2,0.285714,8.571429
+2022-03-21,Rocket and missile artillery,3,0.428571,12.857143
+2022-03-21,Self-propelled artillery,15,2.142857,64.285714
+2022-03-21,Tanks,50,7.142857,214.285714
+2022-03-21,Towed artillery,10,1.428571,42.857143
+2022-03-21,Transport,97,13.857143,415.714286
+2022-03-21,Vessels,2,0.285714,8.571429
+2022-03-28,Airplanes,1,0.142857,4.285714
+2022-03-28,"Ambulances, medical vehicles",5,0.714286,21.428571
+2022-03-28,Anti-aircraft systems,9,1.285714,38.571429
+2022-03-28,Anti-tank systems,4,0.571429,17.142857
+2022-03-28,"Command posts, communication",35,5.0,150.0
+2022-03-28,Drones,7,1.0,30.0
+2022-03-28,Engineering,28,4.0,120.0
+2022-03-28,Helicopters,4,0.571429,17.142857
+2022-03-28,Infantry fighting vehicles,234,33.428571,1002.857143
+2022-03-28,Infantry mobility vehicles,26,3.714286,111.428571
+2022-03-28,Other,5,0.714286,21.428571
+2022-03-28,"Radars, jammers",8,1.142857,34.285714
+2022-03-28,Rocket and missile artillery,9,1.285714,38.571429
+2022-03-28,Self-propelled artillery,24,3.428571,102.857143
+2022-03-28,Tanks,106,15.142857,454.285714
+2022-03-28,Towed artillery,9,1.285714,38.571429
+2022-03-28,Transport,232,33.142857,994.285714
+2022-03-28,Vessels,0,0.0,0.0
+2022-04-04,Airplanes,1,0.142857,4.285714
+2022-04-04,"Ambulances, medical vehicles",6,0.857143,25.714286
+2022-04-04,Anti-aircraft systems,4,0.571429,17.142857
+2022-04-04,Anti-tank systems,3,0.428571,12.857143
+2022-04-04,"Command posts, communication",14,2.0,60.0
+2022-04-04,Drones,7,1.0,30.0
+2022-04-04,Engineering,22,3.142857,94.285714
+2022-04-04,Helicopters,2,0.285714,8.571429
+2022-04-04,Infantry fighting vehicles,78,11.142857,334.285714
+2022-04-04,Infantry mobility vehicles,12,1.714286,51.428571
+2022-04-04,Other,1,0.142857,4.285714
+2022-04-04,"Radars, jammers",2,0.285714,8.571429
+2022-04-04,Rocket and missile artillery,2,0.285714,8.571429
+2022-04-04,Self-propelled artillery,21,3.0,90.0
+2022-04-04,Tanks,65,9.285714,278.571429
+2022-04-04,Towed artillery,2,0.285714,8.571429
+2022-04-04,Transport,127,18.142857,544.285714
+2022-04-04,Vessels,0,0.0,0.0
+2022-04-11,Airplanes,0,0.0,0.0
+2022-04-11,"Ambulances, medical vehicles",0,0.0,0.0
+2022-04-11,Anti-aircraft systems,1,0.142857,4.285714
+2022-04-11,Anti-tank systems,1,0.142857,4.285714
+2022-04-11,"Command posts, communication",4,0.571429,17.142857
+2022-04-11,Drones,8,1.142857,34.285714
+2022-04-11,Engineering,13,1.857143,55.714286
+2022-04-11,Helicopters,1,0.142857,4.285714
+2022-04-11,Infantry fighting vehicles,45,6.428571,192.857143
+2022-04-11,Infantry mobility vehicles,5,0.714286,21.428571
+2022-04-11,Other,3,0.428571,12.857143
+2022-04-11,"Radars, jammers",1,0.142857,4.285714
+2022-04-11,Rocket and missile artillery,5,0.714286,21.428571
+2022-04-11,Self-propelled artillery,6,0.857143,25.714286
+2022-04-11,Tanks,23,3.285714,98.571429
+2022-04-11,Towed artillery,2,0.285714,8.571429
+2022-04-11,Transport,69,9.857143,295.714286
+2022-04-11,Vessels,1,0.142857,4.285714
+2022-04-18,Airplanes,2,0.285714,8.571429
+2022-04-18,"Ambulances, medical vehicles",0,0.0,0.0
+2022-04-18,Anti-aircraft systems,0,0.0,0.0
+2022-04-18,Anti-tank systems,0,0.0,0.0
+2022-04-18,"Command posts, communication",2,0.285714,8.571429
+2022-04-18,Drones,8,1.142857,34.285714
+2022-04-18,Engineering,4,0.571429,17.142857
+2022-04-18,Helicopters,2,0.285714,8.571429
+2022-04-18,Infantry fighting vehicles,42,6.0,180.0
+2022-04-18,Infantry mobility vehicles,4,0.571429,17.142857
+2022-04-18,Other,0,0.0,0.0
+2022-04-18,"Radars, jammers",1,0.142857,4.285714
+2022-04-18,Rocket and missile artillery,2,0.285714,8.571429
+2022-04-18,Self-propelled artillery,2,0.285714,8.571429
+2022-04-18,Tanks,20,2.857143,85.714286
+2022-04-18,Towed artillery,2,0.285714,8.571429
+2022-04-18,Transport,37,5.285714,158.571429
+2022-04-18,Vessels,0,0.0,0.0
+2022-04-25,Airplanes,1,0.142857,4.285714
+2022-04-25,"Ambulances, medical vehicles",0,0.0,0.0
+2022-04-25,Anti-aircraft systems,7,1.0,30.0
+2022-04-25,Anti-tank systems,0,0.0,0.0
+2022-04-25,"Command posts, communication",3,0.428571,12.857143
+2022-04-25,Drones,5,0.714286,21.428571
+2022-04-25,Engineering,2,0.285714,8.571429
+2022-04-25,Helicopters,0,0.0,0.0
+2022-04-25,Infantry fighting vehicles,57,8.142857,244.285714
+2022-04-25,Infantry mobility vehicles,2,0.285714,8.571429
+2022-04-25,Other,1,0.142857,4.285714
+2022-04-25,"Radars, jammers",1,0.142857,4.285714
+2022-04-25,Rocket and missile artillery,6,0.857143,25.714286
+2022-04-25,Self-propelled artillery,8,1.142857,34.285714
+2022-04-25,Tanks,29,4.142857,124.285714
+2022-04-25,Towed artillery,2,0.285714,8.571429
+2022-04-25,Transport,63,9.0,270.0
+2022-04-25,Vessels,0,0.0,0.0
+2022-05-02,Airplanes,0,0.0,0.0
+2022-05-02,"Ambulances, medical vehicles",1,0.142857,4.285714
+2022-05-02,Anti-aircraft systems,4,0.571429,17.142857
+2022-05-02,Anti-tank systems,1,0.142857,4.285714
+2022-05-02,"Command posts, communication",1,0.142857,4.285714
+2022-05-02,Drones,8,1.142857,34.285714
+2022-05-02,Engineering,6,0.857143,25.714286
+2022-05-02,Helicopters,1,0.142857,4.285714
+2022-05-02,Infantry fighting vehicles,69,9.857143,295.714286
+2022-05-02,Infantry mobility vehicles,2,0.285714,8.571429
+2022-05-02,Other,1,0.142857,4.285714
+2022-05-02,"Radars, jammers",0,0.0,0.0
+2022-05-02,Rocket and missile artillery,2,0.285714,8.571429
+2022-05-02,Self-propelled artillery,6,0.857143,25.714286
+2022-05-02,Tanks,41,5.857143,175.714286
+2022-05-02,Towed artillery,2,0.285714,8.571429
+2022-05-02,Transport,50,7.142857,214.285714
+2022-05-02,Vessels,6,0.857143,25.714286
+2022-05-09,Airplanes,0,0.0,0.0
+2022-05-09,"Ambulances, medical vehicles",0,0.0,0.0
+2022-05-09,Anti-aircraft systems,0,0.0,0.0
+2022-05-09,Anti-tank systems,3,0.428571,12.857143
+2022-05-09,"Command posts, communication",4,0.571429,17.142857
+2022-05-09,Drones,9,1.285714,38.571429
+2022-05-09,Engineering,31,4.428571,132.857143
+2022-05-09,Helicopters,0,0.0,0.0
+2022-05-09,Infantry fighting vehicles,104,14.857143,445.714286
+2022-05-09,Infantry mobility vehicles,3,0.428571,12.857143
+2022-05-09,Other,0,0.0,0.0
+2022-05-09,"Radars, jammers",0,0.0,0.0
+2022-05-09,Rocket and missile artillery,2,0.285714,8.571429
+2022-05-09,Self-propelled artillery,6,0.857143,25.714286
+2022-05-09,Tanks,40,5.714286,171.428571
+2022-05-09,Towed artillery,1,0.142857,4.285714
+2022-05-09,Transport,19,2.714286,81.428571
+2022-05-09,Vessels,0,0.0,0.0
+2022-05-16,Airplanes,1,0.142857,4.285714
+2022-05-16,"Ambulances, medical vehicles",0,0.0,0.0
+2022-05-16,Anti-aircraft systems,5,0.714286,21.428571
+2022-05-16,Anti-tank systems,1,0.142857,4.285714
+2022-05-16,"Command posts, communication",1,0.142857,4.285714
+2022-05-16,Drones,11,1.571429,47.142857
+2022-05-16,Engineering,0,0.0,0.0
+2022-05-16,Helicopters,1,0.142857,4.285714
+2022-05-16,Infantry fighting vehicles,33,4.714286,141.428571
+2022-05-16,Infantry mobility vehicles,0,0.0,0.0
+2022-05-16,Other,0,0.0,0.0
+2022-05-16,"Radars, jammers",1,0.142857,4.285714
+2022-05-16,Rocket and missile artillery,1,0.142857,4.285714
+2022-05-16,Self-propelled artillery,5,0.714286,21.428571
+2022-05-16,Tanks,14,2.0,60.0
+2022-05-16,Towed artillery,1,0.142857,4.285714
+2022-05-16,Transport,26,3.714286,111.428571
+2022-05-16,Vessels,0,0.0,0.0
+2022-05-23,Airplanes,1,0.142857,4.285714
+2022-05-23,"Ambulances, medical vehicles",0,0.0,0.0
+2022-05-23,Anti-aircraft systems,0,0.0,0.0
+2022-05-23,Anti-tank systems,0,0.0,0.0
+2022-05-23,"Command posts, communication",1,0.142857,4.285714
+2022-05-23,Drones,3,0.428571,12.857143
+2022-05-23,Engineering,0,0.0,0.0
+2022-05-23,Helicopters,0,0.0,0.0
+2022-05-23,Infantry fighting vehicles,19,2.714286,81.428571
+2022-05-23,Infantry mobility vehicles,0,0.0,0.0
+2022-05-23,Other,0,0.0,0.0
+2022-05-23,"Radars, jammers",0,0.0,0.0
+2022-05-23,Rocket and missile artillery,0,0.0,0.0
+2022-05-23,Self-propelled artillery,1,0.142857,4.285714
+2022-05-23,Tanks,15,2.142857,64.285714
+2022-05-23,Towed artillery,0,0.0,0.0
+2022-05-23,Transport,11,1.571429,47.142857
+2022-05-23,Vessels,0,0.0,0.0
+2022-05-30,Airplanes,0,0.0,0.0
+2022-05-30,"Ambulances, medical vehicles",0,0.0,0.0
+2022-05-30,Anti-aircraft systems,3,0.428571,12.857143
+2022-05-30,Anti-tank systems,0,0.0,0.0
+2022-05-30,"Command posts, communication",1,0.142857,4.285714
+2022-05-30,Drones,5,0.714286,21.428571
+2022-05-30,Engineering,1,0.142857,4.285714
+2022-05-30,Helicopters,1,0.142857,4.285714
+2022-05-30,Infantry fighting vehicles,60,8.571429,257.142857
+2022-05-30,Infantry mobility vehicles,1,0.142857,4.285714
+2022-05-30,Other,1,0.142857,4.285714
+2022-05-30,"Radars, jammers",0,0.0,0.0
+2022-05-30,Rocket and missile artillery,3,0.428571,12.857143
+2022-05-30,Self-propelled artillery,3,0.428571,12.857143
+2022-05-30,Tanks,20,2.857143,85.714286
+2022-05-30,Towed artillery,1,0.142857,4.285714
+2022-05-30,Transport,34,4.857143,145.714286
+2022-05-30,Vessels,0,0.0,0.0
+2022-06-06,Airplanes,1,0.142857,4.285714
+2022-06-06,"Ambulances, medical vehicles",1,0.142857,4.285714
+2022-06-06,Anti-aircraft systems,0,0.0,0.0
+2022-06-06,Anti-tank systems,0,0.0,0.0
+2022-06-06,"Command posts, communication",1,0.142857,4.285714
+2022-06-06,Drones,2,0.285714,8.571429
+2022-06-06,Engineering,6,0.857143,25.714286
+2022-06-06,Helicopters,0,0.0,0.0
+2022-06-06,Infantry fighting vehicles,38,5.428571,162.857143
+2022-06-06,Infantry mobility vehicles,1,0.142857,4.285714
+2022-06-06,Other,0,0.0,0.0
+2022-06-06,"Radars, jammers",0,0.0,0.0
+2022-06-06,Rocket and missile artillery,11,1.571429,47.142857
+2022-06-06,Self-propelled artillery,1,0.142857,4.285714
+2022-06-06,Tanks,19,2.714286,81.428571
+2022-06-06,Towed artillery,2,0.285714,8.571429
+2022-06-06,Transport,32,4.571429,137.142857
+2022-06-06,Vessels,0,0.0,0.0
+2022-06-13,Airplanes,2,0.285714,8.571429
+2022-06-13,"Ambulances, medical vehicles",0,0.0,0.0
+2022-06-13,Anti-aircraft systems,1,0.142857,4.285714
+2022-06-13,Anti-tank systems,1,0.142857,4.285714
+2022-06-13,"Command posts, communication",3,0.428571,12.857143
+2022-06-13,Drones,6,0.857143,25.714286
+2022-06-13,Engineering,4,0.571429,17.142857
+2022-06-13,Helicopters,1,0.142857,4.285714
+2022-06-13,Infantry fighting vehicles,50,7.142857,214.285714
+2022-06-13,Infantry mobility vehicles,0,0.0,0.0
+2022-06-13,Other,1,0.142857,4.285714
+2022-06-13,"Radars, jammers",0,0.0,0.0
+2022-06-13,Rocket and missile artillery,7,1.0,30.0
+2022-06-13,Self-propelled artillery,2,0.285714,8.571429
+2022-06-13,Tanks,7,1.0,30.0
+2022-06-13,Towed artillery,1,0.142857,4.285714
+2022-06-13,Transport,18,2.571429,77.142857
+2022-06-13,Vessels,1,0.142857,4.285714
+2022-06-20,Airplanes,1,0.142857,4.285714
+2022-06-20,"Ambulances, medical vehicles",1,0.142857,4.285714
+2022-06-20,Anti-aircraft systems,1,0.142857,4.285714
+2022-06-20,Anti-tank systems,0,0.0,0.0
+2022-06-20,"Command posts, communication",4,0.571429,17.142857
+2022-06-20,Drones,5,0.714286,21.428571
+2022-06-20,Engineering,6,0.857143,25.714286
+2022-06-20,Helicopters,0,0.0,0.0
+2022-06-20,Infantry fighting vehicles,22,3.142857,94.285714
+2022-06-20,Infantry mobility vehicles,1,0.142857,4.285714
+2022-06-20,Other,0,0.0,0.0
+2022-06-20,"Radars, jammers",0,0.0,0.0
+2022-06-20,Rocket and missile artillery,0,0.0,0.0
+2022-06-20,Self-propelled artillery,2,0.285714,8.571429
+2022-06-20,Tanks,16,2.285714,68.571429
+2022-06-20,Towed artillery,4,0.571429,17.142857
+2022-06-20,Transport,18,2.571429,77.142857
+2022-06-20,Vessels,0,0.0,0.0
+2022-06-27,Airplanes,0,0.0,0.0
+2022-06-27,"Ambulances, medical vehicles",0,0.0,0.0
+2022-06-27,Anti-aircraft systems,9,1.285714,38.571429
+2022-06-27,Anti-tank systems,0,0.0,0.0
+2022-06-27,"Command posts, communication",1,0.142857,4.285714
+2022-06-27,Drones,3,0.428571,12.857143
+2022-06-27,Engineering,3,0.428571,12.857143
+2022-06-27,Helicopters,2,0.285714,8.571429
+2022-06-27,Infantry fighting vehicles,39,5.571429,167.142857
+2022-06-27,Infantry mobility vehicles,2,0.285714,8.571429
+2022-06-27,Other,2,0.285714,8.571429
+2022-06-27,"Radars, jammers",2,0.285714,8.571429
+2022-06-27,Rocket and missile artillery,3,0.428571,12.857143
+2022-06-27,Self-propelled artillery,6,0.857143,25.714286
+2022-06-27,Tanks,22,3.142857,94.285714
+2022-06-27,Towed artillery,1,0.142857,4.285714
+2022-06-27,Transport,33,4.714286,141.428571
+2022-06-27,Vessels,0,0.0,0.0
+2022-07-04,Airplanes,0,0.0,0.0
+2022-07-04,"Ambulances, medical vehicles",1,0.142857,4.285714
+2022-07-04,Anti-aircraft systems,4,0.571429,17.142857
+2022-07-04,Anti-tank systems,0,0.0,0.0
+2022-07-04,"Command posts, communication",0,0.0,0.0
+2022-07-04,Drones,3,0.428571,12.857143
+2022-07-04,Engineering,3,0.428571,12.857143
+2022-07-04,Helicopters,0,0.0,0.0
+2022-07-04,Infantry fighting vehicles,31,4.428571,132.857143
+2022-07-04,Infantry mobility vehicles,3,0.428571,12.857143
+2022-07-04,Other,0,0.0,0.0
+2022-07-04,"Radars, jammers",0,0.0,0.0
+2022-07-04,Rocket and missile artillery,1,0.142857,4.285714
+2022-07-04,Self-propelled artillery,3,0.428571,12.857143
+2022-07-04,Tanks,29,4.142857,124.285714
+2022-07-04,Towed artillery,1,0.142857,4.285714
+2022-07-04,Transport,19,2.714286,81.428571
+2022-07-04,Vessels,0,0.0,0.0
+2022-07-11,Airplanes,0,0.0,0.0
+2022-07-11,"Ambulances, medical vehicles",0,0.0,0.0
+2022-07-11,Anti-aircraft systems,0,0.0,0.0
+2022-07-11,Anti-tank systems,0,0.0,0.0
+2022-07-11,"Command posts, communication",2,0.285714,8.571429
+2022-07-11,Drones,4,0.571429,17.142857
+2022-07-11,Engineering,0,0.0,0.0
+2022-07-11,Helicopters,1,0.142857,4.285714
+2022-07-11,Infantry fighting vehicles,19,2.714286,81.428571
+2022-07-11,Infantry mobility vehicles,0,0.0,0.0
+2022-07-11,Other,0,0.0,0.0
+2022-07-11,"Radars, jammers",0,0.0,0.0
+2022-07-11,Rocket and missile artillery,1,0.142857,4.285714
+2022-07-11,Self-propelled artillery,3,0.428571,12.857143
+2022-07-11,Tanks,12,1.714286,51.428571
+2022-07-11,Towed artillery,2,0.285714,8.571429
+2022-07-11,Transport,17,2.428571,72.857143
+2022-07-11,Vessels,0,0.0,0.0
+2022-07-18,Airplanes,2,0.285714,8.571429
+2022-07-18,"Ambulances, medical vehicles",0,0.0,0.0
+2022-07-18,Anti-aircraft systems,2,0.285714,8.571429
+2022-07-18,Anti-tank systems,0,0.0,0.0
+2022-07-18,"Command posts, communication",2,0.285714,8.571429
+2022-07-18,Drones,2,0.285714,8.571429
+2022-07-18,Engineering,1,0.142857,4.285714
+2022-07-18,Helicopters,0,0.0,0.0
+2022-07-18,Infantry fighting vehicles,25,3.571429,107.142857
+2022-07-18,Infantry mobility vehicles,1,0.142857,4.285714
+2022-07-18,Other,1,0.142857,4.285714
+2022-07-18,"Radars, jammers",1,0.142857,4.285714
+2022-07-18,Rocket and missile artillery,0,0.0,0.0
+2022-07-18,Self-propelled artillery,7,1.0,30.0
+2022-07-18,Tanks,9,1.285714,38.571429
+2022-07-18,Towed artillery,0,0.0,0.0
+2022-07-18,Transport,11,1.571429,47.142857
+2022-07-18,Vessels,0,0.0,0.0
+2022-07-25,Airplanes,0,0.0,0.0
+2022-07-25,"Ambulances, medical vehicles",0,0.0,0.0
+2022-07-25,Anti-aircraft systems,1,0.142857,4.285714
+2022-07-25,Anti-tank systems,0,0.0,0.0
+2022-07-25,"Command posts, communication",2,0.285714,8.571429
+2022-07-25,Drones,9,1.285714,38.571429
+2022-07-25,Engineering,1,0.142857,4.285714
+2022-07-25,Helicopters,0,0.0,0.0
+2022-07-25,Infantry fighting vehicles,30,4.285714,128.571429
+2022-07-25,Infantry mobility vehicles,1,0.142857,4.285714
+2022-07-25,Other,0,0.0,0.0
+2022-07-25,"Radars, jammers",0,0.0,0.0
+2022-07-25,Rocket and missile artillery,0,0.0,0.0
+2022-07-25,Self-propelled artillery,3,0.428571,12.857143
+2022-07-25,Tanks,23,3.285714,98.571429
+2022-07-25,Towed artillery,0,0.0,0.0
+2022-07-25,Transport,19,2.714286,81.428571
+2022-07-25,Vessels,0,0.0,0.0
+2022-08-01,Airplanes,0,0.0,0.0
+2022-08-01,"Ambulances, medical vehicles",0,0.0,0.0
+2022-08-01,Anti-aircraft systems,0,0.0,0.0
+2022-08-01,Anti-tank systems,0,0.0,0.0
+2022-08-01,"Command posts, communication",0,0.0,0.0
+2022-08-01,Drones,4,0.571429,17.142857
+2022-08-01,Engineering,2,0.285714,8.571429
+2022-08-01,Helicopters,0,0.0,0.0
+2022-08-01,Infantry fighting vehicles,28,4.0,120.0
+2022-08-01,Infantry mobility vehicles,1,0.142857,4.285714
+2022-08-01,Other,0,0.0,0.0
+2022-08-01,"Radars, jammers",0,0.0,0.0
+2022-08-01,Rocket and missile artillery,2,0.285714,8.571429
+2022-08-01,Self-propelled artillery,2,0.285714,8.571429
+2022-08-01,Tanks,14,2.0,60.0
+2022-08-01,Towed artillery,2,0.285714,8.571429
+2022-08-01,Transport,8,1.142857,34.285714
+2022-08-01,Vessels,0,0.0,0.0
+2022-08-08,Airplanes,11,1.571429,47.142857
+2022-08-08,"Ambulances, medical vehicles",0,0.0,0.0
+2022-08-08,Anti-aircraft systems,1,0.142857,4.285714
+2022-08-08,Anti-tank systems,0,0.0,0.0
+2022-08-08,"Command posts, communication",4,0.571429,17.142857
+2022-08-08,Drones,3,0.428571,12.857143
+2022-08-08,Engineering,1,0.142857,4.285714
+2022-08-08,Helicopters,0,0.0,0.0
+2022-08-08,Infantry fighting vehicles,25,3.571429,107.142857
+2022-08-08,Infantry mobility vehicles,1,0.142857,4.285714
+2022-08-08,Other,1,0.142857,4.285714
+2022-08-08,"Radars, jammers",0,0.0,0.0
+2022-08-08,Rocket and missile artillery,2,0.285714,8.571429
+2022-08-08,Self-propelled artillery,0,0.0,0.0
+2022-08-08,Tanks,8,1.142857,34.285714
+2022-08-08,Towed artillery,0,0.0,0.0
+2022-08-08,Transport,35,5.0,150.0
+2022-08-08,Vessels,0,0.0,0.0
+2022-08-15,Airplanes,1,0.142857,4.285714
+2022-08-15,"Ambulances, medical vehicles",0,0.0,0.0
+2022-08-15,Anti-aircraft systems,1,0.142857,4.285714
+2022-08-15,Anti-tank systems,0,0.0,0.0
+2022-08-15,"Command posts, communication",1,0.142857,4.285714
+2022-08-15,Drones,5,0.714286,21.428571
+2022-08-15,Engineering,0,0.0,0.0
+2022-08-15,Helicopters,0,0.0,0.0
+2022-08-15,Infantry fighting vehicles,15,2.142857,64.285714
+2022-08-15,Infantry mobility vehicles,0,0.0,0.0
+2022-08-15,Other,1,0.142857,4.285714
+2022-08-15,"Radars, jammers",1,0.142857,4.285714
+2022-08-15,Rocket and missile artillery,0,0.0,0.0
+2022-08-15,Self-propelled artillery,3,0.428571,12.857143
+2022-08-15,Tanks,11,1.571429,47.142857
+2022-08-15,Towed artillery,1,0.142857,4.285714
+2022-08-15,Transport,4,0.571429,17.142857
+2022-08-15,Vessels,0,0.0,0.0
+2022-08-22,Airplanes,0,0.0,0.0
+2022-08-22,"Ambulances, medical vehicles",0,0.0,0.0
+2022-08-22,Anti-aircraft systems,2,0.285714,8.571429
+2022-08-22,Anti-tank systems,0,0.0,0.0
+2022-08-22,"Command posts, communication",2,0.285714,8.571429
+2022-08-22,Drones,4,0.571429,17.142857
+2022-08-22,Engineering,1,0.142857,4.285714
+2022-08-22,Helicopters,1,0.142857,4.285714
+2022-08-22,Infantry fighting vehicles,36,5.142857,154.285714
+2022-08-22,Infantry mobility vehicles,4,0.571429,17.142857
+2022-08-22,Other,0,0.0,0.0
+2022-08-22,"Radars, jammers",1,0.142857,4.285714
+2022-08-22,Rocket and missile artillery,0,0.0,0.0
+2022-08-22,Self-propelled artillery,7,1.0,30.0
+2022-08-22,Tanks,13,1.857143,55.714286
+2022-08-22,Towed artillery,3,0.428571,12.857143
+2022-08-22,Transport,11,1.571429,47.142857
+2022-08-22,Vessels,0,0.0,0.0
+2022-08-29,Airplanes,0,0.0,0.0
+2022-08-29,"Ambulances, medical vehicles",0,0.0,0.0
+2022-08-29,Anti-aircraft systems,2,0.285714,8.571429
+2022-08-29,Anti-tank systems,0,0.0,0.0
+2022-08-29,"Command posts, communication",5,0.714286,21.428571
+2022-08-29,Drones,9,1.285714,38.571429
+2022-08-29,Engineering,3,0.428571,12.857143
+2022-08-29,Helicopters,1,0.142857,4.285714
+2022-08-29,Infantry fighting vehicles,46,6.571429,197.142857
+2022-08-29,Infantry mobility vehicles,3,0.428571,12.857143
+2022-08-29,Other,2,0.285714,8.571429
+2022-08-29,"Radars, jammers",0,0.0,0.0
+2022-08-29,Rocket and missile artillery,1,0.142857,4.285714
+2022-08-29,Self-propelled artillery,12,1.714286,51.428571
+2022-08-29,Tanks,18,2.571429,77.142857
+2022-08-29,Towed artillery,1,0.142857,4.285714
+2022-08-29,Transport,30,4.285714,128.571429
+2022-08-29,Vessels,0,0.0,0.0
+2022-09-05,Airplanes,3,0.428571,12.857143
+2022-09-05,"Ambulances, medical vehicles",2,0.285714,8.571429
+2022-09-05,Anti-aircraft systems,6,0.857143,25.714286
+2022-09-05,Anti-tank systems,2,0.285714,8.571429
+2022-09-05,"Command posts, communication",18,2.571429,77.142857
+2022-09-05,Drones,1,0.142857,4.285714
+2022-09-05,Engineering,13,1.857143,55.714286
+2022-09-05,Helicopters,0,0.0,0.0
+2022-09-05,Infantry fighting vehicles,134,19.142857,574.285714
+2022-09-05,Infantry mobility vehicles,8,1.142857,34.285714
+2022-09-05,Other,1,0.142857,4.285714
+2022-09-05,"Radars, jammers",2,0.285714,8.571429
+2022-09-05,Rocket and missile artillery,10,1.428571,42.857143
+2022-09-05,Self-propelled artillery,20,2.857143,85.714286
+2022-09-05,Tanks,63,9.0,270.0
+2022-09-05,Towed artillery,9,1.285714,38.571429
+2022-09-05,Transport,81,11.571429,347.142857
+2022-09-05,Vessels,0,0.0,0.0
+2022-09-12,Airplanes,1,0.142857,4.285714
+2022-09-12,"Ambulances, medical vehicles",9,1.285714,38.571429
+2022-09-12,Anti-aircraft systems,3,0.428571,12.857143
+2022-09-12,Anti-tank systems,1,0.142857,4.285714
+2022-09-12,"Command posts, communication",34,4.857143,145.714286
+2022-09-12,Drones,1,0.142857,4.285714
+2022-09-12,Engineering,19,2.714286,81.428571
+2022-09-12,Helicopters,1,0.142857,4.285714
+2022-09-12,Infantry fighting vehicles,132,18.857143,565.714286
+2022-09-12,Infantry mobility vehicles,8,1.142857,34.285714
+2022-09-12,Other,3,0.428571,12.857143
+2022-09-12,"Radars, jammers",3,0.428571,12.857143
+2022-09-12,Rocket and missile artillery,8,1.142857,34.285714
+2022-09-12,Self-propelled artillery,22,3.142857,94.285714
+2022-09-12,Tanks,78,11.142857,334.285714
+2022-09-12,Towed artillery,5,0.714286,21.428571
+2022-09-12,Transport,78,11.142857,334.285714
+2022-09-12,Vessels,0,0.0,0.0
+2022-09-19,Airplanes,1,0.142857,4.285714
+2022-09-19,"Ambulances, medical vehicles",0,0.0,0.0
+2022-09-19,Anti-aircraft systems,5,0.714286,21.428571
+2022-09-19,Anti-tank systems,0,0.0,0.0
+2022-09-19,"Command posts, communication",11,1.571429,47.142857
+2022-09-19,Drones,4,0.571429,17.142857
+2022-09-19,Engineering,3,0.428571,12.857143
+2022-09-19,Helicopters,1,0.142857,4.285714
+2022-09-19,Infantry fighting vehicles,63,9.0,270.0
+2022-09-19,Infantry mobility vehicles,1,0.142857,4.285714
+2022-09-19,Other,3,0.428571,12.857143
+2022-09-19,"Radars, jammers",3,0.428571,12.857143
+2022-09-19,Rocket and missile artillery,0,0.0,0.0
+2022-09-19,Self-propelled artillery,5,0.714286,21.428571
+2022-09-19,Tanks,25,3.571429,107.142857
+2022-09-19,Towed artillery,4,0.571429,17.142857
+2022-09-19,Transport,47,6.714286,201.428571
+2022-09-19,Vessels,0,0.0,0.0
+2022-09-26,Airplanes,2,0.285714,8.571429
+2022-09-26,"Ambulances, medical vehicles",3,0.428571,12.857143
+2022-09-26,Anti-aircraft systems,4,0.571429,17.142857
+2022-09-26,Anti-tank systems,0,0.0,0.0
+2022-09-26,"Command posts, communication",9,1.285714,38.571429
+2022-09-26,Drones,3,0.428571,12.857143
+2022-09-26,Engineering,10,1.428571,42.857143
+2022-09-26,Helicopters,4,0.571429,17.142857
+2022-09-26,Infantry fighting vehicles,78,11.142857,334.285714
+2022-09-26,Infantry mobility vehicles,8,1.142857,34.285714
+2022-09-26,Other,1,0.142857,4.285714
+2022-09-26,"Radars, jammers",1,0.142857,4.285714
+2022-09-26,Rocket and missile artillery,6,0.857143,25.714286
+2022-09-26,Self-propelled artillery,7,1.0,30.0
+2022-09-26,Tanks,58,8.285714,248.571429
+2022-09-26,Towed artillery,2,0.285714,8.571429
+2022-09-26,Transport,56,8.0,240.0
+2022-09-26,Vessels,0,0.0,0.0
+2022-10-03,Airplanes,2,0.285714,8.571429
+2022-10-03,"Ambulances, medical vehicles",3,0.428571,12.857143
+2022-10-03,Anti-aircraft systems,12,1.714286,51.428571
+2022-10-03,Anti-tank systems,3,0.428571,12.857143
+2022-10-03,"Command posts, communication",2,0.285714,8.571429
+2022-10-03,Drones,6,0.857143,25.714286
+2022-10-03,Engineering,4,0.571429,17.142857
+2022-10-03,Helicopters,0,0.0,0.0
+2022-10-03,Infantry fighting vehicles,111,15.857143,475.714286
+2022-10-03,Infantry mobility vehicles,13,1.857143,55.714286
+2022-10-03,Other,0,0.0,0.0
+2022-10-03,"Radars, jammers",0,0.0,0.0
+2022-10-03,Rocket and missile artillery,8,1.142857,34.285714
+2022-10-03,Self-propelled artillery,8,1.142857,34.285714
+2022-10-03,Tanks,54,7.714286,231.428571
+2022-10-03,Towed artillery,10,1.428571,42.857143
+2022-10-03,Transport,53,7.571429,227.142857
+2022-10-03,Vessels,0,0.0,0.0
+2022-10-10,Airplanes,0,0.0,0.0
+2022-10-10,"Ambulances, medical vehicles",0,0.0,0.0
+2022-10-10,Anti-aircraft systems,5,0.714286,21.428571
+2022-10-10,Anti-tank systems,1,0.142857,4.285714
+2022-10-10,"Command posts, communication",4,0.571429,17.142857
+2022-10-10,Drones,2,0.285714,8.571429
+2022-10-10,Engineering,0,0.0,0.0
+2022-10-10,Helicopters,1,0.142857,4.285714
+2022-10-10,Infantry fighting vehicles,53,7.571429,227.142857
+2022-10-10,Infantry mobility vehicles,6,0.857143,25.714286
+2022-10-10,Other,0,0.0,0.0
+2022-10-10,"Radars, jammers",0,0.0,0.0
+2022-10-10,Rocket and missile artillery,9,1.285714,38.571429
+2022-10-10,Self-propelled artillery,13,1.857143,55.714286
+2022-10-10,Tanks,24,3.428571,102.857143
+2022-10-10,Towed artillery,2,0.285714,8.571429
+2022-10-10,Transport,35,5.0,150.0
+2022-10-10,Vessels,0,0.0,0.0
+2022-10-17,Airplanes,1,0.142857,4.285714
+2022-10-17,"Ambulances, medical vehicles",0,0.0,0.0
+2022-10-17,Anti-aircraft systems,3,0.428571,12.857143
+2022-10-17,Anti-tank systems,0,0.0,0.0
+2022-10-17,"Command posts, communication",5,0.714286,21.428571
+2022-10-17,Drones,4,0.571429,17.142857
+2022-10-17,Engineering,8,1.142857,34.285714
+2022-10-17,Helicopters,1,0.142857,4.285714
+2022-10-17,Infantry fighting vehicles,46,6.571429,197.142857
+2022-10-17,Infantry mobility vehicles,6,0.857143,25.714286
+2022-10-17,Other,0,0.0,0.0
+2022-10-17,"Radars, jammers",0,0.0,0.0
+2022-10-17,Rocket and missile artillery,2,0.285714,8.571429
+2022-10-17,Self-propelled artillery,7,1.0,30.0
+2022-10-17,Tanks,24,3.428571,102.857143
+2022-10-17,Towed artillery,7,1.0,30.0
+2022-10-17,Transport,18,2.571429,77.142857
+2022-10-17,Vessels,0,0.0,0.0
+2022-10-24,Airplanes,0,0.0,0.0
+2022-10-24,"Ambulances, medical vehicles",0,0.0,0.0
+2022-10-24,Anti-aircraft systems,2,0.285714,8.571429
+2022-10-24,Anti-tank systems,0,0.0,0.0
+2022-10-24,"Command posts, communication",3,0.428571,12.857143
+2022-10-24,Drones,0,0.0,0.0
+2022-10-24,Engineering,2,0.285714,8.571429
+2022-10-24,Helicopters,0,0.0,0.0
+2022-10-24,Infantry fighting vehicles,45,6.428571,192.857143
+2022-10-24,Infantry mobility vehicles,2,0.285714,8.571429
+2022-10-24,Other,1,0.142857,4.285714
+2022-10-24,"Radars, jammers",0,0.0,0.0
+2022-10-24,Rocket and missile artillery,6,0.857143,25.714286
+2022-10-24,Self-propelled artillery,9,1.285714,38.571429
+2022-10-24,Tanks,24,3.428571,102.857143
+2022-10-24,Towed artillery,2,0.285714,8.571429
+2022-10-24,Transport,36,5.142857,154.285714
+2022-10-24,Vessels,0,0.0,0.0
+2022-10-31,Airplanes,0,0.0,0.0
+2022-10-31,"Ambulances, medical vehicles",0,0.0,0.0
+2022-10-31,Anti-aircraft systems,0,0.0,0.0
+2022-10-31,Anti-tank systems,0,0.0,0.0
+2022-10-31,"Command posts, communication",10,1.428571,42.857143
+2022-10-31,Drones,4,0.571429,17.142857
+2022-10-31,Engineering,6,0.857143,25.714286
+2022-10-31,Helicopters,2,0.285714,8.571429
+2022-10-31,Infantry fighting vehicles,36,5.142857,154.285714
+2022-10-31,Infantry mobility vehicles,3,0.428571,12.857143
+2022-10-31,Other,1,0.142857,4.285714
+2022-10-31,"Radars, jammers",0,0.0,0.0
+2022-10-31,Rocket and missile artillery,2,0.285714,8.571429
+2022-10-31,Self-propelled artillery,0,0.0,0.0
+2022-10-31,Tanks,23,3.285714,98.571429
+2022-10-31,Towed artillery,0,0.0,0.0
+2022-10-31,Transport,34,4.857143,145.714286
+2022-10-31,Vessels,0,0.0,0.0
+2022-11-07,Airplanes,0,0.0,0.0
+2022-11-07,"Ambulances, medical vehicles",2,0.285714,8.571429
+2022-11-07,Anti-aircraft systems,3,0.428571,12.857143
+2022-11-07,Anti-tank systems,1,0.142857,4.285714
+2022-11-07,"Command posts, communication",4,0.571429,17.142857
+2022-11-07,Drones,7,1.0,30.0
+2022-11-07,Engineering,3,0.428571,12.857143
+2022-11-07,Helicopters,0,0.0,0.0
+2022-11-07,Infantry fighting vehicles,67,9.571429,287.142857
+2022-11-07,Infantry mobility vehicles,4,0.571429,17.142857
+2022-11-07,Other,0,0.0,0.0
+2022-11-07,"Radars, jammers",4,0.571429,17.142857
+2022-11-07,Rocket and missile artillery,3,0.428571,12.857143
+2022-11-07,Self-propelled artillery,15,2.142857,64.285714
+2022-11-07,Tanks,50,7.142857,214.285714
+2022-11-07,Towed artillery,8,1.142857,34.285714
+2022-11-07,Transport,58,8.285714,248.571429
+2022-11-07,Vessels,0,0.0,0.0
+2022-11-14,Airplanes,0,0.0,0.0
+2022-11-14,"Ambulances, medical vehicles",0,0.0,0.0
+2022-11-14,Anti-aircraft systems,2,0.285714,8.571429
+2022-11-14,Anti-tank systems,2,0.285714,8.571429
+2022-11-14,"Command posts, communication",3,0.428571,12.857143
+2022-11-14,Drones,2,0.285714,8.571429
+2022-11-14,Engineering,3,0.428571,12.857143
+2022-11-14,Helicopters,0,0.0,0.0
+2022-11-14,Infantry fighting vehicles,38,5.428571,162.857143
+2022-11-14,Infantry mobility vehicles,1,0.142857,4.285714
+2022-11-14,Other,1,0.142857,4.285714
+2022-11-14,"Radars, jammers",0,0.0,0.0
+2022-11-14,Rocket and missile artillery,6,0.857143,25.714286
+2022-11-14,Self-propelled artillery,9,1.285714,38.571429
+2022-11-14,Tanks,16,2.285714,68.571429
+2022-11-14,Towed artillery,5,0.714286,21.428571
+2022-11-14,Transport,39,5.571429,167.142857
+2022-11-14,Vessels,0,0.0,0.0
+2022-11-21,Airplanes,0,0.0,0.0
+2022-11-21,"Ambulances, medical vehicles",0,0.0,0.0
+2022-11-21,Anti-aircraft systems,2,0.285714,8.571429
+2022-11-21,Anti-tank systems,0,0.0,0.0
+2022-11-21,"Command posts, communication",3,0.428571,12.857143
+2022-11-21,Drones,2,0.285714,8.571429
+2022-11-21,Engineering,3,0.428571,12.857143
+2022-11-21,Helicopters,0,0.0,0.0
+2022-11-21,Infantry fighting vehicles,21,3.0,90.0
+2022-11-21,Infantry mobility vehicles,1,0.142857,4.285714
+2022-11-21,Other,1,0.142857,4.285714
+2022-11-21,"Radars, jammers",0,0.0,0.0
+2022-11-21,Rocket and missile artillery,1,0.142857,4.285714
+2022-11-21,Self-propelled artillery,0,0.0,0.0
+2022-11-21,Tanks,11,1.571429,47.142857
+2022-11-21,Towed artillery,2,0.285714,8.571429
+2022-11-21,Transport,19,2.714286,81.428571
+2022-11-21,Vessels,0,0.0,0.0
+2022-11-28,Airplanes,4,0.571429,17.142857
+2022-11-28,"Ambulances, medical vehicles",3,0.428571,12.857143
+2022-11-28,Anti-aircraft systems,6,0.857143,25.714286
+2022-11-28,Anti-tank systems,2,0.285714,8.571429
+2022-11-28,"Command posts, communication",13,1.857143,55.714286
+2022-11-28,Drones,4,0.571429,17.142857
+2022-11-28,Engineering,5,0.714286,21.428571
+2022-11-28,Helicopters,1,0.142857,4.285714
+2022-11-28,Infantry fighting vehicles,105,15.0,450.0
+2022-11-28,Infantry mobility vehicles,5,0.714286,21.428571
+2022-11-28,Other,1,0.142857,4.285714
+2022-11-28,"Radars, jammers",1,0.142857,4.285714
+2022-11-28,Rocket and missile artillery,3,0.428571,12.857143
+2022-11-28,Self-propelled artillery,15,2.142857,64.285714
+2022-11-28,Tanks,38,5.428571,162.857143
+2022-11-28,Towed artillery,9,1.285714,38.571429
+2022-11-28,Transport,56,8.0,240.0
+2022-11-28,Vessels,0,0.0,0.0
+2022-12-05,Airplanes,2,0.285714,8.571429
+2022-12-05,"Ambulances, medical vehicles",0,0.0,0.0
+2022-12-05,Anti-aircraft systems,0,0.0,0.0
+2022-12-05,Anti-tank systems,0,0.0,0.0
+2022-12-05,"Command posts, communication",2,0.285714,8.571429
+2022-12-05,Drones,2,0.285714,8.571429
+2022-12-05,Engineering,1,0.142857,4.285714
+2022-12-05,Helicopters,0,0.0,0.0
+2022-12-05,Infantry fighting vehicles,22,3.142857,94.285714
+2022-12-05,Infantry mobility vehicles,4,0.571429,17.142857
+2022-12-05,Other,1,0.142857,4.285714
+2022-12-05,"Radars, jammers",1,0.142857,4.285714
+2022-12-05,Rocket and missile artillery,1,0.142857,4.285714
+2022-12-05,Self-propelled artillery,3,0.428571,12.857143
+2022-12-05,Tanks,16,2.285714,68.571429
+2022-12-05,Towed artillery,4,0.571429,17.142857
+2022-12-05,Transport,14,2.0,60.0
+2022-12-05,Vessels,0,0.0,0.0
+2022-12-12,Airplanes,0,0.0,0.0
+2022-12-12,"Ambulances, medical vehicles",0,0.0,0.0
+2022-12-12,Anti-aircraft systems,0,0.0,0.0
+2022-12-12,Anti-tank systems,0,0.0,0.0
+2022-12-12,"Command posts, communication",0,0.0,0.0
+2022-12-12,Drones,4,0.571429,17.142857
+2022-12-12,Engineering,2,0.285714,8.571429
+2022-12-12,Helicopters,0,0.0,0.0
+2022-12-12,Infantry fighting vehicles,14,2.0,60.0
+2022-12-12,Infantry mobility vehicles,0,0.0,0.0
+2022-12-12,Other,0,0.0,0.0
+2022-12-12,"Radars, jammers",0,0.0,0.0
+2022-12-12,Rocket and missile artillery,0,0.0,0.0
+2022-12-12,Self-propelled artillery,2,0.285714,8.571429
+2022-12-12,Tanks,9,1.285714,38.571429
+2022-12-12,Towed artillery,0,0.0,0.0
+2022-12-12,Transport,14,2.0,60.0
+2022-12-12,Vessels,0,0.0,0.0
+2022-12-19,Airplanes,0,0.0,0.0
+2022-12-19,"Ambulances, medical vehicles",0,0.0,0.0
+2022-12-19,Anti-aircraft systems,3,0.428571,12.857143
+2022-12-19,Anti-tank systems,0,0.0,0.0
+2022-12-19,"Command posts, communication",0,0.0,0.0
+2022-12-19,Drones,1,0.142857,4.285714
+2022-12-19,Engineering,1,0.142857,4.285714
+2022-12-19,Helicopters,1,0.142857,4.285714
+2022-12-19,Infantry fighting vehicles,8,1.142857,34.285714
+2022-12-19,Infantry mobility vehicles,2,0.285714,8.571429
+2022-12-19,Other,0,0.0,0.0
+2022-12-19,"Radars, jammers",0,0.0,0.0
+2022-12-19,Rocket and missile artillery,2,0.285714,8.571429
+2022-12-19,Self-propelled artillery,3,0.428571,12.857143
+2022-12-19,Tanks,9,1.285714,38.571429
+2022-12-19,Towed artillery,1,0.142857,4.285714
+2022-12-19,Transport,6,0.857143,25.714286
+2022-12-19,Vessels,0,0.0,0.0
+2022-12-26,Airplanes,0,0.0,0.0
+2022-12-26,"Ambulances, medical vehicles",0,0.0,0.0
+2022-12-26,Anti-aircraft systems,1,0.142857,4.285714
+2022-12-26,Anti-tank systems,0,0.0,0.0
+2022-12-26,"Command posts, communication",1,0.142857,4.285714
+2022-12-26,Drones,3,0.428571,12.857143
+2022-12-26,Engineering,1,0.142857,4.285714
+2022-12-26,Helicopters,0,0.0,0.0
+2022-12-26,Infantry fighting vehicles,42,6.0,180.0
+2022-12-26,Infantry mobility vehicles,1,0.142857,4.285714
+2022-12-26,Other,0,0.0,0.0
+2022-12-26,"Radars, jammers",1,0.142857,4.285714
+2022-12-26,Rocket and missile artillery,3,0.428571,12.857143
+2022-12-26,Self-propelled artillery,5,0.714286,21.428571
+2022-12-26,Tanks,10,1.428571,42.857143
+2022-12-26,Towed artillery,1,0.142857,4.285714
+2022-12-26,Transport,20,2.857143,85.714286
+2022-12-26,Vessels,0,0.0,0.0
+2023-01-02,Airplanes,1,0.142857,4.285714
+2023-01-02,"Ambulances, medical vehicles",0,0.0,0.0
+2023-01-02,Anti-aircraft systems,3,0.428571,12.857143
+2023-01-02,Anti-tank systems,0,0.0,0.0
+2023-01-02,"Command posts, communication",2,0.285714,8.571429
+2023-01-02,Drones,2,0.285714,8.571429
+2023-01-02,Engineering,0,0.0,0.0
+2023-01-02,Helicopters,0,0.0,0.0
+2023-01-02,Infantry fighting vehicles,16,2.285714,68.571429
+2023-01-02,Infantry mobility vehicles,2,0.285714,8.571429
+2023-01-02,Other,0,0.0,0.0
+2023-01-02,"Radars, jammers",0,0.0,0.0
+2023-01-02,Rocket and missile artillery,1,0.142857,4.285714
+2023-01-02,Self-propelled artillery,3,0.428571,12.857143
+2023-01-02,Tanks,9,1.285714,38.571429
+2023-01-02,Towed artillery,0,0.0,0.0
+2023-01-02,Transport,15,2.142857,64.285714
+2023-01-02,Vessels,0,0.0,0.0
+2023-01-09,Airplanes,0,0.0,0.0
+2023-01-09,"Ambulances, medical vehicles",0,0.0,0.0
+2023-01-09,Anti-aircraft systems,2,0.285714,8.571429
+2023-01-09,Anti-tank systems,0,0.0,0.0
+2023-01-09,"Command posts, communication",2,0.285714,8.571429
+2023-01-09,Drones,2,0.285714,8.571429
+2023-01-09,Engineering,2,0.285714,8.571429
+2023-01-09,Helicopters,0,0.0,0.0
+2023-01-09,Infantry fighting vehicles,20,2.857143,85.714286
+2023-01-09,Infantry mobility vehicles,1,0.142857,4.285714
+2023-01-09,Other,0,0.0,0.0
+2023-01-09,"Radars, jammers",1,0.142857,4.285714
+2023-01-09,Rocket and missile artillery,0,0.0,0.0
+2023-01-09,Self-propelled artillery,5,0.714286,21.428571
+2023-01-09,Tanks,11,1.571429,47.142857
+2023-01-09,Towed artillery,0,0.0,0.0
+2023-01-09,Transport,14,2.0,60.0
+2023-01-09,Vessels,0,0.0,0.0
+2023-01-16,Airplanes,0,0.0,0.0
+2023-01-16,"Ambulances, medical vehicles",0,0.0,0.0
+2023-01-16,Anti-aircraft systems,0,0.0,0.0
+2023-01-16,Anti-tank systems,0,0.0,0.0
+2023-01-16,"Command posts, communication",1,0.142857,4.285714
+2023-01-16,Drones,2,0.285714,8.571429
+2023-01-16,Engineering,1,0.142857,4.285714
+2023-01-16,Helicopters,0,0.0,0.0
+2023-01-16,Infantry fighting vehicles,14,2.0,60.0
+2023-01-16,Infantry mobility vehicles,1,0.142857,4.285714
+2023-01-16,Other,0,0.0,0.0
+2023-01-16,"Radars, jammers",0,0.0,0.0
+2023-01-16,Rocket and missile artillery,2,0.285714,8.571429
+2023-01-16,Self-propelled artillery,5,0.714286,21.428571
+2023-01-16,Tanks,8,1.142857,34.285714
+2023-01-16,Towed artillery,3,0.428571,12.857143
+2023-01-16,Transport,13,1.857143,55.714286
+2023-01-16,Vessels,0,0.0,0.0
+2023-01-23,Airplanes,0,0.0,0.0
+2023-01-23,"Ambulances, medical vehicles",0,0.0,0.0
+2023-01-23,Anti-aircraft systems,0,0.0,0.0
+2023-01-23,Anti-tank systems,2,0.285714,8.571429
+2023-01-23,"Command posts, communication",3,0.428571,12.857143
+2023-01-23,Drones,1,0.142857,4.285714
+2023-01-23,Engineering,1,0.142857,4.285714
+2023-01-23,Helicopters,0,0.0,0.0
+2023-01-23,Infantry fighting vehicles,26,3.714286,111.428571
+2023-01-23,Infantry mobility vehicles,2,0.285714,8.571429
+2023-01-23,Other,0,0.0,0.0
+2023-01-23,"Radars, jammers",1,0.142857,4.285714
+2023-01-23,Rocket and missile artillery,1,0.142857,4.285714
+2023-01-23,Self-propelled artillery,10,1.428571,42.857143
+2023-01-23,Tanks,13,1.857143,55.714286
+2023-01-23,Towed artillery,2,0.285714,8.571429
+2023-01-23,Transport,4,0.571429,17.142857
+2023-01-23,Vessels,0,0.0,0.0
+2023-01-30,Airplanes,0,0.0,0.0
+2023-01-30,"Ambulances, medical vehicles",0,0.0,0.0
+2023-01-30,Anti-aircraft systems,2,0.285714,8.571429
+2023-01-30,Anti-tank systems,0,0.0,0.0
+2023-01-30,"Command posts, communication",0,0.0,0.0
+2023-01-30,Drones,4,0.571429,17.142857
+2023-01-30,Engineering,0,0.0,0.0
+2023-01-30,Helicopters,0,0.0,0.0
+2023-01-30,Infantry fighting vehicles,21,3.0,90.0
+2023-01-30,Infantry mobility vehicles,6,0.857143,25.714286
+2023-01-30,Other,0,0.0,0.0
+2023-01-30,"Radars, jammers",1,0.142857,4.285714
+2023-01-30,Rocket and missile artillery,1,0.142857,4.285714
+2023-01-30,Self-propelled artillery,8,1.142857,34.285714
+2023-01-30,Tanks,13,1.857143,55.714286
+2023-01-30,Towed artillery,3,0.428571,12.857143
+2023-01-30,Transport,10,1.428571,42.857143
+2023-01-30,Vessels,0,0.0,0.0
+2023-02-06,Airplanes,1,0.142857,4.285714
+2023-02-06,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-02-06,Anti-aircraft systems,3,0.428571,12.857143
+2023-02-06,Anti-tank systems,0,0.0,0.0
+2023-02-06,"Command posts, communication",0,0.0,0.0
+2023-02-06,Drones,4,0.571429,17.142857
+2023-02-06,Engineering,8,1.142857,34.285714
+2023-02-06,Helicopters,1,0.142857,4.285714
+2023-02-06,Infantry fighting vehicles,43,6.142857,184.285714
+2023-02-06,Infantry mobility vehicles,0,0.0,0.0
+2023-02-06,Other,0,0.0,0.0
+2023-02-06,"Radars, jammers",0,0.0,0.0
+2023-02-06,Rocket and missile artillery,3,0.428571,12.857143
+2023-02-06,Self-propelled artillery,9,1.285714,38.571429
+2023-02-06,Tanks,20,2.857143,85.714286
+2023-02-06,Towed artillery,3,0.428571,12.857143
+2023-02-06,Transport,17,2.428571,72.857143
+2023-02-06,Vessels,0,0.0,0.0
+2023-02-13,Airplanes,1,0.142857,4.285714
+2023-02-13,"Ambulances, medical vehicles",0,0.0,0.0
+2023-02-13,Anti-aircraft systems,3,0.428571,12.857143
+2023-02-13,Anti-tank systems,1,0.142857,4.285714
+2023-02-13,"Command posts, communication",0,0.0,0.0
+2023-02-13,Drones,0,0.0,0.0
+2023-02-13,Engineering,1,0.142857,4.285714
+2023-02-13,Helicopters,0,0.0,0.0
+2023-02-13,Infantry fighting vehicles,25,3.571429,107.142857
+2023-02-13,Infantry mobility vehicles,3,0.428571,12.857143
+2023-02-13,Other,0,0.0,0.0
+2023-02-13,"Radars, jammers",1,0.142857,4.285714
+2023-02-13,Rocket and missile artillery,5,0.714286,21.428571
+2023-02-13,Self-propelled artillery,2,0.285714,8.571429
+2023-02-13,Tanks,22,3.142857,94.285714
+2023-02-13,Towed artillery,1,0.142857,4.285714
+2023-02-13,Transport,4,0.571429,17.142857
+2023-02-13,Vessels,0,0.0,0.0
+2023-02-20,Airplanes,1,0.142857,4.285714
+2023-02-20,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-02-20,Anti-aircraft systems,2,0.285714,8.571429
+2023-02-20,Anti-tank systems,0,0.0,0.0
+2023-02-20,"Command posts, communication",0,0.0,0.0
+2023-02-20,Drones,2,0.285714,8.571429
+2023-02-20,Engineering,0,0.0,0.0
+2023-02-20,Helicopters,0,0.0,0.0
+2023-02-20,Infantry fighting vehicles,36,5.142857,154.285714
+2023-02-20,Infantry mobility vehicles,2,0.285714,8.571429
+2023-02-20,Other,0,0.0,0.0
+2023-02-20,"Radars, jammers",2,0.285714,8.571429
+2023-02-20,Rocket and missile artillery,2,0.285714,8.571429
+2023-02-20,Self-propelled artillery,3,0.428571,12.857143
+2023-02-20,Tanks,17,2.428571,72.857143
+2023-02-20,Towed artillery,5,0.714286,21.428571
+2023-02-20,Transport,4,0.571429,17.142857
+2023-02-20,Vessels,0,0.0,0.0
+2023-02-27,Airplanes,2,0.285714,8.571429
+2023-02-27,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-02-27,Anti-aircraft systems,2,0.285714,8.571429
+2023-02-27,Anti-tank systems,0,0.0,0.0
+2023-02-27,"Command posts, communication",6,0.857143,25.714286
+2023-02-27,Drones,2,0.285714,8.571429
+2023-02-27,Engineering,3,0.428571,12.857143
+2023-02-27,Helicopters,0,0.0,0.0
+2023-02-27,Infantry fighting vehicles,58,8.285714,248.571429
+2023-02-27,Infantry mobility vehicles,2,0.285714,8.571429
+2023-02-27,Other,1,0.142857,4.285714
+2023-02-27,"Radars, jammers",0,0.0,0.0
+2023-02-27,Rocket and missile artillery,5,0.714286,21.428571
+2023-02-27,Self-propelled artillery,6,0.857143,25.714286
+2023-02-27,Tanks,33,4.714286,141.428571
+2023-02-27,Towed artillery,6,0.857143,25.714286
+2023-02-27,Transport,15,2.142857,64.285714
+2023-02-27,Vessels,0,0.0,0.0
+2023-03-06,Airplanes,0,0.0,0.0
+2023-03-06,"Ambulances, medical vehicles",0,0.0,0.0
+2023-03-06,Anti-aircraft systems,4,0.571429,17.142857
+2023-03-06,Anti-tank systems,0,0.0,0.0
+2023-03-06,"Command posts, communication",0,0.0,0.0
+2023-03-06,Drones,3,0.428571,12.857143
+2023-03-06,Engineering,1,0.142857,4.285714
+2023-03-06,Helicopters,0,0.0,0.0
+2023-03-06,Infantry fighting vehicles,26,3.714286,111.428571
+2023-03-06,Infantry mobility vehicles,2,0.285714,8.571429
+2023-03-06,Other,0,0.0,0.0
+2023-03-06,"Radars, jammers",2,0.285714,8.571429
+2023-03-06,Rocket and missile artillery,0,0.0,0.0
+2023-03-06,Self-propelled artillery,2,0.285714,8.571429
+2023-03-06,Tanks,8,1.142857,34.285714
+2023-03-06,Towed artillery,1,0.142857,4.285714
+2023-03-06,Transport,8,1.142857,34.285714
+2023-03-06,Vessels,0,0.0,0.0
+2023-03-13,Airplanes,1,0.142857,4.285714
+2023-03-13,"Ambulances, medical vehicles",0,0.0,0.0
+2023-03-13,Anti-aircraft systems,2,0.285714,8.571429
+2023-03-13,Anti-tank systems,0,0.0,0.0
+2023-03-13,"Command posts, communication",3,0.428571,12.857143
+2023-03-13,Drones,2,0.285714,8.571429
+2023-03-13,Engineering,1,0.142857,4.285714
+2023-03-13,Helicopters,1,0.142857,4.285714
+2023-03-13,Infantry fighting vehicles,26,3.714286,111.428571
+2023-03-13,Infantry mobility vehicles,1,0.142857,4.285714
+2023-03-13,Other,0,0.0,0.0
+2023-03-13,"Radars, jammers",0,0.0,0.0
+2023-03-13,Rocket and missile artillery,5,0.714286,21.428571
+2023-03-13,Self-propelled artillery,2,0.285714,8.571429
+2023-03-13,Tanks,27,3.857143,115.714286
+2023-03-13,Towed artillery,0,0.0,0.0
+2023-03-13,Transport,9,1.285714,38.571429
+2023-03-13,Vessels,0,0.0,0.0
+2023-03-20,Airplanes,0,0.0,0.0
+2023-03-20,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-03-20,Anti-aircraft systems,3,0.428571,12.857143
+2023-03-20,Anti-tank systems,0,0.0,0.0
+2023-03-20,"Command posts, communication",2,0.285714,8.571429
+2023-03-20,Drones,4,0.571429,17.142857
+2023-03-20,Engineering,2,0.285714,8.571429
+2023-03-20,Helicopters,0,0.0,0.0
+2023-03-20,Infantry fighting vehicles,28,4.0,120.0
+2023-03-20,Infantry mobility vehicles,0,0.0,0.0
+2023-03-20,Other,0,0.0,0.0
+2023-03-20,"Radars, jammers",6,0.857143,25.714286
+2023-03-20,Rocket and missile artillery,5,0.714286,21.428571
+2023-03-20,Self-propelled artillery,4,0.571429,17.142857
+2023-03-20,Tanks,18,2.571429,77.142857
+2023-03-20,Towed artillery,1,0.142857,4.285714
+2023-03-20,Transport,12,1.714286,51.428571
+2023-03-20,Vessels,0,0.0,0.0
+2023-03-27,Airplanes,1,0.142857,4.285714
+2023-03-27,"Ambulances, medical vehicles",0,0.0,0.0
+2023-03-27,Anti-aircraft systems,0,0.0,0.0
+2023-03-27,Anti-tank systems,1,0.142857,4.285714
+2023-03-27,"Command posts, communication",1,0.142857,4.285714
+2023-03-27,Drones,2,0.285714,8.571429
+2023-03-27,Engineering,0,0.0,0.0
+2023-03-27,Helicopters,0,0.0,0.0
+2023-03-27,Infantry fighting vehicles,19,2.714286,81.428571
+2023-03-27,Infantry mobility vehicles,0,0.0,0.0
+2023-03-27,Other,0,0.0,0.0
+2023-03-27,"Radars, jammers",0,0.0,0.0
+2023-03-27,Rocket and missile artillery,4,0.571429,17.142857
+2023-03-27,Self-propelled artillery,5,0.714286,21.428571
+2023-03-27,Tanks,11,1.571429,47.142857
+2023-03-27,Towed artillery,0,0.0,0.0
+2023-03-27,Transport,21,3.0,90.0
+2023-03-27,Vessels,0,0.0,0.0
+2023-04-03,Airplanes,1,0.142857,4.285714
+2023-04-03,"Ambulances, medical vehicles",0,0.0,0.0
+2023-04-03,Anti-aircraft systems,2,0.285714,8.571429
+2023-04-03,Anti-tank systems,0,0.0,0.0
+2023-04-03,"Command posts, communication",0,0.0,0.0
+2023-04-03,Drones,3,0.428571,12.857143
+2023-04-03,Engineering,0,0.0,0.0
+2023-04-03,Helicopters,1,0.142857,4.285714
+2023-04-03,Infantry fighting vehicles,22,3.142857,94.285714
+2023-04-03,Infantry mobility vehicles,1,0.142857,4.285714
+2023-04-03,Other,1,0.142857,4.285714
+2023-04-03,"Radars, jammers",0,0.0,0.0
+2023-04-03,Rocket and missile artillery,1,0.142857,4.285714
+2023-04-03,Self-propelled artillery,8,1.142857,34.285714
+2023-04-03,Tanks,6,0.857143,25.714286
+2023-04-03,Towed artillery,2,0.285714,8.571429
+2023-04-03,Transport,4,0.571429,17.142857
+2023-04-03,Vessels,0,0.0,0.0
+2023-04-10,Airplanes,0,0.0,0.0
+2023-04-10,"Ambulances, medical vehicles",0,0.0,0.0
+2023-04-10,Anti-aircraft systems,3,0.428571,12.857143
+2023-04-10,Anti-tank systems,0,0.0,0.0
+2023-04-10,"Command posts, communication",0,0.0,0.0
+2023-04-10,Drones,2,0.285714,8.571429
+2023-04-10,Engineering,0,0.0,0.0
+2023-04-10,Helicopters,1,0.142857,4.285714
+2023-04-10,Infantry fighting vehicles,9,1.285714,38.571429
+2023-04-10,Infantry mobility vehicles,4,0.571429,17.142857
+2023-04-10,Other,0,0.0,0.0
+2023-04-10,"Radars, jammers",2,0.285714,8.571429
+2023-04-10,Rocket and missile artillery,1,0.142857,4.285714
+2023-04-10,Self-propelled artillery,0,0.0,0.0
+2023-04-10,Tanks,7,1.0,30.0
+2023-04-10,Towed artillery,3,0.428571,12.857143
+2023-04-10,Transport,11,1.571429,47.142857
+2023-04-10,Vessels,0,0.0,0.0
+2023-04-17,Airplanes,0,0.0,0.0
+2023-04-17,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-04-17,Anti-aircraft systems,0,0.0,0.0
+2023-04-17,Anti-tank systems,0,0.0,0.0
+2023-04-17,"Command posts, communication",2,0.285714,8.571429
+2023-04-17,Drones,3,0.428571,12.857143
+2023-04-17,Engineering,1,0.142857,4.285714
+2023-04-17,Helicopters,0,0.0,0.0
+2023-04-17,Infantry fighting vehicles,18,2.571429,77.142857
+2023-04-17,Infantry mobility vehicles,0,0.0,0.0
+2023-04-17,Other,0,0.0,0.0
+2023-04-17,"Radars, jammers",0,0.0,0.0
+2023-04-17,Rocket and missile artillery,1,0.142857,4.285714
+2023-04-17,Self-propelled artillery,2,0.285714,8.571429
+2023-04-17,Tanks,8,1.142857,34.285714
+2023-04-17,Towed artillery,1,0.142857,4.285714
+2023-04-17,Transport,7,1.0,30.0
+2023-04-17,Vessels,0,0.0,0.0
+2023-04-24,Airplanes,0,0.0,0.0
+2023-04-24,"Ambulances, medical vehicles",0,0.0,0.0
+2023-04-24,Anti-aircraft systems,5,0.714286,21.428571
+2023-04-24,Anti-tank systems,0,0.0,0.0
+2023-04-24,"Command posts, communication",1,0.142857,4.285714
+2023-04-24,Drones,6,0.857143,25.714286
+2023-04-24,Engineering,2,0.285714,8.571429
+2023-04-24,Helicopters,1,0.142857,4.285714
+2023-04-24,Infantry fighting vehicles,29,4.142857,124.285714
+2023-04-24,Infantry mobility vehicles,0,0.0,0.0
+2023-04-24,Other,0,0.0,0.0
+2023-04-24,"Radars, jammers",2,0.285714,8.571429
+2023-04-24,Rocket and missile artillery,2,0.285714,8.571429
+2023-04-24,Self-propelled artillery,1,0.142857,4.285714
+2023-04-24,Tanks,14,2.0,60.0
+2023-04-24,Towed artillery,0,0.0,0.0
+2023-04-24,Transport,10,1.428571,42.857143
+2023-04-24,Vessels,0,0.0,0.0
+2023-05-01,Airplanes,0,0.0,0.0
+2023-05-01,"Ambulances, medical vehicles",0,0.0,0.0
+2023-05-01,Anti-aircraft systems,2,0.285714,8.571429
+2023-05-01,Anti-tank systems,2,0.285714,8.571429
+2023-05-01,"Command posts, communication",1,0.142857,4.285714
+2023-05-01,Drones,5,0.714286,21.428571
+2023-05-01,Engineering,1,0.142857,4.285714
+2023-05-01,Helicopters,0,0.0,0.0
+2023-05-01,Infantry fighting vehicles,17,2.428571,72.857143
+2023-05-01,Infantry mobility vehicles,0,0.0,0.0
+2023-05-01,Other,0,0.0,0.0
+2023-05-01,"Radars, jammers",0,0.0,0.0
+2023-05-01,Rocket and missile artillery,5,0.714286,21.428571
+2023-05-01,Self-propelled artillery,2,0.285714,8.571429
+2023-05-01,Tanks,12,1.714286,51.428571
+2023-05-01,Towed artillery,2,0.285714,8.571429
+2023-05-01,Transport,8,1.142857,34.285714
+2023-05-01,Vessels,0,0.0,0.0
+2023-05-08,Airplanes,2,0.285714,8.571429
+2023-05-08,"Ambulances, medical vehicles",0,0.0,0.0
+2023-05-08,Anti-aircraft systems,4,0.571429,17.142857
+2023-05-08,Anti-tank systems,0,0.0,0.0
+2023-05-08,"Command posts, communication",1,0.142857,4.285714
+2023-05-08,Drones,7,1.0,30.0
+2023-05-08,Engineering,1,0.142857,4.285714
+2023-05-08,Helicopters,3,0.428571,12.857143
+2023-05-08,Infantry fighting vehicles,19,2.714286,81.428571
+2023-05-08,Infantry mobility vehicles,0,0.0,0.0
+2023-05-08,Other,0,0.0,0.0
+2023-05-08,"Radars, jammers",0,0.0,0.0
+2023-05-08,Rocket and missile artillery,1,0.142857,4.285714
+2023-05-08,Self-propelled artillery,1,0.142857,4.285714
+2023-05-08,Tanks,4,0.571429,17.142857
+2023-05-08,Towed artillery,7,1.0,30.0
+2023-05-08,Transport,6,0.857143,25.714286
+2023-05-08,Vessels,0,0.0,0.0
+2023-05-15,Airplanes,0,0.0,0.0
+2023-05-15,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-05-15,Anti-aircraft systems,2,0.285714,8.571429
+2023-05-15,Anti-tank systems,0,0.0,0.0
+2023-05-15,"Command posts, communication",2,0.285714,8.571429
+2023-05-15,Drones,7,1.0,30.0
+2023-05-15,Engineering,2,0.285714,8.571429
+2023-05-15,Helicopters,0,0.0,0.0
+2023-05-15,Infantry fighting vehicles,19,2.714286,81.428571
+2023-05-15,Infantry mobility vehicles,5,0.714286,21.428571
+2023-05-15,Other,0,0.0,0.0
+2023-05-15,"Radars, jammers",0,0.0,0.0
+2023-05-15,Rocket and missile artillery,1,0.142857,4.285714
+2023-05-15,Self-propelled artillery,5,0.714286,21.428571
+2023-05-15,Tanks,18,2.571429,77.142857
+2023-05-15,Towed artillery,1,0.142857,4.285714
+2023-05-15,Transport,9,1.285714,38.571429
+2023-05-15,Vessels,0,0.0,0.0
+2023-05-22,Airplanes,0,0.0,0.0
+2023-05-22,"Ambulances, medical vehicles",0,0.0,0.0
+2023-05-22,Anti-aircraft systems,2,0.285714,8.571429
+2023-05-22,Anti-tank systems,0,0.0,0.0
+2023-05-22,"Command posts, communication",0,0.0,0.0
+2023-05-22,Drones,2,0.285714,8.571429
+2023-05-22,Engineering,2,0.285714,8.571429
+2023-05-22,Helicopters,1,0.142857,4.285714
+2023-05-22,Infantry fighting vehicles,18,2.571429,77.142857
+2023-05-22,Infantry mobility vehicles,2,0.285714,8.571429
+2023-05-22,Other,0,0.0,0.0
+2023-05-22,"Radars, jammers",1,0.142857,4.285714
+2023-05-22,Rocket and missile artillery,1,0.142857,4.285714
+2023-05-22,Self-propelled artillery,4,0.571429,17.142857
+2023-05-22,Tanks,9,1.285714,38.571429
+2023-05-22,Towed artillery,8,1.142857,34.285714
+2023-05-22,Transport,23,3.285714,98.571429
+2023-05-22,Vessels,0,0.0,0.0
+2023-05-29,Airplanes,0,0.0,0.0
+2023-05-29,"Ambulances, medical vehicles",0,0.0,0.0
+2023-05-29,Anti-aircraft systems,5,0.714286,21.428571
+2023-05-29,Anti-tank systems,0,0.0,0.0
+2023-05-29,"Command posts, communication",0,0.0,0.0
+2023-05-29,Drones,1,0.142857,4.285714
+2023-05-29,Engineering,1,0.142857,4.285714
+2023-05-29,Helicopters,0,0.0,0.0
+2023-05-29,Infantry fighting vehicles,35,5.0,150.0
+2023-05-29,Infantry mobility vehicles,1,0.142857,4.285714
+2023-05-29,Other,2,0.285714,8.571429
+2023-05-29,"Radars, jammers",2,0.285714,8.571429
+2023-05-29,Rocket and missile artillery,1,0.142857,4.285714
+2023-05-29,Self-propelled artillery,4,0.571429,17.142857
+2023-05-29,Tanks,15,2.142857,64.285714
+2023-05-29,Towed artillery,2,0.285714,8.571429
+2023-05-29,Transport,17,2.428571,72.857143
+2023-05-29,Vessels,0,0.0,0.0
+2023-06-05,Airplanes,0,0.0,0.0
+2023-06-05,"Ambulances, medical vehicles",0,0.0,0.0
+2023-06-05,Anti-aircraft systems,5,0.714286,21.428571
+2023-06-05,Anti-tank systems,0,0.0,0.0
+2023-06-05,"Command posts, communication",1,0.142857,4.285714
+2023-06-05,Drones,3,0.428571,12.857143
+2023-06-05,Engineering,0,0.0,0.0
+2023-06-05,Helicopters,0,0.0,0.0
+2023-06-05,Infantry fighting vehicles,23,3.285714,98.571429
+2023-06-05,Infantry mobility vehicles,0,0.0,0.0
+2023-06-05,Other,0,0.0,0.0
+2023-06-05,"Radars, jammers",0,0.0,0.0
+2023-06-05,Rocket and missile artillery,4,0.571429,17.142857
+2023-06-05,Self-propelled artillery,8,1.142857,34.285714
+2023-06-05,Tanks,16,2.285714,68.571429
+2023-06-05,Towed artillery,5,0.714286,21.428571
+2023-06-05,Transport,9,1.285714,38.571429
+2023-06-05,Vessels,0,0.0,0.0
+2023-06-12,Airplanes,0,0.0,0.0
+2023-06-12,"Ambulances, medical vehicles",0,0.0,0.0
+2023-06-12,Anti-aircraft systems,4,0.571429,17.142857
+2023-06-12,Anti-tank systems,0,0.0,0.0
+2023-06-12,"Command posts, communication",0,0.0,0.0
+2023-06-12,Drones,4,0.571429,17.142857
+2023-06-12,Engineering,4,0.571429,17.142857
+2023-06-12,Helicopters,0,0.0,0.0
+2023-06-12,Infantry fighting vehicles,28,4.0,120.0
+2023-06-12,Infantry mobility vehicles,1,0.142857,4.285714
+2023-06-12,Other,0,0.0,0.0
+2023-06-12,"Radars, jammers",2,0.285714,8.571429
+2023-06-12,Rocket and missile artillery,1,0.142857,4.285714
+2023-06-12,Self-propelled artillery,13,1.857143,55.714286
+2023-06-12,Tanks,22,3.142857,94.285714
+2023-06-12,Towed artillery,2,0.285714,8.571429
+2023-06-12,Transport,17,2.428571,72.857143
+2023-06-12,Vessels,0,0.0,0.0
+2023-06-19,Airplanes,1,0.142857,4.285714
+2023-06-19,"Ambulances, medical vehicles",0,0.0,0.0
+2023-06-19,Anti-aircraft systems,1,0.142857,4.285714
+2023-06-19,Anti-tank systems,0,0.0,0.0
+2023-06-19,"Command posts, communication",1,0.142857,4.285714
+2023-06-19,Drones,5,0.714286,21.428571
+2023-06-19,Engineering,2,0.285714,8.571429
+2023-06-19,Helicopters,5,0.714286,21.428571
+2023-06-19,Infantry fighting vehicles,20,2.857143,85.714286
+2023-06-19,Infantry mobility vehicles,2,0.285714,8.571429
+2023-06-19,Other,1,0.142857,4.285714
+2023-06-19,"Radars, jammers",2,0.285714,8.571429
+2023-06-19,Rocket and missile artillery,7,1.0,30.0
+2023-06-19,Self-propelled artillery,3,0.428571,12.857143
+2023-06-19,Tanks,9,1.285714,38.571429
+2023-06-19,Towed artillery,8,1.142857,34.285714
+2023-06-19,Transport,23,3.285714,98.571429
+2023-06-19,Vessels,0,0.0,0.0
+2023-06-26,Airplanes,0,0.0,0.0
+2023-06-26,"Ambulances, medical vehicles",0,0.0,0.0
+2023-06-26,Anti-aircraft systems,3,0.428571,12.857143
+2023-06-26,Anti-tank systems,0,0.0,0.0
+2023-06-26,"Command posts, communication",1,0.142857,4.285714
+2023-06-26,Drones,5,0.714286,21.428571
+2023-06-26,Engineering,1,0.142857,4.285714
+2023-06-26,Helicopters,0,0.0,0.0
+2023-06-26,Infantry fighting vehicles,20,2.857143,85.714286
+2023-06-26,Infantry mobility vehicles,4,0.571429,17.142857
+2023-06-26,Other,1,0.142857,4.285714
+2023-06-26,"Radars, jammers",2,0.285714,8.571429
+2023-06-26,Rocket and missile artillery,3,0.428571,12.857143
+2023-06-26,Self-propelled artillery,3,0.428571,12.857143
+2023-06-26,Tanks,21,3.0,90.0
+2023-06-26,Towed artillery,2,0.285714,8.571429
+2023-06-26,Transport,13,1.857143,55.714286
+2023-06-26,Vessels,0,0.0,0.0
+2023-07-03,Airplanes,0,0.0,0.0
+2023-07-03,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-07-03,Anti-aircraft systems,5,0.714286,21.428571
+2023-07-03,Anti-tank systems,0,0.0,0.0
+2023-07-03,"Command posts, communication",0,0.0,0.0
+2023-07-03,Drones,6,0.857143,25.714286
+2023-07-03,Engineering,2,0.285714,8.571429
+2023-07-03,Helicopters,0,0.0,0.0
+2023-07-03,Infantry fighting vehicles,27,3.857143,115.714286
+2023-07-03,Infantry mobility vehicles,0,0.0,0.0
+2023-07-03,Other,0,0.0,0.0
+2023-07-03,"Radars, jammers",2,0.285714,8.571429
+2023-07-03,Rocket and missile artillery,11,1.571429,47.142857
+2023-07-03,Self-propelled artillery,9,1.285714,38.571429
+2023-07-03,Tanks,15,2.142857,64.285714
+2023-07-03,Towed artillery,7,1.0,30.0
+2023-07-03,Transport,7,1.0,30.0
+2023-07-03,Vessels,0,0.0,0.0
+2023-07-10,Airplanes,0,0.0,0.0
+2023-07-10,"Ambulances, medical vehicles",0,0.0,0.0
+2023-07-10,Anti-aircraft systems,5,0.714286,21.428571
+2023-07-10,Anti-tank systems,0,0.0,0.0
+2023-07-10,"Command posts, communication",0,0.0,0.0
+2023-07-10,Drones,3,0.428571,12.857143
+2023-07-10,Engineering,2,0.285714,8.571429
+2023-07-10,Helicopters,0,0.0,0.0
+2023-07-10,Infantry fighting vehicles,27,3.857143,115.714286
+2023-07-10,Infantry mobility vehicles,0,0.0,0.0
+2023-07-10,Other,1,0.142857,4.285714
+2023-07-10,"Radars, jammers",4,0.571429,17.142857
+2023-07-10,Rocket and missile artillery,4,0.571429,17.142857
+2023-07-10,Self-propelled artillery,10,1.428571,42.857143
+2023-07-10,Tanks,16,2.285714,68.571429
+2023-07-10,Towed artillery,2,0.285714,8.571429
+2023-07-10,Transport,13,1.857143,55.714286
+2023-07-10,Vessels,0,0.0,0.0
+2023-07-17,Airplanes,1,0.142857,4.285714
+2023-07-17,"Ambulances, medical vehicles",0,0.0,0.0
+2023-07-17,Anti-aircraft systems,3,0.428571,12.857143
+2023-07-17,Anti-tank systems,0,0.0,0.0
+2023-07-17,"Command posts, communication",2,0.285714,8.571429
+2023-07-17,Drones,6,0.857143,25.714286
+2023-07-17,Engineering,2,0.285714,8.571429
+2023-07-17,Helicopters,0,0.0,0.0
+2023-07-17,Infantry fighting vehicles,41,5.857143,175.714286
+2023-07-17,Infantry mobility vehicles,1,0.142857,4.285714
+2023-07-17,Other,0,0.0,0.0
+2023-07-17,"Radars, jammers",2,0.285714,8.571429
+2023-07-17,Rocket and missile artillery,6,0.857143,25.714286
+2023-07-17,Self-propelled artillery,12,1.714286,51.428571
+2023-07-17,Tanks,17,2.428571,72.857143
+2023-07-17,Towed artillery,1,0.142857,4.285714
+2023-07-17,Transport,11,1.571429,47.142857
+2023-07-17,Vessels,0,0.0,0.0
+2023-07-24,Airplanes,0,0.0,0.0
+2023-07-24,"Ambulances, medical vehicles",0,0.0,0.0
+2023-07-24,Anti-aircraft systems,6,0.857143,25.714286
+2023-07-24,Anti-tank systems,0,0.0,0.0
+2023-07-24,"Command posts, communication",0,0.0,0.0
+2023-07-24,Drones,3,0.428571,12.857143
+2023-07-24,Engineering,0,0.0,0.0
+2023-07-24,Helicopters,1,0.142857,4.285714
+2023-07-24,Infantry fighting vehicles,27,3.857143,115.714286
+2023-07-24,Infantry mobility vehicles,0,0.0,0.0
+2023-07-24,Other,0,0.0,0.0
+2023-07-24,"Radars, jammers",4,0.571429,17.142857
+2023-07-24,Rocket and missile artillery,3,0.428571,12.857143
+2023-07-24,Self-propelled artillery,9,1.285714,38.571429
+2023-07-24,Tanks,20,2.857143,85.714286
+2023-07-24,Towed artillery,7,1.0,30.0
+2023-07-24,Transport,13,1.857143,55.714286
+2023-07-24,Vessels,0,0.0,0.0
+2023-07-31,Airplanes,0,0.0,0.0
+2023-07-31,"Ambulances, medical vehicles",0,0.0,0.0
+2023-07-31,Anti-aircraft systems,7,1.0,30.0
+2023-07-31,Anti-tank systems,0,0.0,0.0
+2023-07-31,"Command posts, communication",1,0.142857,4.285714
+2023-07-31,Drones,1,0.142857,4.285714
+2023-07-31,Engineering,6,0.857143,25.714286
+2023-07-31,Helicopters,0,0.0,0.0
+2023-07-31,Infantry fighting vehicles,28,4.0,120.0
+2023-07-31,Infantry mobility vehicles,4,0.571429,17.142857
+2023-07-31,Other,1,0.142857,4.285714
+2023-07-31,"Radars, jammers",0,0.0,0.0
+2023-07-31,Rocket and missile artillery,1,0.142857,4.285714
+2023-07-31,Self-propelled artillery,8,1.142857,34.285714
+2023-07-31,Tanks,21,3.0,90.0
+2023-07-31,Towed artillery,4,0.571429,17.142857
+2023-07-31,Transport,9,1.285714,38.571429
+2023-07-31,Vessels,1,0.142857,4.285714
+2023-08-07,Airplanes,0,0.0,0.0
+2023-08-07,"Ambulances, medical vehicles",0,0.0,0.0
+2023-08-07,Anti-aircraft systems,2,0.285714,8.571429
+2023-08-07,Anti-tank systems,0,0.0,0.0
+2023-08-07,"Command posts, communication",1,0.142857,4.285714
+2023-08-07,Drones,4,0.571429,17.142857
+2023-08-07,Engineering,2,0.285714,8.571429
+2023-08-07,Helicopters,0,0.0,0.0
+2023-08-07,Infantry fighting vehicles,30,4.285714,128.571429
+2023-08-07,Infantry mobility vehicles,1,0.142857,4.285714
+2023-08-07,Other,0,0.0,0.0
+2023-08-07,"Radars, jammers",0,0.0,0.0
+2023-08-07,Rocket and missile artillery,2,0.285714,8.571429
+2023-08-07,Self-propelled artillery,6,0.857143,25.714286
+2023-08-07,Tanks,17,2.428571,72.857143
+2023-08-07,Towed artillery,4,0.571429,17.142857
+2023-08-07,Transport,3,0.428571,12.857143
+2023-08-07,Vessels,0,0.0,0.0
+2023-08-14,Airplanes,1,0.142857,4.285714
+2023-08-14,"Ambulances, medical vehicles",0,0.0,0.0
+2023-08-14,Anti-aircraft systems,7,1.0,30.0
+2023-08-14,Anti-tank systems,0,0.0,0.0
+2023-08-14,"Command posts, communication",0,0.0,0.0
+2023-08-14,Drones,3,0.428571,12.857143
+2023-08-14,Engineering,3,0.428571,12.857143
+2023-08-14,Helicopters,1,0.142857,4.285714
+2023-08-14,Infantry fighting vehicles,29,4.142857,124.285714
+2023-08-14,Infantry mobility vehicles,1,0.142857,4.285714
+2023-08-14,Other,0,0.0,0.0
+2023-08-14,"Radars, jammers",2,0.285714,8.571429
+2023-08-14,Rocket and missile artillery,1,0.142857,4.285714
+2023-08-14,Self-propelled artillery,10,1.428571,42.857143
+2023-08-14,Tanks,11,1.571429,47.142857
+2023-08-14,Towed artillery,8,1.142857,34.285714
+2023-08-14,Transport,10,1.428571,42.857143
+2023-08-14,Vessels,0,0.0,0.0
+2023-08-21,Airplanes,0,0.0,0.0
+2023-08-21,"Ambulances, medical vehicles",0,0.0,0.0
+2023-08-21,Anti-aircraft systems,4,0.571429,17.142857
+2023-08-21,Anti-tank systems,0,0.0,0.0
+2023-08-21,"Command posts, communication",1,0.142857,4.285714
+2023-08-21,Drones,5,0.714286,21.428571
+2023-08-21,Engineering,4,0.571429,17.142857
+2023-08-21,Helicopters,1,0.142857,4.285714
+2023-08-21,Infantry fighting vehicles,36,5.142857,154.285714
+2023-08-21,Infantry mobility vehicles,1,0.142857,4.285714
+2023-08-21,Other,0,0.0,0.0
+2023-08-21,"Radars, jammers",1,0.142857,4.285714
+2023-08-21,Rocket and missile artillery,3,0.428571,12.857143
+2023-08-21,Self-propelled artillery,5,0.714286,21.428571
+2023-08-21,Tanks,13,1.857143,55.714286
+2023-08-21,Towed artillery,2,0.285714,8.571429
+2023-08-21,Transport,11,1.571429,47.142857
+2023-08-21,Vessels,0,0.0,0.0
+2023-08-28,Airplanes,4,0.571429,17.142857
+2023-08-28,"Ambulances, medical vehicles",0,0.0,0.0
+2023-08-28,Anti-aircraft systems,4,0.571429,17.142857
+2023-08-28,Anti-tank systems,0,0.0,0.0
+2023-08-28,"Command posts, communication",1,0.142857,4.285714
+2023-08-28,Drones,2,0.285714,8.571429
+2023-08-28,Engineering,3,0.428571,12.857143
+2023-08-28,Helicopters,0,0.0,0.0
+2023-08-28,Infantry fighting vehicles,41,5.857143,175.714286
+2023-08-28,Infantry mobility vehicles,3,0.428571,12.857143
+2023-08-28,Other,2,0.285714,8.571429
+2023-08-28,"Radars, jammers",3,0.428571,12.857143
+2023-08-28,Rocket and missile artillery,5,0.714286,21.428571
+2023-08-28,Self-propelled artillery,11,1.571429,47.142857
+2023-08-28,Tanks,24,3.428571,102.857143
+2023-08-28,Towed artillery,9,1.285714,38.571429
+2023-08-28,Transport,18,2.571429,77.142857
+2023-08-28,Vessels,1,0.142857,4.285714
+2023-09-04,Airplanes,0,0.0,0.0
+2023-09-04,"Ambulances, medical vehicles",0,0.0,0.0
+2023-09-04,Anti-aircraft systems,1,0.142857,4.285714
+2023-09-04,Anti-tank systems,0,0.0,0.0
+2023-09-04,"Command posts, communication",0,0.0,0.0
+2023-09-04,Drones,3,0.428571,12.857143
+2023-09-04,Engineering,1,0.142857,4.285714
+2023-09-04,Helicopters,0,0.0,0.0
+2023-09-04,Infantry fighting vehicles,34,4.857143,145.714286
+2023-09-04,Infantry mobility vehicles,3,0.428571,12.857143
+2023-09-04,Other,0,0.0,0.0
+2023-09-04,"Radars, jammers",0,0.0,0.0
+2023-09-04,Rocket and missile artillery,7,1.0,30.0
+2023-09-04,Self-propelled artillery,12,1.714286,51.428571
+2023-09-04,Tanks,25,3.571429,107.142857
+2023-09-04,Towed artillery,5,0.714286,21.428571
+2023-09-04,Transport,14,2.0,60.0
+2023-09-04,Vessels,0,0.0,0.0
+2023-09-11,Airplanes,0,0.0,0.0
+2023-09-11,"Ambulances, medical vehicles",0,0.0,0.0
+2023-09-11,Anti-aircraft systems,5,0.714286,21.428571
+2023-09-11,Anti-tank systems,0,0.0,0.0
+2023-09-11,"Command posts, communication",0,0.0,0.0
+2023-09-11,Drones,2,0.285714,8.571429
+2023-09-11,Engineering,1,0.142857,4.285714
+2023-09-11,Helicopters,1,0.142857,4.285714
+2023-09-11,Infantry fighting vehicles,11,1.571429,47.142857
+2023-09-11,Infantry mobility vehicles,2,0.285714,8.571429
+2023-09-11,Other,1,0.142857,4.285714
+2023-09-11,"Radars, jammers",0,0.0,0.0
+2023-09-11,Rocket and missile artillery,0,0.0,0.0
+2023-09-11,Self-propelled artillery,8,1.142857,34.285714
+2023-09-11,Tanks,7,1.0,30.0
+2023-09-11,Towed artillery,3,0.428571,12.857143
+2023-09-11,Transport,9,1.285714,38.571429
+2023-09-11,Vessels,2,0.285714,8.571429
+2023-09-18,Airplanes,1,0.142857,4.285714
+2023-09-18,"Ambulances, medical vehicles",0,0.0,0.0
+2023-09-18,Anti-aircraft systems,2,0.285714,8.571429
+2023-09-18,Anti-tank systems,0,0.0,0.0
+2023-09-18,"Command posts, communication",2,0.285714,8.571429
+2023-09-18,Drones,1,0.142857,4.285714
+2023-09-18,Engineering,1,0.142857,4.285714
+2023-09-18,Helicopters,0,0.0,0.0
+2023-09-18,Infantry fighting vehicles,22,3.142857,94.285714
+2023-09-18,Infantry mobility vehicles,2,0.285714,8.571429
+2023-09-18,Other,0,0.0,0.0
+2023-09-18,"Radars, jammers",1,0.142857,4.285714
+2023-09-18,Rocket and missile artillery,3,0.428571,12.857143
+2023-09-18,Self-propelled artillery,11,1.571429,47.142857
+2023-09-18,Tanks,13,1.857143,55.714286
+2023-09-18,Towed artillery,4,0.571429,17.142857
+2023-09-18,Transport,9,1.285714,38.571429
+2023-09-18,Vessels,0,0.0,0.0
+2023-09-25,Airplanes,1,0.142857,4.285714
+2023-09-25,"Ambulances, medical vehicles",0,0.0,0.0
+2023-09-25,Anti-aircraft systems,3,0.428571,12.857143
+2023-09-25,Anti-tank systems,0,0.0,0.0
+2023-09-25,"Command posts, communication",0,0.0,0.0
+2023-09-25,Drones,1,0.142857,4.285714
+2023-09-25,Engineering,4,0.571429,17.142857
+2023-09-25,Helicopters,1,0.142857,4.285714
+2023-09-25,Infantry fighting vehicles,32,4.571429,137.142857
+2023-09-25,Infantry mobility vehicles,0,0.0,0.0
+2023-09-25,Other,1,0.142857,4.285714
+2023-09-25,"Radars, jammers",0,0.0,0.0
+2023-09-25,Rocket and missile artillery,6,0.857143,25.714286
+2023-09-25,Self-propelled artillery,3,0.428571,12.857143
+2023-09-25,Tanks,29,4.142857,124.285714
+2023-09-25,Towed artillery,4,0.571429,17.142857
+2023-09-25,Transport,13,1.857143,55.714286
+2023-09-25,Vessels,0,0.0,0.0
+2023-10-02,Airplanes,0,0.0,0.0
+2023-10-02,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-10-02,Anti-aircraft systems,0,0.0,0.0
+2023-10-02,Anti-tank systems,0,0.0,0.0
+2023-10-02,"Command posts, communication",0,0.0,0.0
+2023-10-02,Drones,4,0.571429,17.142857
+2023-10-02,Engineering,2,0.285714,8.571429
+2023-10-02,Helicopters,0,0.0,0.0
+2023-10-02,Infantry fighting vehicles,18,2.571429,77.142857
+2023-10-02,Infantry mobility vehicles,1,0.142857,4.285714
+2023-10-02,Other,1,0.142857,4.285714
+2023-10-02,"Radars, jammers",0,0.0,0.0
+2023-10-02,Rocket and missile artillery,4,0.571429,17.142857
+2023-10-02,Self-propelled artillery,8,1.142857,34.285714
+2023-10-02,Tanks,21,3.0,90.0
+2023-10-02,Towed artillery,4,0.571429,17.142857
+2023-10-02,Transport,8,1.142857,34.285714
+2023-10-02,Vessels,0,0.0,0.0
+2023-10-09,Airplanes,0,0.0,0.0
+2023-10-09,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-10-09,Anti-aircraft systems,3,0.428571,12.857143
+2023-10-09,Anti-tank systems,0,0.0,0.0
+2023-10-09,"Command posts, communication",0,0.0,0.0
+2023-10-09,Drones,3,0.428571,12.857143
+2023-10-09,Engineering,1,0.142857,4.285714
+2023-10-09,Helicopters,0,0.0,0.0
+2023-10-09,Infantry fighting vehicles,57,8.142857,244.285714
+2023-10-09,Infantry mobility vehicles,11,1.571429,47.142857
+2023-10-09,Other,1,0.142857,4.285714
+2023-10-09,"Radars, jammers",2,0.285714,8.571429
+2023-10-09,Rocket and missile artillery,7,1.0,30.0
+2023-10-09,Self-propelled artillery,10,1.428571,42.857143
+2023-10-09,Tanks,32,4.571429,137.142857
+2023-10-09,Towed artillery,3,0.428571,12.857143
+2023-10-09,Transport,20,2.857143,85.714286
+2023-10-09,Vessels,0,0.0,0.0
+2023-10-16,Airplanes,0,0.0,0.0
+2023-10-16,"Ambulances, medical vehicles",0,0.0,0.0
+2023-10-16,Anti-aircraft systems,0,0.0,0.0
+2023-10-16,Anti-tank systems,0,0.0,0.0
+2023-10-16,"Command posts, communication",1,0.142857,4.285714
+2023-10-16,Drones,3,0.428571,12.857143
+2023-10-16,Engineering,3,0.428571,12.857143
+2023-10-16,Helicopters,17,2.428571,72.857143
+2023-10-16,Infantry fighting vehicles,69,9.857143,295.714286
+2023-10-16,Infantry mobility vehicles,2,0.285714,8.571429
+2023-10-16,Other,0,0.0,0.0
+2023-10-16,"Radars, jammers",1,0.142857,4.285714
+2023-10-16,Rocket and missile artillery,3,0.428571,12.857143
+2023-10-16,Self-propelled artillery,8,1.142857,34.285714
+2023-10-16,Tanks,26,3.714286,111.428571
+2023-10-16,Towed artillery,2,0.285714,8.571429
+2023-10-16,Transport,10,1.428571,42.857143
+2023-10-16,Vessels,0,0.0,0.0
+2023-10-23,Airplanes,0,0.0,0.0
+2023-10-23,"Ambulances, medical vehicles",0,0.0,0.0
+2023-10-23,Anti-aircraft systems,2,0.285714,8.571429
+2023-10-23,Anti-tank systems,0,0.0,0.0
+2023-10-23,"Command posts, communication",0,0.0,0.0
+2023-10-23,Drones,1,0.142857,4.285714
+2023-10-23,Engineering,1,0.142857,4.285714
+2023-10-23,Helicopters,0,0.0,0.0
+2023-10-23,Infantry fighting vehicles,29,4.142857,124.285714
+2023-10-23,Infantry mobility vehicles,2,0.285714,8.571429
+2023-10-23,Other,0,0.0,0.0
+2023-10-23,"Radars, jammers",0,0.0,0.0
+2023-10-23,Rocket and missile artillery,5,0.714286,21.428571
+2023-10-23,Self-propelled artillery,5,0.714286,21.428571
+2023-10-23,Tanks,23,3.285714,98.571429
+2023-10-23,Towed artillery,1,0.142857,4.285714
+2023-10-23,Transport,14,2.0,60.0
+2023-10-23,Vessels,0,0.0,0.0
+2023-10-30,Airplanes,0,0.0,0.0
+2023-10-30,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-10-30,Anti-aircraft systems,6,0.857143,25.714286
+2023-10-30,Anti-tank systems,0,0.0,0.0
+2023-10-30,"Command posts, communication",3,0.428571,12.857143
+2023-10-30,Drones,4,0.571429,17.142857
+2023-10-30,Engineering,1,0.142857,4.285714
+2023-10-30,Helicopters,0,0.0,0.0
+2023-10-30,Infantry fighting vehicles,61,8.714286,261.428571
+2023-10-30,Infantry mobility vehicles,0,0.0,0.0
+2023-10-30,Other,1,0.142857,4.285714
+2023-10-30,"Radars, jammers",2,0.285714,8.571429
+2023-10-30,Rocket and missile artillery,3,0.428571,12.857143
+2023-10-30,Self-propelled artillery,9,1.285714,38.571429
+2023-10-30,Tanks,29,4.142857,124.285714
+2023-10-30,Towed artillery,1,0.142857,4.285714
+2023-10-30,Transport,13,1.857143,55.714286
+2023-10-30,Vessels,1,0.142857,4.285714
+2023-11-06,Airplanes,0,0.0,0.0
+2023-11-06,"Ambulances, medical vehicles",0,0.0,0.0
+2023-11-06,Anti-aircraft systems,2,0.285714,8.571429
+2023-11-06,Anti-tank systems,0,0.0,0.0
+2023-11-06,"Command posts, communication",0,0.0,0.0
+2023-11-06,Drones,1,0.142857,4.285714
+2023-11-06,Engineering,2,0.285714,8.571429
+2023-11-06,Helicopters,0,0.0,0.0
+2023-11-06,Infantry fighting vehicles,37,5.285714,158.571429
+2023-11-06,Infantry mobility vehicles,0,0.0,0.0
+2023-11-06,Other,0,0.0,0.0
+2023-11-06,"Radars, jammers",2,0.285714,8.571429
+2023-11-06,Rocket and missile artillery,3,0.428571,12.857143
+2023-11-06,Self-propelled artillery,5,0.714286,21.428571
+2023-11-06,Tanks,17,2.428571,72.857143
+2023-11-06,Towed artillery,1,0.142857,4.285714
+2023-11-06,Transport,14,2.0,60.0
+2023-11-06,Vessels,0,0.0,0.0
+2023-11-13,Airplanes,0,0.0,0.0
+2023-11-13,"Ambulances, medical vehicles",0,0.0,0.0
+2023-11-13,Anti-aircraft systems,3,0.428571,12.857143
+2023-11-13,Anti-tank systems,0,0.0,0.0
+2023-11-13,"Command posts, communication",0,0.0,0.0
+2023-11-13,Drones,1,0.142857,4.285714
+2023-11-13,Engineering,1,0.142857,4.285714
+2023-11-13,Helicopters,0,0.0,0.0
+2023-11-13,Infantry fighting vehicles,28,4.0,120.0
+2023-11-13,Infantry mobility vehicles,2,0.285714,8.571429
+2023-11-13,Other,0,0.0,0.0
+2023-11-13,"Radars, jammers",1,0.142857,4.285714
+2023-11-13,Rocket and missile artillery,6,0.857143,25.714286
+2023-11-13,Self-propelled artillery,9,1.285714,38.571429
+2023-11-13,Tanks,13,1.857143,55.714286
+2023-11-13,Towed artillery,0,0.0,0.0
+2023-11-13,Transport,12,1.714286,51.428571
+2023-11-13,Vessels,0,0.0,0.0
+2023-11-20,Airplanes,0,0.0,0.0
+2023-11-20,"Ambulances, medical vehicles",0,0.0,0.0
+2023-11-20,Anti-aircraft systems,0,0.0,0.0
+2023-11-20,Anti-tank systems,0,0.0,0.0
+2023-11-20,"Command posts, communication",2,0.285714,8.571429
+2023-11-20,Drones,0,0.0,0.0
+2023-11-20,Engineering,2,0.285714,8.571429
+2023-11-20,Helicopters,0,0.0,0.0
+2023-11-20,Infantry fighting vehicles,9,1.285714,38.571429
+2023-11-20,Infantry mobility vehicles,1,0.142857,4.285714
+2023-11-20,Other,0,0.0,0.0
+2023-11-20,"Radars, jammers",0,0.0,0.0
+2023-11-20,Rocket and missile artillery,1,0.142857,4.285714
+2023-11-20,Self-propelled artillery,4,0.571429,17.142857
+2023-11-20,Tanks,9,1.285714,38.571429
+2023-11-20,Towed artillery,0,0.0,0.0
+2023-11-20,Transport,12,1.714286,51.428571
+2023-11-20,Vessels,0,0.0,0.0
+2023-11-27,Airplanes,0,0.0,0.0
+2023-11-27,"Ambulances, medical vehicles",0,0.0,0.0
+2023-11-27,Anti-aircraft systems,6,0.857143,25.714286
+2023-11-27,Anti-tank systems,0,0.0,0.0
+2023-11-27,"Command posts, communication",2,0.285714,8.571429
+2023-11-27,Drones,0,0.0,0.0
+2023-11-27,Engineering,1,0.142857,4.285714
+2023-11-27,Helicopters,0,0.0,0.0
+2023-11-27,Infantry fighting vehicles,33,4.714286,141.428571
+2023-11-27,Infantry mobility vehicles,1,0.142857,4.285714
+2023-11-27,Other,0,0.0,0.0
+2023-11-27,"Radars, jammers",0,0.0,0.0
+2023-11-27,Rocket and missile artillery,5,0.714286,21.428571
+2023-11-27,Self-propelled artillery,7,1.0,30.0
+2023-11-27,Tanks,21,3.0,90.0
+2023-11-27,Towed artillery,1,0.142857,4.285714
+2023-11-27,Transport,8,1.142857,34.285714
+2023-11-27,Vessels,0,0.0,0.0
+2023-12-04,Airplanes,0,0.0,0.0
+2023-12-04,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-12-04,Anti-aircraft systems,2,0.285714,8.571429
+2023-12-04,Anti-tank systems,0,0.0,0.0
+2023-12-04,"Command posts, communication",0,0.0,0.0
+2023-12-04,Drones,0,0.0,0.0
+2023-12-04,Engineering,2,0.285714,8.571429
+2023-12-04,Helicopters,0,0.0,0.0
+2023-12-04,Infantry fighting vehicles,45,6.428571,192.857143
+2023-12-04,Infantry mobility vehicles,1,0.142857,4.285714
+2023-12-04,Other,0,0.0,0.0
+2023-12-04,"Radars, jammers",1,0.142857,4.285714
+2023-12-04,Rocket and missile artillery,1,0.142857,4.285714
+2023-12-04,Self-propelled artillery,5,0.714286,21.428571
+2023-12-04,Tanks,20,2.857143,85.714286
+2023-12-04,Towed artillery,3,0.428571,12.857143
+2023-12-04,Transport,2,0.285714,8.571429
+2023-12-04,Vessels,0,0.0,0.0
+2023-12-11,Airplanes,0,0.0,0.0
+2023-12-11,"Ambulances, medical vehicles",0,0.0,0.0
+2023-12-11,Anti-aircraft systems,1,0.142857,4.285714
+2023-12-11,Anti-tank systems,0,0.0,0.0
+2023-12-11,"Command posts, communication",0,0.0,0.0
+2023-12-11,Drones,1,0.142857,4.285714
+2023-12-11,Engineering,1,0.142857,4.285714
+2023-12-11,Helicopters,0,0.0,0.0
+2023-12-11,Infantry fighting vehicles,30,4.285714,128.571429
+2023-12-11,Infantry mobility vehicles,0,0.0,0.0
+2023-12-11,Other,0,0.0,0.0
+2023-12-11,"Radars, jammers",0,0.0,0.0
+2023-12-11,Rocket and missile artillery,2,0.285714,8.571429
+2023-12-11,Self-propelled artillery,6,0.857143,25.714286
+2023-12-11,Tanks,19,2.714286,81.428571
+2023-12-11,Towed artillery,1,0.142857,4.285714
+2023-12-11,Transport,9,1.285714,38.571429
+2023-12-11,Vessels,0,0.0,0.0
+2023-12-18,Airplanes,1,0.142857,4.285714
+2023-12-18,"Ambulances, medical vehicles",1,0.142857,4.285714
+2023-12-18,Anti-aircraft systems,2,0.285714,8.571429
+2023-12-18,Anti-tank systems,1,0.142857,4.285714
+2023-12-18,"Command posts, communication",2,0.285714,8.571429
+2023-12-18,Drones,1,0.142857,4.285714
+2023-12-18,Engineering,0,0.0,0.0
+2023-12-18,Helicopters,0,0.0,0.0
+2023-12-18,Infantry fighting vehicles,47,6.714286,201.428571
+2023-12-18,Infantry mobility vehicles,1,0.142857,4.285714
+2023-12-18,Other,0,0.0,0.0
+2023-12-18,"Radars, jammers",1,0.142857,4.285714
+2023-12-18,Rocket and missile artillery,5,0.714286,21.428571
+2023-12-18,Self-propelled artillery,5,0.714286,21.428571
+2023-12-18,Tanks,16,2.285714,68.571429
+2023-12-18,Towed artillery,1,0.142857,4.285714
+2023-12-18,Transport,7,1.0,30.0
+2023-12-18,Vessels,0,0.0,0.0
+2023-12-25,Airplanes,0,0.0,0.0
+2023-12-25,"Ambulances, medical vehicles",0,0.0,0.0
+2023-12-25,Anti-aircraft systems,3,0.428571,12.857143
+2023-12-25,Anti-tank systems,0,0.0,0.0
+2023-12-25,"Command posts, communication",1,0.142857,4.285714
+2023-12-25,Drones,3,0.428571,12.857143
+2023-12-25,Engineering,2,0.285714,8.571429
+2023-12-25,Helicopters,0,0.0,0.0
+2023-12-25,Infantry fighting vehicles,54,7.714286,231.428571
+2023-12-25,Infantry mobility vehicles,1,0.142857,4.285714
+2023-12-25,Other,0,0.0,0.0
+2023-12-25,"Radars, jammers",2,0.285714,8.571429
+2023-12-25,Rocket and missile artillery,2,0.285714,8.571429
+2023-12-25,Self-propelled artillery,4,0.571429,17.142857
+2023-12-25,Tanks,31,4.428571,132.857143
+2023-12-25,Towed artillery,0,0.0,0.0
+2023-12-25,Transport,10,1.428571,42.857143
+2023-12-25,Vessels,3,0.428571,12.857143
+2024-01-01,Airplanes,0,0.0,0.0
+2024-01-01,"Ambulances, medical vehicles",0,0.0,0.0
+2024-01-01,Anti-aircraft systems,5,0.714286,21.428571
+2024-01-01,Anti-tank systems,0,0.0,0.0
+2024-01-01,"Command posts, communication",0,0.0,0.0
+2024-01-01,Drones,2,0.285714,8.571429
+2024-01-01,Engineering,12,1.714286,51.428571
+2024-01-01,Helicopters,0,0.0,0.0
+2024-01-01,Infantry fighting vehicles,32,4.571429,137.142857
+2024-01-01,Infantry mobility vehicles,1,0.142857,4.285714
+2024-01-01,Other,0,0.0,0.0
+2024-01-01,"Radars, jammers",1,0.142857,4.285714
+2024-01-01,Rocket and missile artillery,5,0.714286,21.428571
+2024-01-01,Self-propelled artillery,7,1.0,30.0
+2024-01-01,Tanks,11,1.571429,47.142857
+2024-01-01,Towed artillery,0,0.0,0.0
+2024-01-01,Transport,6,0.857143,25.714286
+2024-01-01,Vessels,0,0.0,0.0
+2024-01-08,Airplanes,1,0.142857,4.285714
+2024-01-08,"Ambulances, medical vehicles",0,0.0,0.0
+2024-01-08,Anti-aircraft systems,4,0.571429,17.142857
+2024-01-08,Anti-tank systems,0,0.0,0.0
+2024-01-08,"Command posts, communication",0,0.0,0.0
+2024-01-08,Drones,0,0.0,0.0
+2024-01-08,Engineering,1,0.142857,4.285714
+2024-01-08,Helicopters,0,0.0,0.0
+2024-01-08,Infantry fighting vehicles,47,6.714286,201.428571
+2024-01-08,Infantry mobility vehicles,2,0.285714,8.571429
+2024-01-08,Other,0,0.0,0.0
+2024-01-08,"Radars, jammers",1,0.142857,4.285714
+2024-01-08,Rocket and missile artillery,2,0.285714,8.571429
+2024-01-08,Self-propelled artillery,6,0.857143,25.714286
+2024-01-08,Tanks,14,2.0,60.0
+2024-01-08,Towed artillery,0,0.0,0.0
+2024-01-08,Transport,3,0.428571,12.857143
+2024-01-08,Vessels,0,0.0,0.0
+2024-01-15,Airplanes,0,0.0,0.0
+2024-01-15,"Ambulances, medical vehicles",1,0.142857,4.285714
+2024-01-15,Anti-aircraft systems,1,0.142857,4.285714
+2024-01-15,Anti-tank systems,0,0.0,0.0
+2024-01-15,"Command posts, communication",1,0.142857,4.285714
+2024-01-15,Drones,1,0.142857,4.285714
+2024-01-15,Engineering,1,0.142857,4.285714
+2024-01-15,Helicopters,1,0.142857,4.285714
+2024-01-15,Infantry fighting vehicles,44,6.285714,188.571429
+2024-01-15,Infantry mobility vehicles,1,0.142857,4.285714
+2024-01-15,Other,0,0.0,0.0
+2024-01-15,"Radars, jammers",0,0.0,0.0
+2024-01-15,Rocket and missile artillery,4,0.571429,17.142857
+2024-01-15,Self-propelled artillery,5,0.714286,21.428571
+2024-01-15,Tanks,37,5.285714,158.571429
+2024-01-15,Towed artillery,2,0.285714,8.571429
+2024-01-15,Transport,6,0.857143,25.714286
+2024-01-15,Vessels,0,0.0,0.0
+2024-01-22,Airplanes,1,0.142857,4.285714
+2024-01-22,"Ambulances, medical vehicles",0,0.0,0.0
+2024-01-22,Anti-aircraft systems,3,0.428571,12.857143
+2024-01-22,Anti-tank systems,0,0.0,0.0
+2024-01-22,"Command posts, communication",0,0.0,0.0
+2024-01-22,Drones,1,0.142857,4.285714
+2024-01-22,Engineering,2,0.285714,8.571429
+2024-01-22,Helicopters,0,0.0,0.0
+2024-01-22,Infantry fighting vehicles,40,5.714286,171.428571
+2024-01-22,Infantry mobility vehicles,1,0.142857,4.285714
+2024-01-22,Other,0,0.0,0.0
+2024-01-22,"Radars, jammers",2,0.285714,8.571429
+2024-01-22,Rocket and missile artillery,7,1.0,30.0
+2024-01-22,Self-propelled artillery,3,0.428571,12.857143
+2024-01-22,Tanks,16,2.285714,68.571429
+2024-01-22,Towed artillery,1,0.142857,4.285714
+2024-01-22,Transport,10,1.428571,42.857143
+2024-01-22,Vessels,0,0.0,0.0
+2024-01-29,Airplanes,0,0.0,0.0
+2024-01-29,"Ambulances, medical vehicles",0,0.0,0.0
+2024-01-29,Anti-aircraft systems,0,0.0,0.0
+2024-01-29,Anti-tank systems,0,0.0,0.0
+2024-01-29,"Command posts, communication",0,0.0,0.0
+2024-01-29,Drones,3,0.428571,12.857143
+2024-01-29,Engineering,1,0.142857,4.285714
+2024-01-29,Helicopters,0,0.0,0.0
+2024-01-29,Infantry fighting vehicles,43,6.142857,184.285714
+2024-01-29,Infantry mobility vehicles,3,0.428571,12.857143
+2024-01-29,Other,0,0.0,0.0
+2024-01-29,"Radars, jammers",0,0.0,0.0
+2024-01-29,Rocket and missile artillery,2,0.285714,8.571429
+2024-01-29,Self-propelled artillery,4,0.571429,17.142857
+2024-01-29,Tanks,34,4.857143,145.714286
+2024-01-29,Towed artillery,2,0.285714,8.571429
+2024-01-29,Transport,4,0.571429,17.142857
+2024-01-29,Vessels,1,0.142857,4.285714
+2024-02-05,Airplanes,0,0.0,0.0
+2024-02-05,"Ambulances, medical vehicles",1,0.142857,4.285714
+2024-02-05,Anti-aircraft systems,2,0.285714,8.571429
+2024-02-05,Anti-tank systems,0,0.0,0.0
+2024-02-05,"Command posts, communication",0,0.0,0.0
+2024-02-05,Drones,1,0.142857,4.285714
+2024-02-05,Engineering,2,0.285714,8.571429
+2024-02-05,Helicopters,0,0.0,0.0
+2024-02-05,Infantry fighting vehicles,30,4.285714,128.571429
+2024-02-05,Infantry mobility vehicles,0,0.0,0.0
+2024-02-05,Other,0,0.0,0.0
+2024-02-05,"Radars, jammers",0,0.0,0.0
+2024-02-05,Rocket and missile artillery,0,0.0,0.0
+2024-02-05,Self-propelled artillery,5,0.714286,21.428571
+2024-02-05,Tanks,12,1.714286,51.428571
+2024-02-05,Towed artillery,1,0.142857,4.285714
+2024-02-05,Transport,18,2.571429,77.142857
+2024-02-05,Vessels,0,0.0,0.0
+2024-02-12,Airplanes,1,0.142857,4.285714
+2024-02-12,"Ambulances, medical vehicles",0,0.0,0.0
+2024-02-12,Anti-aircraft systems,3,0.428571,12.857143
+2024-02-12,Anti-tank systems,0,0.0,0.0
+2024-02-12,"Command posts, communication",0,0.0,0.0
+2024-02-12,Drones,1,0.142857,4.285714
+2024-02-12,Engineering,3,0.428571,12.857143
+2024-02-12,Helicopters,0,0.0,0.0
+2024-02-12,Infantry fighting vehicles,60,8.571429,257.142857
+2024-02-12,Infantry mobility vehicles,0,0.0,0.0
+2024-02-12,Other,1,0.142857,4.285714
+2024-02-12,"Radars, jammers",0,0.0,0.0
+2024-02-12,Rocket and missile artillery,2,0.285714,8.571429
+2024-02-12,Self-propelled artillery,5,0.714286,21.428571
+2024-02-12,Tanks,26,3.714286,111.428571
+2024-02-12,Towed artillery,1,0.142857,4.285714
+2024-02-12,Transport,5,0.714286,21.428571
+2024-02-12,Vessels,1,0.142857,4.285714
+2024-02-19,Airplanes,2,0.285714,8.571429
+2024-02-19,"Ambulances, medical vehicles",0,0.0,0.0
+2024-02-19,Anti-aircraft systems,4,0.571429,17.142857
+2024-02-19,Anti-tank systems,0,0.0,0.0
+2024-02-19,"Command posts, communication",0,0.0,0.0
+2024-02-19,Drones,8,1.142857,34.285714
+2024-02-19,Engineering,3,0.428571,12.857143
+2024-02-19,Helicopters,0,0.0,0.0
+2024-02-19,Infantry fighting vehicles,75,10.714286,321.428571
+2024-02-19,Infantry mobility vehicles,0,0.0,0.0
+2024-02-19,Other,0,0.0,0.0
+2024-02-19,"Radars, jammers",1,0.142857,4.285714
+2024-02-19,Rocket and missile artillery,1,0.142857,4.285714
+2024-02-19,Self-propelled artillery,3,0.428571,12.857143
+2024-02-19,Tanks,21,3.0,90.0
+2024-02-19,Towed artillery,4,0.571429,17.142857
+2024-02-19,Transport,11,1.571429,47.142857
+2024-02-19,Vessels,0,0.0,0.0
+2024-02-26,Airplanes,0,0.0,0.0
+2024-02-26,"Ambulances, medical vehicles",0,0.0,0.0
+2024-02-26,Anti-aircraft systems,2,0.285714,8.571429
+2024-02-26,Anti-tank systems,1,0.142857,4.285714
+2024-02-26,"Command posts, communication",0,0.0,0.0
+2024-02-26,Drones,2,0.285714,8.571429
+2024-02-26,Engineering,1,0.142857,4.285714
+2024-02-26,Helicopters,0,0.0,0.0
+2024-02-26,Infantry fighting vehicles,94,13.428571,402.857143
+2024-02-26,Infantry mobility vehicles,1,0.142857,4.285714
+2024-02-26,Other,0,0.0,0.0
+2024-02-26,"Radars, jammers",0,0.0,0.0
+2024-02-26,Rocket and missile artillery,2,0.285714,8.571429
+2024-02-26,Self-propelled artillery,2,0.285714,8.571429
+2024-02-26,Tanks,43,6.142857,184.285714
+2024-02-26,Towed artillery,4,0.571429,17.142857
+2024-02-26,Transport,19,2.714286,81.428571
+2024-02-26,Vessels,0,0.0,0.0
+2024-03-04,Airplanes,0,0.0,0.0
+2024-03-04,"Ambulances, medical vehicles",0,0.0,0.0
+2024-03-04,Anti-aircraft systems,1,0.142857,4.285714
+2024-03-04,Anti-tank systems,0,0.0,0.0
+2024-03-04,"Command posts, communication",0,0.0,0.0
+2024-03-04,Drones,1,0.142857,4.285714
+2024-03-04,Engineering,1,0.142857,4.285714
+2024-03-04,Helicopters,0,0.0,0.0
+2024-03-04,Infantry fighting vehicles,71,10.142857,304.285714
+2024-03-04,Infantry mobility vehicles,2,0.285714,8.571429
+2024-03-04,Other,0,0.0,0.0
+2024-03-04,"Radars, jammers",1,0.142857,4.285714
+2024-03-04,Rocket and missile artillery,6,0.857143,25.714286
+2024-03-04,Self-propelled artillery,4,0.571429,17.142857
+2024-03-04,Tanks,19,2.714286,81.428571
+2024-03-04,Towed artillery,3,0.428571,12.857143
+2024-03-04,Transport,9,1.285714,38.571429
+2024-03-04,Vessels,1,0.142857,4.285714
+2024-03-11,Airplanes,0,0.0,0.0
+2024-03-11,"Ambulances, medical vehicles",0,0.0,0.0
+2024-03-11,Anti-aircraft systems,3,0.428571,12.857143
+2024-03-11,Anti-tank systems,0,0.0,0.0
+2024-03-11,"Command posts, communication",1,0.142857,4.285714
+2024-03-11,Drones,1,0.142857,4.285714
+2024-03-11,Engineering,7,1.0,30.0
+2024-03-11,Helicopters,0,0.0,0.0
+2024-03-11,Infantry fighting vehicles,61,8.714286,261.428571
+2024-03-11,Infantry mobility vehicles,2,0.285714,8.571429
+2024-03-11,Other,1,0.142857,4.285714
+2024-03-11,"Radars, jammers",1,0.142857,4.285714
+2024-03-11,Rocket and missile artillery,1,0.142857,4.285714
+2024-03-11,Self-propelled artillery,9,1.285714,38.571429
+2024-03-11,Tanks,20,2.857143,85.714286
+2024-03-11,Towed artillery,1,0.142857,4.285714
+2024-03-11,Transport,15,2.142857,64.285714
+2024-03-11,Vessels,0,0.0,0.0
+2024-03-18,Airplanes,0,0.0,0.0
+2024-03-18,"Ambulances, medical vehicles",0,0.0,0.0
+2024-03-18,Anti-aircraft systems,3,0.428571,12.857143
+2024-03-18,Anti-tank systems,0,0.0,0.0
+2024-03-18,"Command posts, communication",0,0.0,0.0
+2024-03-18,Drones,2,0.285714,8.571429
+2024-03-18,Engineering,3,0.428571,12.857143
+2024-03-18,Helicopters,0,0.0,0.0
+2024-03-18,Infantry fighting vehicles,60,8.571429,257.142857
+2024-03-18,Infantry mobility vehicles,0,0.0,0.0
+2024-03-18,Other,0,0.0,0.0
+2024-03-18,"Radars, jammers",0,0.0,0.0
+2024-03-18,Rocket and missile artillery,0,0.0,0.0
+2024-03-18,Self-propelled artillery,5,0.714286,21.428571
+2024-03-18,Tanks,22,3.142857,94.285714
+2024-03-18,Towed artillery,2,0.285714,8.571429
+2024-03-18,Transport,15,2.142857,64.285714
+2024-03-18,Vessels,1,0.142857,4.285714
+2024-03-25,Airplanes,1,0.142857,4.285714
+2024-03-25,"Ambulances, medical vehicles",0,0.0,0.0
+2024-03-25,Anti-aircraft systems,6,0.857143,25.714286
+2024-03-25,Anti-tank systems,0,0.0,0.0
+2024-03-25,"Command posts, communication",1,0.142857,4.285714
+2024-03-25,Drones,4,0.571429,17.142857
+2024-03-25,Engineering,5,0.714286,21.428571
+2024-03-25,Helicopters,0,0.0,0.0
+2024-03-25,Infantry fighting vehicles,77,11.0,330.0
+2024-03-25,Infantry mobility vehicles,0,0.0,0.0
+2024-03-25,Other,2,0.285714,8.571429
+2024-03-25,"Radars, jammers",2,0.285714,8.571429
+2024-03-25,Rocket and missile artillery,3,0.428571,12.857143
+2024-03-25,Self-propelled artillery,7,1.0,30.0
+2024-03-25,Tanks,31,4.428571,132.857143
+2024-03-25,Towed artillery,3,0.428571,12.857143
+2024-03-25,Transport,13,1.857143,55.714286
+2024-03-25,Vessels,0,0.0,0.0
+2024-04-01,Airplanes,1,0.142857,4.285714
+2024-04-01,"Ambulances, medical vehicles",0,0.0,0.0
+2024-04-01,Anti-aircraft systems,1,0.142857,4.285714
+2024-04-01,Anti-tank systems,0,0.0,0.0
+2024-04-01,"Command posts, communication",0,0.0,0.0
+2024-04-01,Drones,1,0.142857,4.285714
+2024-04-01,Engineering,3,0.428571,12.857143
+2024-04-01,Helicopters,0,0.0,0.0
+2024-04-01,Infantry fighting vehicles,110,15.714286,471.428571
+2024-04-01,Infantry mobility vehicles,1,0.142857,4.285714
+2024-04-01,Other,0,0.0,0.0
+2024-04-01,"Radars, jammers",0,0.0,0.0
+2024-04-01,Rocket and missile artillery,4,0.571429,17.142857
+2024-04-01,Self-propelled artillery,5,0.714286,21.428571
+2024-04-01,Tanks,45,6.428571,192.857143
+2024-04-01,Towed artillery,1,0.142857,4.285714
+2024-04-01,Transport,15,2.142857,64.285714
+2024-04-01,Vessels,0,0.0,0.0
+2024-04-08,Airplanes,0,0.0,0.0
+2024-04-08,"Ambulances, medical vehicles",0,0.0,0.0
+2024-04-08,Anti-aircraft systems,4,0.571429,17.142857
+2024-04-08,Anti-tank systems,0,0.0,0.0
+2024-04-08,"Command posts, communication",1,0.142857,4.285714
+2024-04-08,Drones,5,0.714286,21.428571
+2024-04-08,Engineering,1,0.142857,4.285714
+2024-04-08,Helicopters,1,0.142857,4.285714
+2024-04-08,Infantry fighting vehicles,58,8.285714,248.571429
+2024-04-08,Infantry mobility vehicles,1,0.142857,4.285714
+2024-04-08,Other,0,0.0,0.0
+2024-04-08,"Radars, jammers",1,0.142857,4.285714
+2024-04-08,Rocket and missile artillery,1,0.142857,4.285714
+2024-04-08,Self-propelled artillery,6,0.857143,25.714286
+2024-04-08,Tanks,31,4.428571,132.857143
+2024-04-08,Towed artillery,1,0.142857,4.285714
+2024-04-08,Transport,31,4.428571,132.857143
+2024-04-08,Vessels,0,0.0,0.0
+2024-04-15,Airplanes,1,0.142857,4.285714
+2024-04-15,"Ambulances, medical vehicles",1,0.142857,4.285714
+2024-04-15,Anti-aircraft systems,5,0.714286,21.428571
+2024-04-15,Anti-tank systems,0,0.0,0.0
+2024-04-15,"Command posts, communication",1,0.142857,4.285714
+2024-04-15,Drones,5,0.714286,21.428571
+2024-04-15,Engineering,0,0.0,0.0
+2024-04-15,Helicopters,0,0.0,0.0
+2024-04-15,Infantry fighting vehicles,49,7.0,210.0
+2024-04-15,Infantry mobility vehicles,0,0.0,0.0
+2024-04-15,Other,0,0.0,0.0
+2024-04-15,"Radars, jammers",2,0.285714,8.571429
+2024-04-15,Rocket and missile artillery,1,0.142857,4.285714
+2024-04-15,Self-propelled artillery,4,0.571429,17.142857
+2024-04-15,Tanks,17,2.428571,72.857143
+2024-04-15,Towed artillery,2,0.285714,8.571429
+2024-04-15,Transport,13,1.857143,55.714286
+2024-04-15,Vessels,0,0.0,0.0
+2024-04-22,Airplanes,0,0.0,0.0
+2024-04-22,"Ambulances, medical vehicles",0,0.0,0.0
+2024-04-22,Anti-aircraft systems,3,0.428571,12.857143
+2024-04-22,Anti-tank systems,0,0.0,0.0
+2024-04-22,"Command posts, communication",0,0.0,0.0
+2024-04-22,Drones,5,0.714286,21.428571
+2024-04-22,Engineering,4,0.571429,17.142857
+2024-04-22,Helicopters,1,0.142857,4.285714
+2024-04-22,Infantry fighting vehicles,24,3.428571,102.857143
+2024-04-22,Infantry mobility vehicles,1,0.142857,4.285714
+2024-04-22,Other,0,0.0,0.0
+2024-04-22,"Radars, jammers",3,0.428571,12.857143
+2024-04-22,Rocket and missile artillery,2,0.285714,8.571429
+2024-04-22,Self-propelled artillery,4,0.571429,17.142857
+2024-04-22,Tanks,20,2.857143,85.714286
+2024-04-22,Towed artillery,0,0.0,0.0
+2024-04-22,Transport,8,1.142857,34.285714
+2024-04-22,Vessels,0,0.0,0.0
+2024-04-29,Airplanes,0,0.0,0.0
+2024-04-29,"Ambulances, medical vehicles",0,0.0,0.0
+2024-04-29,Anti-aircraft systems,3,0.428571,12.857143
+2024-04-29,Anti-tank systems,0,0.0,0.0
+2024-04-29,"Command posts, communication",0,0.0,0.0
+2024-04-29,Drones,3,0.428571,12.857143
+2024-04-29,Engineering,1,0.142857,4.285714
+2024-04-29,Helicopters,0,0.0,0.0
+2024-04-29,Infantry fighting vehicles,44,6.285714,188.571429
+2024-04-29,Infantry mobility vehicles,0,0.0,0.0
+2024-04-29,Other,0,0.0,0.0
+2024-04-29,"Radars, jammers",0,0.0,0.0
+2024-04-29,Rocket and missile artillery,2,0.285714,8.571429
+2024-04-29,Self-propelled artillery,4,0.571429,17.142857
+2024-04-29,Tanks,31,4.428571,132.857143
+2024-04-29,Towed artillery,3,0.428571,12.857143
+2024-04-29,Transport,13,1.857143,55.714286
+2024-04-29,Vessels,0,0.0,0.0
+2024-05-06,Airplanes,0,0.0,0.0
+2024-05-06,"Ambulances, medical vehicles",0,0.0,0.0
+2024-05-06,Anti-aircraft systems,2,0.285714,8.571429
+2024-05-06,Anti-tank systems,0,0.0,0.0
+2024-05-06,"Command posts, communication",0,0.0,0.0
+2024-05-06,Drones,3,0.428571,12.857143
+2024-05-06,Engineering,3,0.428571,12.857143
+2024-05-06,Helicopters,0,0.0,0.0
+2024-05-06,Infantry fighting vehicles,75,10.714286,321.428571
+2024-05-06,Infantry mobility vehicles,1,0.142857,4.285714
+2024-05-06,Other,0,0.0,0.0
+2024-05-06,"Radars, jammers",0,0.0,0.0
+2024-05-06,Rocket and missile artillery,2,0.285714,8.571429
+2024-05-06,Self-propelled artillery,3,0.428571,12.857143
+2024-05-06,Tanks,26,3.714286,111.428571
+2024-05-06,Towed artillery,2,0.285714,8.571429
+2024-05-06,Transport,10,1.428571,42.857143
+2024-05-06,Vessels,0,0.0,0.0
+2024-05-13,Airplanes,4,0.571429,17.142857
+2024-05-13,"Ambulances, medical vehicles",0,0.0,0.0
+2024-05-13,Anti-aircraft systems,0,0.0,0.0
+2024-05-13,Anti-tank systems,0,0.0,0.0
+2024-05-13,"Command posts, communication",1,0.142857,4.285714
+2024-05-13,Drones,3,0.428571,12.857143
+2024-05-13,Engineering,2,0.285714,8.571429
+2024-05-13,Helicopters,0,0.0,0.0
+2024-05-13,Infantry fighting vehicles,58,8.285714,248.571429
+2024-05-13,Infantry mobility vehicles,0,0.0,0.0
+2024-05-13,Other,1,0.142857,4.285714
+2024-05-13,"Radars, jammers",1,0.142857,4.285714
+2024-05-13,Rocket and missile artillery,1,0.142857,4.285714
+2024-05-13,Self-propelled artillery,8,1.142857,34.285714
+2024-05-13,Tanks,34,4.857143,145.714286
+2024-05-13,Towed artillery,3,0.428571,12.857143
+2024-05-13,Transport,9,1.285714,38.571429
+2024-05-13,Vessels,1,0.142857,4.285714
+2024-05-20,Airplanes,0,0.0,0.0
+2024-05-20,"Ambulances, medical vehicles",0,0.0,0.0
+2024-05-20,Anti-aircraft systems,8,1.142857,34.285714
+2024-05-20,Anti-tank systems,0,0.0,0.0
+2024-05-20,"Command posts, communication",2,0.285714,8.571429
+2024-05-20,Drones,2,0.285714,8.571429
+2024-05-20,Engineering,9,1.285714,38.571429
+2024-05-20,Helicopters,0,0.0,0.0
+2024-05-20,Infantry fighting vehicles,56,8.0,240.0
+2024-05-20,Infantry mobility vehicles,2,0.285714,8.571429
+2024-05-20,Other,1,0.142857,4.285714
+2024-05-20,"Radars, jammers",4,0.571429,17.142857
+2024-05-20,Rocket and missile artillery,3,0.428571,12.857143
+2024-05-20,Self-propelled artillery,7,1.0,30.0
+2024-05-20,Tanks,22,3.142857,94.285714
+2024-05-20,Towed artillery,2,0.285714,8.571429
+2024-05-20,Transport,18,2.571429,77.142857
+2024-05-20,Vessels,0,0.0,0.0
+2024-05-27,Airplanes,0,0.0,0.0
+2024-05-27,"Ambulances, medical vehicles",0,0.0,0.0
+2024-05-27,Anti-aircraft systems,3,0.428571,12.857143
+2024-05-27,Anti-tank systems,0,0.0,0.0
+2024-05-27,"Command posts, communication",1,0.142857,4.285714
+2024-05-27,Drones,4,0.571429,17.142857
+2024-05-27,Engineering,9,1.285714,38.571429
+2024-05-27,Helicopters,0,0.0,0.0
+2024-05-27,Infantry fighting vehicles,78,11.142857,334.285714
+2024-05-27,Infantry mobility vehicles,1,0.142857,4.285714
+2024-05-27,Other,2,0.285714,8.571429
+2024-05-27,"Radars, jammers",1,0.142857,4.285714
+2024-05-27,Rocket and missile artillery,1,0.142857,4.285714
+2024-05-27,Self-propelled artillery,6,0.857143,25.714286
+2024-05-27,Tanks,31,4.428571,132.857143
+2024-05-27,Towed artillery,1,0.142857,4.285714
+2024-05-27,Transport,15,2.142857,64.285714
+2024-05-27,Vessels,1,0.142857,4.285714
+2024-06-03,Airplanes,2,0.285714,8.571429
+2024-06-03,"Ambulances, medical vehicles",0,0.0,0.0
+2024-06-03,Anti-aircraft systems,5,0.714286,21.428571
+2024-06-03,Anti-tank systems,0,0.0,0.0
+2024-06-03,"Command posts, communication",0,0.0,0.0
+2024-06-03,Drones,3,0.428571,12.857143
+2024-06-03,Engineering,11,1.571429,47.142857
+2024-06-03,Helicopters,0,0.0,0.0
+2024-06-03,Infantry fighting vehicles,66,9.428571,282.857143
+2024-06-03,Infantry mobility vehicles,2,0.285714,8.571429
+2024-06-03,Other,3,0.428571,12.857143
+2024-06-03,"Radars, jammers",0,0.0,0.0
+2024-06-03,Rocket and missile artillery,3,0.428571,12.857143
+2024-06-03,Self-propelled artillery,7,1.0,30.0
+2024-06-03,Tanks,35,5.0,150.0
+2024-06-03,Towed artillery,5,0.714286,21.428571
+2024-06-03,Transport,23,3.285714,98.571429
+2024-06-03,Vessels,0,0.0,0.0
+2024-06-10,Airplanes,0,0.0,0.0
+2024-06-10,"Ambulances, medical vehicles",2,0.285714,8.571429
+2024-06-10,Anti-aircraft systems,4,0.571429,17.142857
+2024-06-10,Anti-tank systems,0,0.0,0.0
+2024-06-10,"Command posts, communication",1,0.142857,4.285714
+2024-06-10,Drones,5,0.714286,21.428571
+2024-06-10,Engineering,9,1.285714,38.571429
+2024-06-10,Helicopters,0,0.0,0.0
+2024-06-10,Infantry fighting vehicles,62,8.857143,265.714286
+2024-06-10,Infantry mobility vehicles,5,0.714286,21.428571
+2024-06-10,Other,0,0.0,0.0
+2024-06-10,"Radars, jammers",4,0.571429,17.142857
+2024-06-10,Rocket and missile artillery,2,0.285714,8.571429
+2024-06-10,Self-propelled artillery,2,0.285714,8.571429
+2024-06-10,Tanks,27,3.857143,115.714286
+2024-06-10,Towed artillery,2,0.285714,8.571429
+2024-06-10,Transport,18,2.571429,77.142857
+2024-06-10,Vessels,0,0.0,0.0
+2024-06-17,Airplanes,0,0.0,0.0
+2024-06-17,"Ambulances, medical vehicles",0,0.0,0.0
+2024-06-17,Anti-aircraft systems,3,0.428571,12.857143
+2024-06-17,Anti-tank systems,0,0.0,0.0
+2024-06-17,"Command posts, communication",1,0.142857,4.285714
+2024-06-17,Drones,2,0.285714,8.571429
+2024-06-17,Engineering,3,0.428571,12.857143
+2024-06-17,Helicopters,0,0.0,0.0
+2024-06-17,Infantry fighting vehicles,60,8.571429,257.142857
+2024-06-17,Infantry mobility vehicles,0,0.0,0.0
+2024-06-17,Other,2,0.285714,8.571429
+2024-06-17,"Radars, jammers",0,0.0,0.0
+2024-06-17,Rocket and missile artillery,1,0.142857,4.285714
+2024-06-17,Self-propelled artillery,4,0.571429,17.142857
+2024-06-17,Tanks,33,4.714286,141.428571
+2024-06-17,Towed artillery,0,0.0,0.0
+2024-06-17,Transport,14,2.0,60.0
+2024-06-17,Vessels,0,0.0,0.0
+2024-06-24,Airplanes,0,0.0,0.0
+2024-06-24,"Ambulances, medical vehicles",1,0.142857,4.285714
+2024-06-24,Anti-aircraft systems,5,0.714286,21.428571
+2024-06-24,Anti-tank systems,0,0.0,0.0
+2024-06-24,"Command posts, communication",0,0.0,0.0
+2024-06-24,Drones,2,0.285714,8.571429
+2024-06-24,Engineering,2,0.285714,8.571429
+2024-06-24,Helicopters,0,0.0,0.0
+2024-06-24,Infantry fighting vehicles,55,7.857143,235.714286
+2024-06-24,Infantry mobility vehicles,3,0.428571,12.857143
+2024-06-24,Other,0,0.0,0.0
+2024-06-24,"Radars, jammers",0,0.0,0.0
+2024-06-24,Rocket and missile artillery,3,0.428571,12.857143
+2024-06-24,Self-propelled artillery,1,0.142857,4.285714
+2024-06-24,Tanks,19,2.714286,81.428571
+2024-06-24,Towed artillery,1,0.142857,4.285714
+2024-06-24,Transport,14,2.0,60.0
+2024-06-24,Vessels,0,0.0,0.0
+2024-07-01,Airplanes,0,0.0,0.0
+2024-07-01,"Ambulances, medical vehicles",0,0.0,0.0
+2024-07-01,Anti-aircraft systems,1,0.142857,4.285714
+2024-07-01,Anti-tank systems,0,0.0,0.0
+2024-07-01,"Command posts, communication",3,0.428571,12.857143
+2024-07-01,Drones,5,0.714286,21.428571
+2024-07-01,Engineering,0,0.0,0.0
+2024-07-01,Helicopters,0,0.0,0.0
+2024-07-01,Infantry fighting vehicles,36,5.142857,154.285714
+2024-07-01,Infantry mobility vehicles,2,0.285714,8.571429
+2024-07-01,Other,1,0.142857,4.285714
+2024-07-01,"Radars, jammers",1,0.142857,4.285714
+2024-07-01,Rocket and missile artillery,1,0.142857,4.285714
+2024-07-01,Self-propelled artillery,7,1.0,30.0
+2024-07-01,Tanks,22,3.142857,94.285714
+2024-07-01,Towed artillery,4,0.571429,17.142857
+2024-07-01,Transport,18,2.571429,77.142857
+2024-07-01,Vessels,0,0.0,0.0
+2024-07-08,Airplanes,0,0.0,0.0
+2024-07-08,"Ambulances, medical vehicles",0,0.0,0.0
+2024-07-08,Anti-aircraft systems,7,1.0,30.0
+2024-07-08,Anti-tank systems,0,0.0,0.0
+2024-07-08,"Command posts, communication",0,0.0,0.0
+2024-07-08,Drones,0,0.0,0.0
+2024-07-08,Engineering,2,0.285714,8.571429
+2024-07-08,Helicopters,0,0.0,0.0
+2024-07-08,Infantry fighting vehicles,44,6.285714,188.571429
+2024-07-08,Infantry mobility vehicles,4,0.571429,17.142857
+2024-07-08,Other,0,0.0,0.0
+2024-07-08,"Radars, jammers",0,0.0,0.0
+2024-07-08,Rocket and missile artillery,2,0.285714,8.571429
+2024-07-08,Self-propelled artillery,6,0.857143,25.714286
+2024-07-08,Tanks,22,3.142857,94.285714
+2024-07-08,Towed artillery,3,0.428571,12.857143
+2024-07-08,Transport,13,1.857143,55.714286
+2024-07-08,Vessels,0,0.0,0.0
+2024-07-15,Airplanes,0,0.0,0.0
+2024-07-15,"Ambulances, medical vehicles",0,0.0,0.0
+2024-07-15,Anti-aircraft systems,0,0.0,0.0
+2024-07-15,Anti-tank systems,0,0.0,0.0
+2024-07-15,"Command posts, communication",0,0.0,0.0
+2024-07-15,Drones,4,0.571429,17.142857
+2024-07-15,Engineering,0,0.0,0.0
+2024-07-15,Helicopters,0,0.0,0.0
+2024-07-15,Infantry fighting vehicles,46,6.571429,197.142857
+2024-07-15,Infantry mobility vehicles,7,1.0,30.0
+2024-07-15,Other,1,0.142857,4.285714
+2024-07-15,"Radars, jammers",0,0.0,0.0
+2024-07-15,Rocket and missile artillery,4,0.571429,17.142857
+2024-07-15,Self-propelled artillery,3,0.428571,12.857143
+2024-07-15,Tanks,18,2.571429,77.142857
+2024-07-15,Towed artillery,4,0.571429,17.142857
+2024-07-15,Transport,14,2.0,60.0
+2024-07-15,Vessels,2,0.285714,8.571429
+2024-07-22,Airplanes,2,0.285714,8.571429
+2024-07-22,"Ambulances, medical vehicles",0,0.0,0.0
+2024-07-22,Anti-aircraft systems,4,0.571429,17.142857
+2024-07-22,Anti-tank systems,0,0.0,0.0
+2024-07-22,"Command posts, communication",0,0.0,0.0
+2024-07-22,Drones,5,0.714286,21.428571
+2024-07-22,Engineering,1,0.142857,4.285714
+2024-07-22,Helicopters,2,0.285714,8.571429
+2024-07-22,Infantry fighting vehicles,56,8.0,240.0
+2024-07-22,Infantry mobility vehicles,1,0.142857,4.285714
+2024-07-22,Other,0,0.0,0.0
+2024-07-22,"Radars, jammers",0,0.0,0.0
+2024-07-22,Rocket and missile artillery,2,0.285714,8.571429
+2024-07-22,Self-propelled artillery,3,0.428571,12.857143
+2024-07-22,Tanks,26,3.714286,111.428571
+2024-07-22,Towed artillery,4,0.571429,17.142857
+2024-07-22,Transport,21,3.0,90.0
+2024-07-22,Vessels,0,0.0,0.0
+2024-07-29,Airplanes,1,0.142857,4.285714
+2024-07-29,"Ambulances, medical vehicles",0,0.0,0.0
+2024-07-29,Anti-aircraft systems,3,0.428571,12.857143
+2024-07-29,Anti-tank systems,0,0.0,0.0
+2024-07-29,"Command posts, communication",0,0.0,0.0
+2024-07-29,Drones,7,1.0,30.0
+2024-07-29,Engineering,0,0.0,0.0
+2024-07-29,Helicopters,1,0.142857,4.285714
+2024-07-29,Infantry fighting vehicles,38,5.428571,162.857143
+2024-07-29,Infantry mobility vehicles,3,0.428571,12.857143
+2024-07-29,Other,0,0.0,0.0
+2024-07-29,"Radars, jammers",1,0.142857,4.285714
+2024-07-29,Rocket and missile artillery,4,0.571429,17.142857
+2024-07-29,Self-propelled artillery,7,1.0,30.0
+2024-07-29,Tanks,13,1.857143,55.714286
+2024-07-29,Towed artillery,2,0.285714,8.571429
+2024-07-29,Transport,16,2.285714,68.571429
+2024-07-29,Vessels,0,0.0,0.0
+2024-08-05,Airplanes,0,0.0,0.0
+2024-08-05,"Ambulances, medical vehicles",0,0.0,0.0
+2024-08-05,Anti-aircraft systems,0,0.0,0.0
+2024-08-05,Anti-tank systems,0,0.0,0.0
+2024-08-05,"Command posts, communication",0,0.0,0.0
+2024-08-05,Drones,9,1.285714,38.571429
+2024-08-05,Engineering,0,0.0,0.0
+2024-08-05,Helicopters,2,0.285714,8.571429
+2024-08-05,Infantry fighting vehicles,40,5.714286,171.428571
+2024-08-05,Infantry mobility vehicles,3,0.428571,12.857143
+2024-08-05,Other,0,0.0,0.0
+2024-08-05,"Radars, jammers",0,0.0,0.0
+2024-08-05,Rocket and missile artillery,2,0.285714,8.571429
+2024-08-05,Self-propelled artillery,9,1.285714,38.571429
+2024-08-05,Tanks,14,2.0,60.0
+2024-08-05,Towed artillery,2,0.285714,8.571429
+2024-08-05,Transport,34,4.857143,145.714286
+2024-08-05,Vessels,0,0.0,0.0
+2024-08-12,Airplanes,1,0.142857,4.285714
+2024-08-12,"Ambulances, medical vehicles",0,0.0,0.0
+2024-08-12,Anti-aircraft systems,1,0.142857,4.285714
+2024-08-12,Anti-tank systems,0,0.0,0.0
+2024-08-12,"Command posts, communication",1,0.142857,4.285714
+2024-08-12,Drones,10,1.428571,42.857143
+2024-08-12,Engineering,2,0.285714,8.571429
+2024-08-12,Helicopters,0,0.0,0.0
+2024-08-12,Infantry fighting vehicles,62,8.857143,265.714286
+2024-08-12,Infantry mobility vehicles,2,0.285714,8.571429
+2024-08-12,Other,0,0.0,0.0
+2024-08-12,"Radars, jammers",0,0.0,0.0
+2024-08-12,Rocket and missile artillery,4,0.571429,17.142857
+2024-08-12,Self-propelled artillery,10,1.428571,42.857143
+2024-08-12,Tanks,19,2.714286,81.428571
+2024-08-12,Towed artillery,4,0.571429,17.142857
+2024-08-12,Transport,24,3.428571,102.857143
+2024-08-12,Vessels,0,0.0,0.0
+2024-08-19,Airplanes,0,0.0,0.0
+2024-08-19,"Ambulances, medical vehicles",0,0.0,0.0
+2024-08-19,Anti-aircraft systems,3,0.428571,12.857143
+2024-08-19,Anti-tank systems,0,0.0,0.0
+2024-08-19,"Command posts, communication",0,0.0,0.0
+2024-08-19,Drones,10,1.428571,42.857143
+2024-08-19,Engineering,10,1.428571,42.857143
+2024-08-19,Helicopters,1,0.142857,4.285714
+2024-08-19,Infantry fighting vehicles,45,6.428571,192.857143
+2024-08-19,Infantry mobility vehicles,3,0.428571,12.857143
+2024-08-19,Other,0,0.0,0.0
+2024-08-19,"Radars, jammers",0,0.0,0.0
+2024-08-19,Rocket and missile artillery,3,0.428571,12.857143
+2024-08-19,Self-propelled artillery,4,0.571429,17.142857
+2024-08-19,Tanks,14,2.0,60.0
+2024-08-19,Towed artillery,1,0.142857,4.285714
+2024-08-19,Transport,17,2.428571,72.857143
+2024-08-19,Vessels,0,0.0,0.0
+2024-08-26,Airplanes,1,0.142857,4.285714
+2024-08-26,"Ambulances, medical vehicles",0,0.0,0.0
+2024-08-26,Anti-aircraft systems,3,0.428571,12.857143
+2024-08-26,Anti-tank systems,0,0.0,0.0
+2024-08-26,"Command posts, communication",1,0.142857,4.285714
+2024-08-26,Drones,7,1.0,30.0
+2024-08-26,Engineering,7,1.0,30.0
+2024-08-26,Helicopters,0,0.0,0.0
+2024-08-26,Infantry fighting vehicles,77,11.0,330.0
+2024-08-26,Infantry mobility vehicles,4,0.571429,17.142857
+2024-08-26,Other,0,0.0,0.0
+2024-08-26,"Radars, jammers",4,0.571429,17.142857
+2024-08-26,Rocket and missile artillery,2,0.285714,8.571429
+2024-08-26,Self-propelled artillery,4,0.571429,17.142857
+2024-08-26,Tanks,22,3.142857,94.285714
+2024-08-26,Towed artillery,5,0.714286,21.428571
+2024-08-26,Transport,22,3.142857,94.285714
+2024-08-26,Vessels,0,0.0,0.0
+2024-09-02,Airplanes,0,0.0,0.0
+2024-09-02,"Ambulances, medical vehicles",0,0.0,0.0
+2024-09-02,Anti-aircraft systems,0,0.0,0.0
+2024-09-02,Anti-tank systems,0,0.0,0.0
+2024-09-02,"Command posts, communication",0,0.0,0.0
+2024-09-02,Drones,11,1.571429,47.142857
+2024-09-02,Engineering,8,1.142857,34.285714
+2024-09-02,Helicopters,0,0.0,0.0
+2024-09-02,Infantry fighting vehicles,44,6.285714,188.571429
+2024-09-02,Infantry mobility vehicles,7,1.0,30.0
+2024-09-02,Other,1,0.142857,4.285714
+2024-09-02,"Radars, jammers",0,0.0,0.0
+2024-09-02,Rocket and missile artillery,3,0.428571,12.857143
+2024-09-02,Self-propelled artillery,5,0.714286,21.428571
+2024-09-02,Tanks,19,2.714286,81.428571
+2024-09-02,Towed artillery,2,0.285714,8.571429
+2024-09-02,Transport,12,1.714286,51.428571
+2024-09-02,Vessels,0,0.0,0.0
+2024-09-09,Airplanes,0,0.0,0.0
+2024-09-09,"Ambulances, medical vehicles",0,0.0,0.0
+2024-09-09,Anti-aircraft systems,1,0.142857,4.285714
+2024-09-09,Anti-tank systems,0,0.0,0.0
+2024-09-09,"Command posts, communication",0,0.0,0.0
+2024-09-09,Drones,6,0.857143,25.714286
+2024-09-09,Engineering,2,0.285714,8.571429
+2024-09-09,Helicopters,0,0.0,0.0
+2024-09-09,Infantry fighting vehicles,61,8.714286,261.428571
+2024-09-09,Infantry mobility vehicles,0,0.0,0.0
+2024-09-09,Other,1,0.142857,4.285714
+2024-09-09,"Radars, jammers",0,0.0,0.0
+2024-09-09,Rocket and missile artillery,1,0.142857,4.285714
+2024-09-09,Self-propelled artillery,0,0.0,0.0
+2024-09-09,Tanks,13,1.857143,55.714286
+2024-09-09,Towed artillery,0,0.0,0.0
+2024-09-09,Transport,12,1.714286,51.428571
+2024-09-09,Vessels,0,0.0,0.0
+2024-09-16,Airplanes,0,0.0,0.0
+2024-09-16,"Ambulances, medical vehicles",0,0.0,0.0
+2024-09-16,Anti-aircraft systems,1,0.142857,4.285714
+2024-09-16,Anti-tank systems,0,0.0,0.0
+2024-09-16,"Command posts, communication",1,0.142857,4.285714
+2024-09-16,Drones,14,2.0,60.0
+2024-09-16,Engineering,2,0.285714,8.571429
+2024-09-16,Helicopters,1,0.142857,4.285714
+2024-09-16,Infantry fighting vehicles,53,7.571429,227.142857
+2024-09-16,Infantry mobility vehicles,1,0.142857,4.285714
+2024-09-16,Other,1,0.142857,4.285714
+2024-09-16,"Radars, jammers",0,0.0,0.0
+2024-09-16,Rocket and missile artillery,4,0.571429,17.142857
+2024-09-16,Self-propelled artillery,1,0.142857,4.285714
+2024-09-16,Tanks,23,3.285714,98.571429
+2024-09-16,Towed artillery,1,0.142857,4.285714
+2024-09-16,Transport,13,1.857143,55.714286
+2024-09-16,Vessels,0,0.0,0.0
+2024-09-23,Airplanes,0,0.0,0.0
+2024-09-23,"Ambulances, medical vehicles",1,0.142857,4.285714
+2024-09-23,Anti-aircraft systems,3,0.428571,12.857143
+2024-09-23,Anti-tank systems,0,0.0,0.0
+2024-09-23,"Command posts, communication",0,0.0,0.0
+2024-09-23,Drones,5,0.714286,21.428571
+2024-09-23,Engineering,4,0.571429,17.142857
+2024-09-23,Helicopters,0,0.0,0.0
+2024-09-23,Infantry fighting vehicles,96,13.714286,411.428571
+2024-09-23,Infantry mobility vehicles,3,0.428571,12.857143
+2024-09-23,Other,0,0.0,0.0
+2024-09-23,"Radars, jammers",1,0.142857,4.285714
+2024-09-23,Rocket and missile artillery,0,0.0,0.0
+2024-09-23,Self-propelled artillery,3,0.428571,12.857143
+2024-09-23,Tanks,35,5.0,150.0
+2024-09-23,Towed artillery,1,0.142857,4.285714
+2024-09-23,Transport,8,1.142857,34.285714
+2024-09-23,Vessels,0,0.0,0.0
+2024-09-30,Airplanes,1,0.142857,4.285714
+2024-09-30,"Ambulances, medical vehicles",0,0.0,0.0
+2024-09-30,Anti-aircraft systems,6,0.857143,25.714286
+2024-09-30,Anti-tank systems,0,0.0,0.0
+2024-09-30,"Command posts, communication",0,0.0,0.0
+2024-09-30,Drones,12,1.714286,51.428571
+2024-09-30,Engineering,0,0.0,0.0
+2024-09-30,Helicopters,0,0.0,0.0
+2024-09-30,Infantry fighting vehicles,78,11.142857,334.285714
+2024-09-30,Infantry mobility vehicles,3,0.428571,12.857143
+2024-09-30,Other,0,0.0,0.0
+2024-09-30,"Radars, jammers",2,0.285714,8.571429
+2024-09-30,Rocket and missile artillery,4,0.571429,17.142857
+2024-09-30,Self-propelled artillery,5,0.714286,21.428571
+2024-09-30,Tanks,24,3.428571,102.857143
+2024-09-30,Towed artillery,0,0.0,0.0
+2024-09-30,Transport,13,1.857143,55.714286
+2024-09-30,Vessels,0,0.0,0.0
+2024-10-07,Airplanes,0,0.0,0.0
+2024-10-07,"Ambulances, medical vehicles",0,0.0,0.0
+2024-10-07,Anti-aircraft systems,1,0.142857,4.285714
+2024-10-07,Anti-tank systems,0,0.0,0.0
+2024-10-07,"Command posts, communication",3,0.428571,12.857143
+2024-10-07,Drones,5,0.714286,21.428571
+2024-10-07,Engineering,4,0.571429,17.142857
+2024-10-07,Helicopters,0,0.0,0.0
+2024-10-07,Infantry fighting vehicles,54,7.714286,231.428571
+2024-10-07,Infantry mobility vehicles,1,0.142857,4.285714
+2024-10-07,Other,0,0.0,0.0
+2024-10-07,"Radars, jammers",1,0.142857,4.285714
+2024-10-07,Rocket and missile artillery,3,0.428571,12.857143
+2024-10-07,Self-propelled artillery,2,0.285714,8.571429
+2024-10-07,Tanks,9,1.285714,38.571429
+2024-10-07,Towed artillery,0,0.0,0.0
+2024-10-07,Transport,10,1.428571,42.857143
+2024-10-07,Vessels,0,0.0,0.0
+2024-10-14,Airplanes,0,0.0,0.0
+2024-10-14,"Ambulances, medical vehicles",0,0.0,0.0
+2024-10-14,Anti-aircraft systems,2,0.285714,8.571429
+2024-10-14,Anti-tank systems,0,0.0,0.0
+2024-10-14,"Command posts, communication",0,0.0,0.0
+2024-10-14,Drones,3,0.428571,12.857143
+2024-10-14,Engineering,1,0.142857,4.285714
+2024-10-14,Helicopters,0,0.0,0.0
+2024-10-14,Infantry fighting vehicles,98,14.0,420.0
+2024-10-14,Infantry mobility vehicles,8,1.142857,34.285714
+2024-10-14,Other,0,0.0,0.0
+2024-10-14,"Radars, jammers",0,0.0,0.0
+2024-10-14,Rocket and missile artillery,1,0.142857,4.285714
+2024-10-14,Self-propelled artillery,5,0.714286,21.428571
+2024-10-14,Tanks,23,3.285714,98.571429
+2024-10-14,Towed artillery,1,0.142857,4.285714
+2024-10-14,Transport,12,1.714286,51.428571
+2024-10-14,Vessels,0,0.0,0.0
+2024-10-21,Airplanes,0,0.0,0.0
+2024-10-21,"Ambulances, medical vehicles",0,0.0,0.0
+2024-10-21,Anti-aircraft systems,2,0.285714,8.571429
+2024-10-21,Anti-tank systems,0,0.0,0.0
+2024-10-21,"Command posts, communication",0,0.0,0.0
+2024-10-21,Drones,10,1.428571,42.857143
+2024-10-21,Engineering,2,0.285714,8.571429
+2024-10-21,Helicopters,0,0.0,0.0
+2024-10-21,Infantry fighting vehicles,61,8.714286,261.428571
+2024-10-21,Infantry mobility vehicles,8,1.142857,34.285714
+2024-10-21,Other,0,0.0,0.0
+2024-10-21,"Radars, jammers",4,0.571429,17.142857
+2024-10-21,Rocket and missile artillery,5,0.714286,21.428571
+2024-10-21,Self-propelled artillery,2,0.285714,8.571429
+2024-10-21,Tanks,16,2.285714,68.571429
+2024-10-21,Towed artillery,1,0.142857,4.285714
+2024-10-21,Transport,10,1.428571,42.857143
+2024-10-21,Vessels,0,0.0,0.0
+2024-10-28,Airplanes,0,0.0,0.0
+2024-10-28,"Ambulances, medical vehicles",0,0.0,0.0
+2024-10-28,Anti-aircraft systems,4,0.571429,17.142857
+2024-10-28,Anti-tank systems,1,0.142857,4.285714
+2024-10-28,"Command posts, communication",0,0.0,0.0
+2024-10-28,Drones,10,1.428571,42.857143
+2024-10-28,Engineering,4,0.571429,17.142857
+2024-10-28,Helicopters,0,0.0,0.0
+2024-10-28,Infantry fighting vehicles,82,11.714286,351.428571
+2024-10-28,Infantry mobility vehicles,7,1.0,30.0
+2024-10-28,Other,0,0.0,0.0
+2024-10-28,"Radars, jammers",1,0.142857,4.285714
+2024-10-28,Rocket and missile artillery,1,0.142857,4.285714
+2024-10-28,Self-propelled artillery,6,0.857143,25.714286
+2024-10-28,Tanks,31,4.428571,132.857143
+2024-10-28,Towed artillery,1,0.142857,4.285714
+2024-10-28,Transport,18,2.571429,77.142857
+2024-10-28,Vessels,0,0.0,0.0
+2024-11-04,Airplanes,0,0.0,0.0
+2024-11-04,"Ambulances, medical vehicles",0,0.0,0.0
+2024-11-04,Anti-aircraft systems,1,0.142857,4.285714
+2024-11-04,Anti-tank systems,0,0.0,0.0
+2024-11-04,"Command posts, communication",0,0.0,0.0
+2024-11-04,Drones,5,0.714286,21.428571
+2024-11-04,Engineering,0,0.0,0.0
+2024-11-04,Helicopters,0,0.0,0.0
+2024-11-04,Infantry fighting vehicles,78,11.142857,334.285714
+2024-11-04,Infantry mobility vehicles,14,2.0,60.0
+2024-11-04,Other,0,0.0,0.0
+2024-11-04,"Radars, jammers",1,0.142857,4.285714
+2024-11-04,Rocket and missile artillery,1,0.142857,4.285714
+2024-11-04,Self-propelled artillery,1,0.142857,4.285714
+2024-11-04,Tanks,19,2.714286,81.428571
+2024-11-04,Towed artillery,0,0.0,0.0
+2024-11-04,Transport,7,1.0,30.0
+2024-11-04,Vessels,0,0.0,0.0
+2024-11-11,Airplanes,0,0.0,0.0
+2024-11-11,"Ambulances, medical vehicles",0,0.0,0.0
+2024-11-11,Anti-aircraft systems,3,0.428571,12.857143
+2024-11-11,Anti-tank systems,0,0.0,0.0
+2024-11-11,"Command posts, communication",0,0.0,0.0
+2024-11-11,Drones,6,0.857143,25.714286
+2024-11-11,Engineering,1,0.142857,4.285714
+2024-11-11,Helicopters,0,0.0,0.0
+2024-11-11,Infantry fighting vehicles,79,11.285714,338.571429
+2024-11-11,Infantry mobility vehicles,13,1.857143,55.714286
+2024-11-11,Other,0,0.0,0.0
+2024-11-11,"Radars, jammers",1,0.142857,4.285714
+2024-11-11,Rocket and missile artillery,2,0.285714,8.571429
+2024-11-11,Self-propelled artillery,1,0.142857,4.285714
+2024-11-11,Tanks,27,3.857143,115.714286
+2024-11-11,Towed artillery,0,0.0,0.0
+2024-11-11,Transport,13,1.857143,55.714286
+2024-11-11,Vessels,0,0.0,0.0
+2024-11-18,Airplanes,0,0.0,0.0
+2024-11-18,"Ambulances, medical vehicles",0,0.0,0.0
+2024-11-18,Anti-aircraft systems,1,0.142857,4.285714
+2024-11-18,Anti-tank systems,0,0.0,0.0
+2024-11-18,"Command posts, communication",0,0.0,0.0
+2024-11-18,Drones,5,0.714286,21.428571
+2024-11-18,Engineering,2,0.285714,8.571429
+2024-11-18,Helicopters,0,0.0,0.0
+2024-11-18,Infantry fighting vehicles,58,8.285714,248.571429
+2024-11-18,Infantry mobility vehicles,9,1.285714,38.571429
+2024-11-18,Other,1,0.142857,4.285714
+2024-11-18,"Radars, jammers",1,0.142857,4.285714
+2024-11-18,Rocket and missile artillery,3,0.428571,12.857143
+2024-11-18,Self-propelled artillery,3,0.428571,12.857143
+2024-11-18,Tanks,16,2.285714,68.571429
+2024-11-18,Towed artillery,0,0.0,0.0
+2024-11-18,Transport,7,1.0,30.0
+2024-11-18,Vessels,0,0.0,0.0
+2024-11-25,Airplanes,0,0.0,0.0
+2024-11-25,"Ambulances, medical vehicles",0,0.0,0.0
+2024-11-25,Anti-aircraft systems,3,0.428571,12.857143
+2024-11-25,Anti-tank systems,0,0.0,0.0
+2024-11-25,"Command posts, communication",0,0.0,0.0
+2024-11-25,Drones,15,2.142857,64.285714
+2024-11-25,Engineering,4,0.571429,17.142857
+2024-11-25,Helicopters,0,0.0,0.0
+2024-11-25,Infantry fighting vehicles,95,13.571429,407.142857
+2024-11-25,Infantry mobility vehicles,10,1.428571,42.857143
+2024-11-25,Other,0,0.0,0.0
+2024-11-25,"Radars, jammers",1,0.142857,4.285714
+2024-11-25,Rocket and missile artillery,2,0.285714,8.571429
+2024-11-25,Self-propelled artillery,5,0.714286,21.428571
+2024-11-25,Tanks,17,2.428571,72.857143
+2024-11-25,Towed artillery,0,0.0,0.0
+2024-11-25,Transport,8,1.142857,34.285714
+2024-11-25,Vessels,0,0.0,0.0
+2024-12-02,Airplanes,0,0.0,0.0
+2024-12-02,"Ambulances, medical vehicles",1,0.142857,4.285714
+2024-12-02,Anti-aircraft systems,1,0.142857,4.285714
+2024-12-02,Anti-tank systems,0,0.0,0.0
+2024-12-02,"Command posts, communication",0,0.0,0.0
+2024-12-02,Drones,2,0.285714,8.571429
+2024-12-02,Engineering,4,0.571429,17.142857
+2024-12-02,Helicopters,0,0.0,0.0
+2024-12-02,Infantry fighting vehicles,69,9.857143,295.714286
+2024-12-02,Infantry mobility vehicles,8,1.142857,34.285714
+2024-12-02,Other,2,0.285714,8.571429
+2024-12-02,"Radars, jammers",0,0.0,0.0
+2024-12-02,Rocket and missile artillery,1,0.142857,4.285714
+2024-12-02,Self-propelled artillery,1,0.142857,4.285714
+2024-12-02,Tanks,13,1.857143,55.714286
+2024-12-02,Towed artillery,0,0.0,0.0
+2024-12-02,Transport,5,0.714286,21.428571
+2024-12-02,Vessels,0,0.0,0.0
+2024-12-09,Airplanes,1,0.142857,4.285714
+2024-12-09,"Ambulances, medical vehicles",0,0.0,0.0
+2024-12-09,Anti-aircraft systems,0,0.0,0.0
+2024-12-09,Anti-tank systems,0,0.0,0.0
+2024-12-09,"Command posts, communication",0,0.0,0.0
+2024-12-09,Drones,3,0.428571,12.857143
+2024-12-09,Engineering,2,0.285714,8.571429
+2024-12-09,Helicopters,0,0.0,0.0
+2024-12-09,Infantry fighting vehicles,49,7.0,210.0
+2024-12-09,Infantry mobility vehicles,4,0.571429,17.142857
+2024-12-09,Other,0,0.0,0.0
+2024-12-09,"Radars, jammers",0,0.0,0.0
+2024-12-09,Rocket and missile artillery,1,0.142857,4.285714
+2024-12-09,Self-propelled artillery,0,0.0,0.0
+2024-12-09,Tanks,6,0.857143,25.714286
+2024-12-09,Towed artillery,0,0.0,0.0
+2024-12-09,Transport,8,1.142857,34.285714
+2024-12-09,Vessels,0,0.0,0.0
+2024-12-16,Airplanes,0,0.0,0.0
+2024-12-16,"Ambulances, medical vehicles",0,0.0,0.0
+2024-12-16,Anti-aircraft systems,0,0.0,0.0
+2024-12-16,Anti-tank systems,0,0.0,0.0
+2024-12-16,"Command posts, communication",0,0.0,0.0
+2024-12-16,Drones,6,0.857143,25.714286
+2024-12-16,Engineering,0,0.0,0.0
+2024-12-16,Helicopters,0,0.0,0.0
+2024-12-16,Infantry fighting vehicles,40,5.714286,171.428571
+2024-12-16,Infantry mobility vehicles,1,0.142857,4.285714
+2024-12-16,Other,1,0.142857,4.285714
+2024-12-16,"Radars, jammers",0,0.0,0.0
+2024-12-16,Rocket and missile artillery,1,0.142857,4.285714
+2024-12-16,Self-propelled artillery,0,0.0,0.0
+2024-12-16,Tanks,15,2.142857,64.285714
+2024-12-16,Towed artillery,0,0.0,0.0
+2024-12-16,Transport,1,0.142857,4.285714
+2024-12-16,Vessels,0,0.0,0.0
+2024-12-23,Airplanes,0,0.0,0.0
+2024-12-23,"Ambulances, medical vehicles",0,0.0,0.0
+2024-12-23,Anti-aircraft systems,1,0.142857,4.285714
+2024-12-23,Anti-tank systems,0,0.0,0.0
+2024-12-23,"Command posts, communication",0,0.0,0.0
+2024-12-23,Drones,4,0.571429,17.142857
+2024-12-23,Engineering,0,0.0,0.0
+2024-12-23,Helicopters,0,0.0,0.0
+2024-12-23,Infantry fighting vehicles,33,4.714286,141.428571
+2024-12-23,Infantry mobility vehicles,6,0.857143,25.714286
+2024-12-23,Other,1,0.142857,4.285714
+2024-12-23,"Radars, jammers",0,0.0,0.0
+2024-12-23,Rocket and missile artillery,1,0.142857,4.285714
+2024-12-23,Self-propelled artillery,2,0.285714,8.571429
+2024-12-23,Tanks,18,2.571429,77.142857
+2024-12-23,Towed artillery,0,0.0,0.0
+2024-12-23,Transport,3,0.428571,12.857143
+2024-12-23,Vessels,0,0.0,0.0
+2024-12-30,Airplanes,0,0.0,0.0
+2024-12-30,"Ambulances, medical vehicles",0,0.0,0.0
+2024-12-30,Anti-aircraft systems,2,0.285714,8.571429
+2024-12-30,Anti-tank systems,0,0.0,0.0
+2024-12-30,"Command posts, communication",0,0.0,0.0
+2024-12-30,Drones,4,0.571429,17.142857
+2024-12-30,Engineering,3,0.428571,12.857143
+2024-12-30,Helicopters,1,0.142857,4.285714
+2024-12-30,Infantry fighting vehicles,58,8.285714,248.571429
+2024-12-30,Infantry mobility vehicles,4,0.571429,17.142857
+2024-12-30,Other,0,0.0,0.0
+2024-12-30,"Radars, jammers",1,0.142857,4.285714
+2024-12-30,Rocket and missile artillery,0,0.0,0.0
+2024-12-30,Self-propelled artillery,2,0.285714,8.571429
+2024-12-30,Tanks,15,2.142857,64.285714
+2024-12-30,Towed artillery,1,0.142857,4.285714
+2024-12-30,Transport,9,1.285714,38.571429
+2024-12-30,Vessels,0,0.0,0.0
+2025-01-06,Airplanes,0,0.0,0.0
+2025-01-06,"Ambulances, medical vehicles",0,0.0,0.0
+2025-01-06,Anti-aircraft systems,2,0.285714,8.571429
+2025-01-06,Anti-tank systems,0,0.0,0.0
+2025-01-06,"Command posts, communication",0,0.0,0.0
+2025-01-06,Drones,2,0.285714,8.571429
+2025-01-06,Engineering,3,0.428571,12.857143
+2025-01-06,Helicopters,0,0.0,0.0
+2025-01-06,Infantry fighting vehicles,37,5.285714,158.571429
+2025-01-06,Infantry mobility vehicles,2,0.285714,8.571429
+2025-01-06,Other,0,0.0,0.0
+2025-01-06,"Radars, jammers",0,0.0,0.0
+2025-01-06,Rocket and missile artillery,2,0.285714,8.571429
+2025-01-06,Self-propelled artillery,2,0.285714,8.571429
+2025-01-06,Tanks,17,2.428571,72.857143
+2025-01-06,Towed artillery,1,0.142857,4.285714
+2025-01-06,Transport,8,1.142857,34.285714
+2025-01-06,Vessels,0,0.0,0.0
+2025-01-13,Airplanes,0,0.0,0.0
+2025-01-13,"Ambulances, medical vehicles",0,0.0,0.0
+2025-01-13,Anti-aircraft systems,0,0.0,0.0
+2025-01-13,Anti-tank systems,1,0.142857,4.285714
+2025-01-13,"Command posts, communication",0,0.0,0.0
+2025-01-13,Drones,5,0.714286,21.428571
+2025-01-13,Engineering,1,0.142857,4.285714
+2025-01-13,Helicopters,0,0.0,0.0
+2025-01-13,Infantry fighting vehicles,48,6.857143,205.714286
+2025-01-13,Infantry mobility vehicles,0,0.0,0.0
+2025-01-13,Other,1,0.142857,4.285714
+2025-01-13,"Radars, jammers",1,0.142857,4.285714
+2025-01-13,Rocket and missile artillery,0,0.0,0.0
+2025-01-13,Self-propelled artillery,3,0.428571,12.857143
+2025-01-13,Tanks,18,2.571429,77.142857
+2025-01-13,Towed artillery,0,0.0,0.0
+2025-01-13,Transport,5,0.714286,21.428571
+2025-01-13,Vessels,0,0.0,0.0
+2025-01-20,Airplanes,0,0.0,0.0
+2025-01-20,"Ambulances, medical vehicles",0,0.0,0.0
+2025-01-20,Anti-aircraft systems,2,0.285714,8.571429
+2025-01-20,Anti-tank systems,0,0.0,0.0
+2025-01-20,"Command posts, communication",0,0.0,0.0
+2025-01-20,Drones,6,0.857143,25.714286
+2025-01-20,Engineering,2,0.285714,8.571429
+2025-01-20,Helicopters,1,0.142857,4.285714
+2025-01-20,Infantry fighting vehicles,52,7.428571,222.857143
+2025-01-20,Infantry mobility vehicles,3,0.428571,12.857143
+2025-01-20,Other,0,0.0,0.0
+2025-01-20,"Radars, jammers",0,0.0,0.0
+2025-01-20,Rocket and missile artillery,1,0.142857,4.285714
+2025-01-20,Self-propelled artillery,4,0.571429,17.142857
+2025-01-20,Tanks,11,1.571429,47.142857
+2025-01-20,Towed artillery,0,0.0,0.0
+2025-01-20,Transport,5,0.714286,21.428571
+2025-01-20,Vessels,0,0.0,0.0
+2025-01-27,Airplanes,0,0.0,0.0
+2025-01-27,"Ambulances, medical vehicles",0,0.0,0.0
+2025-01-27,Anti-aircraft systems,0,0.0,0.0
+2025-01-27,Anti-tank systems,1,0.142857,4.285714
+2025-01-27,"Command posts, communication",0,0.0,0.0
+2025-01-27,Drones,9,1.285714,38.571429
+2025-01-27,Engineering,1,0.142857,4.285714
+2025-01-27,Helicopters,0,0.0,0.0
+2025-01-27,Infantry fighting vehicles,33,4.714286,141.428571
+2025-01-27,Infantry mobility vehicles,3,0.428571,12.857143
+2025-01-27,Other,0,0.0,0.0
+2025-01-27,"Radars, jammers",0,0.0,0.0
+2025-01-27,Rocket and missile artillery,3,0.428571,12.857143
+2025-01-27,Self-propelled artillery,2,0.285714,8.571429
+2025-01-27,Tanks,14,2.0,60.0
+2025-01-27,Towed artillery,0,0.0,0.0
+2025-01-27,Transport,12,1.714286,51.428571
+2025-01-27,Vessels,0,0.0,0.0
+2025-02-03,Airplanes,1,0.142857,4.285714
+2025-02-03,"Ambulances, medical vehicles",0,0.0,0.0
+2025-02-03,Anti-aircraft systems,1,0.142857,4.285714
+2025-02-03,Anti-tank systems,0,0.0,0.0
+2025-02-03,"Command posts, communication",0,0.0,0.0
+2025-02-03,Drones,7,1.0,30.0
+2025-02-03,Engineering,0,0.0,0.0
+2025-02-03,Helicopters,0,0.0,0.0
+2025-02-03,Infantry fighting vehicles,30,4.285714,128.571429
+2025-02-03,Infantry mobility vehicles,6,0.857143,25.714286
+2025-02-03,Other,0,0.0,0.0
+2025-02-03,"Radars, jammers",2,0.285714,8.571429
+2025-02-03,Rocket and missile artillery,2,0.285714,8.571429
+2025-02-03,Self-propelled artillery,3,0.428571,12.857143
+2025-02-03,Tanks,16,2.285714,68.571429
+2025-02-03,Towed artillery,0,0.0,0.0
+2025-02-03,Transport,13,1.857143,55.714286
+2025-02-03,Vessels,0,0.0,0.0
+2025-02-10,Airplanes,0,0.0,0.0
+2025-02-10,"Ambulances, medical vehicles",0,0.0,0.0
+2025-02-10,Anti-aircraft systems,1,0.142857,4.285714
+2025-02-10,Anti-tank systems,0,0.0,0.0
+2025-02-10,"Command posts, communication",0,0.0,0.0
+2025-02-10,Drones,7,1.0,30.0
+2025-02-10,Engineering,1,0.142857,4.285714
+2025-02-10,Helicopters,0,0.0,0.0
+2025-02-10,Infantry fighting vehicles,49,7.0,210.0
+2025-02-10,Infantry mobility vehicles,4,0.571429,17.142857
+2025-02-10,Other,0,0.0,0.0
+2025-02-10,"Radars, jammers",0,0.0,0.0
+2025-02-10,Rocket and missile artillery,6,0.857143,25.714286
+2025-02-10,Self-propelled artillery,3,0.428571,12.857143
+2025-02-10,Tanks,24,3.428571,102.857143
+2025-02-10,Towed artillery,1,0.142857,4.285714
+2025-02-10,Transport,14,2.0,60.0
+2025-02-10,Vessels,0,0.0,0.0
+2025-02-17,Airplanes,0,0.0,0.0
+2025-02-17,"Ambulances, medical vehicles",0,0.0,0.0
+2025-02-17,Anti-aircraft systems,1,0.142857,4.285714
+2025-02-17,Anti-tank systems,0,0.0,0.0
+2025-02-17,"Command posts, communication",0,0.0,0.0
+2025-02-17,Drones,4,0.571429,17.142857
+2025-02-17,Engineering,1,0.142857,4.285714
+2025-02-17,Helicopters,0,0.0,0.0
+2025-02-17,Infantry fighting vehicles,54,7.714286,231.428571
+2025-02-17,Infantry mobility vehicles,2,0.285714,8.571429
+2025-02-17,Other,0,0.0,0.0
+2025-02-17,"Radars, jammers",0,0.0,0.0
+2025-02-17,Rocket and missile artillery,2,0.285714,8.571429
+2025-02-17,Self-propelled artillery,2,0.285714,8.571429
+2025-02-17,Tanks,14,2.0,60.0
+2025-02-17,Towed artillery,1,0.142857,4.285714
+2025-02-17,Transport,16,2.285714,68.571429
+2025-02-17,Vessels,0,0.0,0.0
+2025-02-24,Airplanes,0,0.0,0.0
+2025-02-24,"Ambulances, medical vehicles",0,0.0,0.0
+2025-02-24,Anti-aircraft systems,6,0.857143,25.714286
+2025-02-24,Anti-tank systems,0,0.0,0.0
+2025-02-24,"Command posts, communication",0,0.0,0.0
+2025-02-24,Drones,8,1.142857,34.285714
+2025-02-24,Engineering,1,0.142857,4.285714
+2025-02-24,Helicopters,0,0.0,0.0
+2025-02-24,Infantry fighting vehicles,46,6.571429,197.142857
+2025-02-24,Infantry mobility vehicles,8,1.142857,34.285714
+2025-02-24,Other,0,0.0,0.0
+2025-02-24,"Radars, jammers",2,0.285714,8.571429
+2025-02-24,Rocket and missile artillery,2,0.285714,8.571429
+2025-02-24,Self-propelled artillery,3,0.428571,12.857143
+2025-02-24,Tanks,16,2.285714,68.571429
+2025-02-24,Towed artillery,2,0.285714,8.571429
+2025-02-24,Transport,12,1.714286,51.428571
+2025-02-24,Vessels,0,0.0,0.0
+2025-03-03,Airplanes,0,0.0,0.0
+2025-03-03,"Ambulances, medical vehicles",0,0.0,0.0
+2025-03-03,Anti-aircraft systems,1,0.142857,4.285714
+2025-03-03,Anti-tank systems,0,0.0,0.0
+2025-03-03,"Command posts, communication",1,0.142857,4.285714
+2025-03-03,Drones,5,0.714286,21.428571
+2025-03-03,Engineering,3,0.428571,12.857143
+2025-03-03,Helicopters,0,0.0,0.0
+2025-03-03,Infantry fighting vehicles,33,4.714286,141.428571
+2025-03-03,Infantry mobility vehicles,5,0.714286,21.428571
+2025-03-03,Other,0,0.0,0.0
+2025-03-03,"Radars, jammers",1,0.142857,4.285714
+2025-03-03,Rocket and missile artillery,0,0.0,0.0
+2025-03-03,Self-propelled artillery,2,0.285714,8.571429
+2025-03-03,Tanks,12,1.714286,51.428571
+2025-03-03,Towed artillery,2,0.285714,8.571429
+2025-03-03,Transport,9,1.285714,38.571429
+2025-03-03,Vessels,0,0.0,0.0
+2025-03-10,Airplanes,0,0.0,0.0
+2025-03-10,"Ambulances, medical vehicles",1,0.142857,4.285714
+2025-03-10,Anti-aircraft systems,2,0.285714,8.571429
+2025-03-10,Anti-tank systems,0,0.0,0.0
+2025-03-10,"Command posts, communication",0,0.0,0.0
+2025-03-10,Drones,5,0.714286,21.428571
+2025-03-10,Engineering,0,0.0,0.0
+2025-03-10,Helicopters,0,0.0,0.0
+2025-03-10,Infantry fighting vehicles,42,6.0,180.0
+2025-03-10,Infantry mobility vehicles,3,0.428571,12.857143
+2025-03-10,Other,0,0.0,0.0
+2025-03-10,"Radars, jammers",0,0.0,0.0
+2025-03-10,Rocket and missile artillery,2,0.285714,8.571429
+2025-03-10,Self-propelled artillery,1,0.142857,4.285714
+2025-03-10,Tanks,11,1.571429,47.142857
+2025-03-10,Towed artillery,0,0.0,0.0
+2025-03-10,Transport,5,0.714286,21.428571
+2025-03-10,Vessels,0,0.0,0.0
+2025-03-17,Airplanes,0,0.0,0.0
+2025-03-17,"Ambulances, medical vehicles",0,0.0,0.0
+2025-03-17,Anti-aircraft systems,1,0.142857,4.285714
+2025-03-17,Anti-tank systems,0,0.0,0.0
+2025-03-17,"Command posts, communication",0,0.0,0.0
+2025-03-17,Drones,11,1.571429,47.142857
+2025-03-17,Engineering,6,0.857143,25.714286
+2025-03-17,Helicopters,2,0.285714,8.571429
+2025-03-17,Infantry fighting vehicles,44,6.285714,188.571429
+2025-03-17,Infantry mobility vehicles,2,0.285714,8.571429
+2025-03-17,Other,0,0.0,0.0
+2025-03-17,"Radars, jammers",1,0.142857,4.285714
+2025-03-17,Rocket and missile artillery,6,0.857143,25.714286
+2025-03-17,Self-propelled artillery,5,0.714286,21.428571
+2025-03-17,Tanks,16,2.285714,68.571429
+2025-03-17,Towed artillery,2,0.285714,8.571429
+2025-03-17,Transport,11,1.571429,47.142857
+2025-03-17,Vessels,0,0.0,0.0
+2025-03-24,Airplanes,0,0.0,0.0
+2025-03-24,"Ambulances, medical vehicles",0,0.0,0.0
+2025-03-24,Anti-aircraft systems,0,0.0,0.0
+2025-03-24,Anti-tank systems,0,0.0,0.0
+2025-03-24,"Command posts, communication",0,0.0,0.0
+2025-03-24,Drones,8,1.142857,34.285714
+2025-03-24,Engineering,5,0.714286,21.428571
+2025-03-24,Helicopters,0,0.0,0.0
+2025-03-24,Infantry fighting vehicles,62,8.857143,265.714286
+2025-03-24,Infantry mobility vehicles,5,0.714286,21.428571
+2025-03-24,Other,0,0.0,0.0
+2025-03-24,"Radars, jammers",1,0.142857,4.285714
+2025-03-24,Rocket and missile artillery,1,0.142857,4.285714
+2025-03-24,Self-propelled artillery,4,0.571429,17.142857
+2025-03-24,Tanks,20,2.857143,85.714286
+2025-03-24,Towed artillery,3,0.428571,12.857143
+2025-03-24,Transport,6,0.857143,25.714286
+2025-03-24,Vessels,0,0.0,0.0
+2025-03-31,Airplanes,1,0.142857,4.285714
+2025-03-31,"Ambulances, medical vehicles",1,0.142857,4.285714
+2025-03-31,Anti-aircraft systems,1,0.142857,4.285714
+2025-03-31,Anti-tank systems,0,0.0,0.0
+2025-03-31,"Command posts, communication",0,0.0,0.0
+2025-03-31,Drones,12,1.714286,51.428571
+2025-03-31,Engineering,4,0.571429,17.142857
+2025-03-31,Helicopters,0,0.0,0.0
+2025-03-31,Infantry fighting vehicles,54,7.714286,231.428571
+2025-03-31,Infantry mobility vehicles,6,0.857143,25.714286
+2025-03-31,Other,2,0.285714,8.571429
+2025-03-31,"Radars, jammers",0,0.0,0.0
+2025-03-31,Rocket and missile artillery,3,0.428571,12.857143
+2025-03-31,Self-propelled artillery,2,0.285714,8.571429
+2025-03-31,Tanks,31,4.428571,132.857143
+2025-03-31,Towed artillery,0,0.0,0.0
+2025-03-31,Transport,14,2.0,60.0
+2025-03-31,Vessels,0,0.0,0.0
+2025-04-07,Airplanes,0,0.0,0.0
+2025-04-07,"Ambulances, medical vehicles",1,0.142857,4.285714
+2025-04-07,Anti-aircraft systems,3,0.428571,12.857143
+2025-04-07,Anti-tank systems,0,0.0,0.0
+2025-04-07,"Command posts, communication",0,0.0,0.0
+2025-04-07,Drones,13,1.857143,55.714286
+2025-04-07,Engineering,3,0.428571,12.857143
+2025-04-07,Helicopters,0,0.0,0.0
+2025-04-07,Infantry fighting vehicles,65,9.285714,278.571429
+2025-04-07,Infantry mobility vehicles,8,1.142857,34.285714
+2025-04-07,Other,1,0.142857,4.285714
+2025-04-07,"Radars, jammers",1,0.142857,4.285714
+2025-04-07,Rocket and missile artillery,3,0.428571,12.857143
+2025-04-07,Self-propelled artillery,2,0.285714,8.571429
+2025-04-07,Tanks,19,2.714286,81.428571
+2025-04-07,Towed artillery,0,0.0,0.0
+2025-04-07,Transport,18,2.571429,77.142857
+2025-04-07,Vessels,0,0.0,0.0
+2025-04-14,Airplanes,0,0.0,0.0
+2025-04-14,"Ambulances, medical vehicles",0,0.0,0.0
+2025-04-14,Anti-aircraft systems,1,0.142857,4.285714
+2025-04-14,Anti-tank systems,0,0.0,0.0
+2025-04-14,"Command posts, communication",0,0.0,0.0
+2025-04-14,Drones,9,1.285714,38.571429
+2025-04-14,Engineering,1,0.142857,4.285714
+2025-04-14,Helicopters,0,0.0,0.0
+2025-04-14,Infantry fighting vehicles,44,6.285714,188.571429
+2025-04-14,Infantry mobility vehicles,7,1.0,30.0
+2025-04-14,Other,0,0.0,0.0
+2025-04-14,"Radars, jammers",2,0.285714,8.571429
+2025-04-14,Rocket and missile artillery,3,0.428571,12.857143
+2025-04-14,Self-propelled artillery,3,0.428571,12.857143
+2025-04-14,Tanks,9,1.285714,38.571429
+2025-04-14,Towed artillery,0,0.0,0.0
+2025-04-14,Transport,14,2.0,60.0
+2025-04-14,Vessels,0,0.0,0.0
+2025-04-21,Airplanes,0,0.0,0.0
+2025-04-21,"Ambulances, medical vehicles",0,0.0,0.0
+2025-04-21,Anti-aircraft systems,1,0.142857,4.285714
+2025-04-21,Anti-tank systems,0,0.0,0.0
+2025-04-21,"Command posts, communication",0,0.0,0.0
+2025-04-21,Drones,8,1.142857,34.285714
+2025-04-21,Engineering,2,0.285714,8.571429
+2025-04-21,Helicopters,0,0.0,0.0
+2025-04-21,Infantry fighting vehicles,22,3.142857,94.285714
+2025-04-21,Infantry mobility vehicles,2,0.285714,8.571429
+2025-04-21,Other,1,0.142857,4.285714
+2025-04-21,"Radars, jammers",3,0.428571,12.857143
+2025-04-21,Rocket and missile artillery,0,0.0,0.0
+2025-04-21,Self-propelled artillery,3,0.428571,12.857143
+2025-04-21,Tanks,11,1.571429,47.142857
+2025-04-21,Towed artillery,2,0.285714,8.571429
+2025-04-21,Transport,12,1.714286,51.428571
+2025-04-21,Vessels,0,0.0,0.0
+2025-04-28,Airplanes,1,0.142857,4.285714
+2025-04-28,"Ambulances, medical vehicles",0,0.0,0.0
+2025-04-28,Anti-aircraft systems,3,0.428571,12.857143
+2025-04-28,Anti-tank systems,0,0.0,0.0
+2025-04-28,"Command posts, communication",0,0.0,0.0
+2025-04-28,Drones,7,1.0,30.0
+2025-04-28,Engineering,3,0.428571,12.857143
+2025-04-28,Helicopters,0,0.0,0.0
+2025-04-28,Infantry fighting vehicles,26,3.714286,111.428571
+2025-04-28,Infantry mobility vehicles,7,1.0,30.0
+2025-04-28,Other,2,0.285714,8.571429
+2025-04-28,"Radars, jammers",0,0.0,0.0
+2025-04-28,Rocket and missile artillery,3,0.428571,12.857143
+2025-04-28,Self-propelled artillery,5,0.714286,21.428571
+2025-04-28,Tanks,11,1.571429,47.142857
+2025-04-28,Towed artillery,1,0.142857,4.285714
+2025-04-28,Transport,22,3.142857,94.285714
+2025-04-28,Vessels,0,0.0,0.0
+2025-05-05,Airplanes,0,0.0,0.0
+2025-05-05,"Ambulances, medical vehicles",1,0.142857,4.285714
+2025-05-05,Anti-aircraft systems,2,0.285714,8.571429
+2025-05-05,Anti-tank systems,0,0.0,0.0
+2025-05-05,"Command posts, communication",0,0.0,0.0
+2025-05-05,Drones,6,0.857143,25.714286
+2025-05-05,Engineering,0,0.0,0.0
+2025-05-05,Helicopters,0,0.0,0.0
+2025-05-05,Infantry fighting vehicles,31,4.428571,132.857143
+2025-05-05,Infantry mobility vehicles,0,0.0,0.0
+2025-05-05,Other,0,0.0,0.0
+2025-05-05,"Radars, jammers",0,0.0,0.0
+2025-05-05,Rocket and missile artillery,2,0.285714,8.571429
+2025-05-05,Self-propelled artillery,4,0.571429,17.142857
+2025-05-05,Tanks,9,1.285714,38.571429
+2025-05-05,Towed artillery,3,0.428571,12.857143
+2025-05-05,Transport,12,1.714286,51.428571
+2025-05-05,Vessels,0,0.0,0.0
+2025-05-12,Airplanes,0,0.0,0.0
+2025-05-12,"Ambulances, medical vehicles",0,0.0,0.0
+2025-05-12,Anti-aircraft systems,3,0.428571,12.857143
+2025-05-12,Anti-tank systems,0,0.0,0.0
+2025-05-12,"Command posts, communication",0,0.0,0.0
+2025-05-12,Drones,5,0.714286,21.428571
+2025-05-12,Engineering,2,0.285714,8.571429
+2025-05-12,Helicopters,0,0.0,0.0
+2025-05-12,Infantry fighting vehicles,27,3.857143,115.714286
+2025-05-12,Infantry mobility vehicles,3,0.428571,12.857143
+2025-05-12,Other,1,0.142857,4.285714
+2025-05-12,"Radars, jammers",1,0.142857,4.285714
+2025-05-12,Rocket and missile artillery,1,0.142857,4.285714
+2025-05-12,Self-propelled artillery,2,0.285714,8.571429
+2025-05-12,Tanks,7,1.0,30.0
+2025-05-12,Towed artillery,0,0.0,0.0
+2025-05-12,Transport,11,1.571429,47.142857
+2025-05-12,Vessels,0,0.0,0.0
+2025-05-19,Airplanes,0,0.0,0.0
+2025-05-19,"Ambulances, medical vehicles",0,0.0,0.0
+2025-05-19,Anti-aircraft systems,2,0.285714,8.571429
+2025-05-19,Anti-tank systems,0,0.0,0.0
+2025-05-19,"Command posts, communication",0,0.0,0.0
+2025-05-19,Drones,11,1.571429,47.142857
+2025-05-19,Engineering,1,0.142857,4.285714
+2025-05-19,Helicopters,1,0.142857,4.285714
+2025-05-19,Infantry fighting vehicles,23,3.285714,98.571429
+2025-05-19,Infantry mobility vehicles,1,0.142857,4.285714
+2025-05-19,Other,1,0.142857,4.285714
+2025-05-19,"Radars, jammers",1,0.142857,4.285714
+2025-05-19,Rocket and missile artillery,1,0.142857,4.285714
+2025-05-19,Self-propelled artillery,4,0.571429,17.142857
+2025-05-19,Tanks,8,1.142857,34.285714
+2025-05-19,Towed artillery,2,0.285714,8.571429
+2025-05-19,Transport,14,2.0,60.0
+2025-05-19,Vessels,0,0.0,0.0
+2025-05-26,Airplanes,14,2.0,60.0
+2025-05-26,"Ambulances, medical vehicles",0,0.0,0.0
+2025-05-26,Anti-aircraft systems,1,0.142857,4.285714
+2025-05-26,Anti-tank systems,0,0.0,0.0
+2025-05-26,"Command posts, communication",0,0.0,0.0
+2025-05-26,Drones,9,1.285714,38.571429
+2025-05-26,Engineering,2,0.285714,8.571429
+2025-05-26,Helicopters,0,0.0,0.0
+2025-05-26,Infantry fighting vehicles,11,1.571429,47.142857
+2025-05-26,Infantry mobility vehicles,2,0.285714,8.571429
+2025-05-26,Other,0,0.0,0.0
+2025-05-26,"Radars, jammers",0,0.0,0.0
+2025-05-26,Rocket and missile artillery,1,0.142857,4.285714
+2025-05-26,Self-propelled artillery,4,0.571429,17.142857
+2025-05-26,Tanks,4,0.571429,17.142857
+2025-05-26,Towed artillery,0,0.0,0.0
+2025-05-26,Transport,7,1.0,30.0
+2025-05-26,Vessels,0,0.0,0.0
+2025-06-02,Airplanes,1,0.142857,4.285714
+2025-06-02,"Ambulances, medical vehicles",0,0.0,0.0
+2025-06-02,Anti-aircraft systems,2,0.285714,8.571429
+2025-06-02,Anti-tank systems,0,0.0,0.0
+2025-06-02,"Command posts, communication",0,0.0,0.0
+2025-06-02,Drones,3,0.428571,12.857143
+2025-06-02,Engineering,0,0.0,0.0
+2025-06-02,Helicopters,0,0.0,0.0
+2025-06-02,Infantry fighting vehicles,17,2.428571,72.857143
+2025-06-02,Infantry mobility vehicles,2,0.285714,8.571429
+2025-06-02,Other,1,0.142857,4.285714
+2025-06-02,"Radars, jammers",1,0.142857,4.285714
+2025-06-02,Rocket and missile artillery,2,0.285714,8.571429
+2025-06-02,Self-propelled artillery,0,0.0,0.0
+2025-06-02,Tanks,6,0.857143,25.714286
+2025-06-02,Towed artillery,2,0.285714,8.571429
+2025-06-02,Transport,14,2.0,60.0
+2025-06-02,Vessels,0,0.0,0.0
+2025-06-09,Airplanes,1,0.142857,4.285714
+2025-06-09,"Ambulances, medical vehicles",1,0.142857,4.285714
+2025-06-09,Anti-aircraft systems,1,0.142857,4.285714
+2025-06-09,Anti-tank systems,0,0.0,0.0
+2025-06-09,"Command posts, communication",0,0.0,0.0
+2025-06-09,Drones,0,0.0,0.0
+2025-06-09,Engineering,3,0.428571,12.857143
+2025-06-09,Helicopters,0,0.0,0.0
+2025-06-09,Infantry fighting vehicles,12,1.714286,51.428571
+2025-06-09,Infantry mobility vehicles,1,0.142857,4.285714
+2025-06-09,Other,0,0.0,0.0
+2025-06-09,"Radars, jammers",0,0.0,0.0
+2025-06-09,Rocket and missile artillery,2,0.285714,8.571429
+2025-06-09,Self-propelled artillery,3,0.428571,12.857143
+2025-06-09,Tanks,11,1.571429,47.142857
+2025-06-09,Towed artillery,1,0.142857,4.285714
+2025-06-09,Transport,12,1.714286,51.428571
+2025-06-09,Vessels,0,0.0,0.0
+2025-06-16,Airplanes,0,0.0,0.0
+2025-06-16,"Ambulances, medical vehicles",0,0.0,0.0
+2025-06-16,Anti-aircraft systems,0,0.0,0.0
+2025-06-16,Anti-tank systems,0,0.0,0.0
+2025-06-16,"Command posts, communication",0,0.0,0.0
+2025-06-16,Drones,3,0.428571,12.857143
+2025-06-16,Engineering,2,0.285714,8.571429
+2025-06-16,Helicopters,0,0.0,0.0
+2025-06-16,Infantry fighting vehicles,20,2.857143,85.714286
+2025-06-16,Infantry mobility vehicles,0,0.0,0.0
+2025-06-16,Other,3,0.428571,12.857143
+2025-06-16,"Radars, jammers",1,0.142857,4.285714
+2025-06-16,Rocket and missile artillery,2,0.285714,8.571429
+2025-06-16,Self-propelled artillery,5,0.714286,21.428571
+2025-06-16,Tanks,7,1.0,30.0
+2025-06-16,Towed artillery,3,0.428571,12.857143
+2025-06-16,Transport,18,2.571429,77.142857
+2025-06-16,Vessels,0,0.0,0.0
+2025-06-23,Airplanes,0,0.0,0.0
+2025-06-23,"Ambulances, medical vehicles",0,0.0,0.0
+2025-06-23,Anti-aircraft systems,3,0.428571,12.857143
+2025-06-23,Anti-tank systems,0,0.0,0.0
+2025-06-23,"Command posts, communication",0,0.0,0.0
+2025-06-23,Drones,1,0.142857,4.285714
+2025-06-23,Engineering,0,0.0,0.0
+2025-06-23,Helicopters,2,0.285714,8.571429
+2025-06-23,Infantry fighting vehicles,16,2.285714,68.571429
+2025-06-23,Infantry mobility vehicles,0,0.0,0.0
+2025-06-23,Other,0,0.0,0.0
+2025-06-23,"Radars, jammers",0,0.0,0.0
+2025-06-23,Rocket and missile artillery,2,0.285714,8.571429
+2025-06-23,Self-propelled artillery,1,0.142857,4.285714
+2025-06-23,Tanks,6,0.857143,25.714286
+2025-06-23,Towed artillery,2,0.285714,8.571429
+2025-06-23,Transport,4,0.571429,17.142857
+2025-06-23,Vessels,0,0.0,0.0
+2025-06-30,Airplanes,0,0.0,0.0
+2025-06-30,"Ambulances, medical vehicles",0,0.0,0.0
+2025-06-30,Anti-aircraft systems,1,0.142857,4.285714
+2025-06-30,Anti-tank systems,0,0.0,0.0
+2025-06-30,"Command posts, communication",0,0.0,0.0
+2025-06-30,Drones,7,1.0,30.0
+2025-06-30,Engineering,0,0.0,0.0
+2025-06-30,Helicopters,0,0.0,0.0
+2025-06-30,Infantry fighting vehicles,11,1.571429,47.142857
+2025-06-30,Infantry mobility vehicles,0,0.0,0.0
+2025-06-30,Other,0,0.0,0.0
+2025-06-30,"Radars, jammers",0,0.0,0.0
+2025-06-30,Rocket and missile artillery,1,0.142857,4.285714
+2025-06-30,Self-propelled artillery,1,0.142857,4.285714
+2025-06-30,Tanks,6,0.857143,25.714286
+2025-06-30,Towed artillery,1,0.142857,4.285714
+2025-06-30,Transport,11,1.571429,47.142857
+2025-06-30,Vessels,0,0.0,0.0
+2025-07-07,Airplanes,0,0.0,0.0
+2025-07-07,"Ambulances, medical vehicles",0,0.0,0.0
+2025-07-07,Anti-aircraft systems,2,0.285714,8.571429
+2025-07-07,Anti-tank systems,0,0.0,0.0
+2025-07-07,"Command posts, communication",0,0.0,0.0
+2025-07-07,Drones,1,0.142857,4.285714
+2025-07-07,Engineering,1,0.142857,4.285714
+2025-07-07,Helicopters,0,0.0,0.0
+2025-07-07,Infantry fighting vehicles,18,2.571429,77.142857
+2025-07-07,Infantry mobility vehicles,3,0.428571,12.857143
+2025-07-07,Other,0,0.0,0.0
+2025-07-07,"Radars, jammers",0,0.0,0.0
+2025-07-07,Rocket and missile artillery,2,0.285714,8.571429
+2025-07-07,Self-propelled artillery,2,0.285714,8.571429
+2025-07-07,Tanks,8,1.142857,34.285714
+2025-07-07,Towed artillery,4,0.571429,17.142857
+2025-07-07,Transport,12,1.714286,51.428571
+2025-07-07,Vessels,0,0.0,0.0
+2025-07-14,Airplanes,0,0.0,0.0
+2025-07-14,"Ambulances, medical vehicles",0,0.0,0.0
+2025-07-14,Anti-aircraft systems,1,0.142857,4.285714
+2025-07-14,Anti-tank systems,0,0.0,0.0
+2025-07-14,"Command posts, communication",0,0.0,0.0
+2025-07-14,Drones,4,0.571429,17.142857
+2025-07-14,Engineering,2,0.285714,8.571429
+2025-07-14,Helicopters,0,0.0,0.0
+2025-07-14,Infantry fighting vehicles,11,1.571429,47.142857
+2025-07-14,Infantry mobility vehicles,3,0.428571,12.857143
+2025-07-14,Other,2,0.285714,8.571429
+2025-07-14,"Radars, jammers",2,0.285714,8.571429
+2025-07-14,Rocket and missile artillery,0,0.0,0.0
+2025-07-14,Self-propelled artillery,4,0.571429,17.142857
+2025-07-14,Tanks,7,1.0,30.0
+2025-07-14,Towed artillery,2,0.285714,8.571429
+2025-07-14,Transport,8,1.142857,34.285714
+2025-07-14,Vessels,0,0.0,0.0
+2025-07-21,Airplanes,0,0.0,0.0
+2025-07-21,"Ambulances, medical vehicles",0,0.0,0.0
+2025-07-21,Anti-aircraft systems,0,0.0,0.0
+2025-07-21,Anti-tank systems,0,0.0,0.0
+2025-07-21,"Command posts, communication",1,0.142857,4.285714
+2025-07-21,Drones,2,0.285714,8.571429
+2025-07-21,Engineering,4,0.571429,17.142857
+2025-07-21,Helicopters,0,0.0,0.0
+2025-07-21,Infantry fighting vehicles,10,1.428571,42.857143
+2025-07-21,Infantry mobility vehicles,1,0.142857,4.285714
+2025-07-21,Other,1,0.142857,4.285714
+2025-07-21,"Radars, jammers",0,0.0,0.0
+2025-07-21,Rocket and missile artillery,1,0.142857,4.285714
+2025-07-21,Self-propelled artillery,2,0.285714,8.571429
+2025-07-21,Tanks,10,1.428571,42.857143
+2025-07-21,Towed artillery,6,0.857143,25.714286
+2025-07-21,Transport,9,1.285714,38.571429
+2025-07-21,Vessels,0,0.0,0.0
+2025-07-28,Airplanes,0,0.0,0.0
+2025-07-28,"Ambulances, medical vehicles",0,0.0,0.0
+2025-07-28,Anti-aircraft systems,0,0.0,0.0
+2025-07-28,Anti-tank systems,0,0.0,0.0
+2025-07-28,"Command posts, communication",1,0.142857,4.285714
+2025-07-28,Drones,1,0.142857,4.285714
+2025-07-28,Engineering,1,0.142857,4.285714
+2025-07-28,Helicopters,0,0.0,0.0
+2025-07-28,Infantry fighting vehicles,10,1.428571,42.857143
+2025-07-28,Infantry mobility vehicles,0,0.0,0.0
+2025-07-28,Other,1,0.142857,4.285714
+2025-07-28,"Radars, jammers",0,0.0,0.0
+2025-07-28,Rocket and missile artillery,0,0.0,0.0
+2025-07-28,Self-propelled artillery,1,0.142857,4.285714
+2025-07-28,Tanks,4,0.571429,17.142857
+2025-07-28,Towed artillery,5,0.714286,21.428571
+2025-07-28,Transport,7,1.0,30.0
+2025-07-28,Vessels,0,0.0,0.0
+2025-08-04,Airplanes,0,0.0,0.0
+2025-08-04,"Ambulances, medical vehicles",0,0.0,0.0
+2025-08-04,Anti-aircraft systems,0,0.0,0.0
+2025-08-04,Anti-tank systems,0,0.0,0.0
+2025-08-04,"Command posts, communication",0,0.0,0.0
+2025-08-04,Drones,4,0.571429,17.142857
+2025-08-04,Engineering,2,0.285714,8.571429
+2025-08-04,Helicopters,0,0.0,0.0
+2025-08-04,Infantry fighting vehicles,12,1.714286,51.428571
+2025-08-04,Infantry mobility vehicles,1,0.142857,4.285714
+2025-08-04,Other,1,0.142857,4.285714
+2025-08-04,"Radars, jammers",0,0.0,0.0
+2025-08-04,Rocket and missile artillery,5,0.714286,21.428571
+2025-08-04,Self-propelled artillery,1,0.142857,4.285714
+2025-08-04,Tanks,6,0.857143,25.714286
+2025-08-04,Towed artillery,2,0.285714,8.571429
+2025-08-04,Transport,15,2.142857,64.285714
+2025-08-04,Vessels,0,0.0,0.0
+2025-08-11,Airplanes,0,0.0,0.0
+2025-08-11,"Ambulances, medical vehicles",0,0.0,0.0
+2025-08-11,Anti-aircraft systems,0,0.0,0.0
+2025-08-11,Anti-tank systems,0,0.0,0.0
+2025-08-11,"Command posts, communication",1,0.142857,4.285714
+2025-08-11,Drones,2,0.285714,8.571429
+2025-08-11,Engineering,1,0.142857,4.285714
+2025-08-11,Helicopters,0,0.0,0.0
+2025-08-11,Infantry fighting vehicles,18,2.571429,77.142857
+2025-08-11,Infantry mobility vehicles,2,0.285714,8.571429
+2025-08-11,Other,0,0.0,0.0
+2025-08-11,"Radars, jammers",0,0.0,0.0
+2025-08-11,Rocket and missile artillery,1,0.142857,4.285714
+2025-08-11,Self-propelled artillery,1,0.142857,4.285714
+2025-08-11,Tanks,12,1.714286,51.428571
+2025-08-11,Towed artillery,5,0.714286,21.428571
+2025-08-11,Transport,25,3.571429,107.142857
+2025-08-11,Vessels,0,0.0,0.0
+2025-08-18,Airplanes,0,0.0,0.0
+2025-08-18,"Ambulances, medical vehicles",0,0.0,0.0
+2025-08-18,Anti-aircraft systems,1,0.142857,4.285714
+2025-08-18,Anti-tank systems,0,0.0,0.0
+2025-08-18,"Command posts, communication",0,0.0,0.0
+2025-08-18,Drones,4,0.571429,17.142857
+2025-08-18,Engineering,2,0.285714,8.571429
+2025-08-18,Helicopters,0,0.0,0.0
+2025-08-18,Infantry fighting vehicles,17,2.428571,72.857143
+2025-08-18,Infantry mobility vehicles,0,0.0,0.0
+2025-08-18,Other,0,0.0,0.0
+2025-08-18,"Radars, jammers",0,0.0,0.0
+2025-08-18,Rocket and missile artillery,1,0.142857,4.285714
+2025-08-18,Self-propelled artillery,1,0.142857,4.285714
+2025-08-18,Tanks,6,0.857143,25.714286
+2025-08-18,Towed artillery,7,1.0,30.0
+2025-08-18,Transport,9,1.285714,38.571429
+2025-08-18,Vessels,0,0.0,0.0
+2025-08-25,Airplanes,0,0.0,0.0
+2025-08-25,"Ambulances, medical vehicles",0,0.0,0.0
+2025-08-25,Anti-aircraft systems,2,0.285714,8.571429
+2025-08-25,Anti-tank systems,0,0.0,0.0
+2025-08-25,"Command posts, communication",2,0.285714,8.571429
+2025-08-25,Drones,5,0.714286,21.428571
+2025-08-25,Engineering,1,0.142857,4.285714
+2025-08-25,Helicopters,2,0.285714,8.571429
+2025-08-25,Infantry fighting vehicles,27,3.857143,115.714286
+2025-08-25,Infantry mobility vehicles,3,0.428571,12.857143
+2025-08-25,Other,0,0.0,0.0
+2025-08-25,"Radars, jammers",0,0.0,0.0
+2025-08-25,Rocket and missile artillery,2,0.285714,8.571429
+2025-08-25,Self-propelled artillery,5,0.714286,21.428571
+2025-08-25,Tanks,16,2.285714,68.571429
+2025-08-25,Towed artillery,5,0.714286,21.428571
+2025-08-25,Transport,16,2.285714,68.571429
+2025-08-25,Vessels,0,0.0,0.0
+2025-09-01,Airplanes,0,0.0,0.0
+2025-09-01,"Ambulances, medical vehicles",1,0.142857,4.285714
+2025-09-01,Anti-aircraft systems,3,0.428571,12.857143
+2025-09-01,Anti-tank systems,0,0.0,0.0
+2025-09-01,"Command posts, communication",0,0.0,0.0
+2025-09-01,Drones,1,0.142857,4.285714
+2025-09-01,Engineering,0,0.0,0.0
+2025-09-01,Helicopters,0,0.0,0.0
+2025-09-01,Infantry fighting vehicles,9,1.285714,38.571429
+2025-09-01,Infantry mobility vehicles,0,0.0,0.0
+2025-09-01,Other,0,0.0,0.0
+2025-09-01,"Radars, jammers",0,0.0,0.0
+2025-09-01,Rocket and missile artillery,5,0.714286,21.428571
+2025-09-01,Self-propelled artillery,1,0.142857,4.285714
+2025-09-01,Tanks,7,1.0,30.0
+2025-09-01,Towed artillery,3,0.428571,12.857143
+2025-09-01,Transport,22,3.142857,94.285714
+2025-09-01,Vessels,0,0.0,0.0
+2025-09-08,Airplanes,0,0.0,0.0
+2025-09-08,"Ambulances, medical vehicles",0,0.0,0.0
+2025-09-08,Anti-aircraft systems,0,0.0,0.0
+2025-09-08,Anti-tank systems,0,0.0,0.0
+2025-09-08,"Command posts, communication",0,0.0,0.0
+2025-09-08,Drones,5,0.714286,21.428571
+2025-09-08,Engineering,0,0.0,0.0
+2025-09-08,Helicopters,0,0.0,0.0
+2025-09-08,Infantry fighting vehicles,11,1.571429,47.142857
+2025-09-08,Infantry mobility vehicles,1,0.142857,4.285714
+2025-09-08,Other,0,0.0,0.0
+2025-09-08,"Radars, jammers",0,0.0,0.0
+2025-09-08,Rocket and missile artillery,1,0.142857,4.285714
+2025-09-08,Self-propelled artillery,2,0.285714,8.571429
+2025-09-08,Tanks,9,1.285714,38.571429
+2025-09-08,Towed artillery,2,0.285714,8.571429
+2025-09-08,Transport,15,2.142857,64.285714
+2025-09-08,Vessels,0,0.0,0.0
+2025-09-15,Airplanes,0,0.0,0.0
+2025-09-15,"Ambulances, medical vehicles",0,0.0,0.0
+2025-09-15,Anti-aircraft systems,1,0.142857,4.285714
+2025-09-15,Anti-tank systems,0,0.0,0.0
+2025-09-15,"Command posts, communication",0,0.0,0.0
+2025-09-15,Drones,1,0.142857,4.285714
+2025-09-15,Engineering,1,0.142857,4.285714
+2025-09-15,Helicopters,1,0.142857,4.285714
+2025-09-15,Infantry fighting vehicles,4,0.571429,17.142857
+2025-09-15,Infantry mobility vehicles,4,0.571429,17.142857
+2025-09-15,Other,0,0.0,0.0
+2025-09-15,"Radars, jammers",0,0.0,0.0
+2025-09-15,Rocket and missile artillery,0,0.0,0.0
+2025-09-15,Self-propelled artillery,0,0.0,0.0
+2025-09-15,Tanks,7,1.0,30.0
+2025-09-15,Towed artillery,2,0.285714,8.571429
+2025-09-15,Transport,28,4.0,120.0
+2025-09-15,Vessels,0,0.0,0.0
+2025-09-22,Airplanes,1,0.142857,4.285714
+2025-09-22,"Ambulances, medical vehicles",0,0.0,0.0
+2025-09-22,Anti-aircraft systems,0,0.0,0.0
+2025-09-22,Anti-tank systems,0,0.0,0.0
+2025-09-22,"Command posts, communication",0,0.0,0.0
+2025-09-22,Drones,1,0.142857,4.285714
+2025-09-22,Engineering,2,0.285714,8.571429
+2025-09-22,Helicopters,0,0.0,0.0
+2025-09-22,Infantry fighting vehicles,2,0.285714,8.571429
+2025-09-22,Infantry mobility vehicles,0,0.0,0.0
+2025-09-22,Other,0,0.0,0.0
+2025-09-22,"Radars, jammers",1,0.142857,4.285714
+2025-09-22,Rocket and missile artillery,1,0.142857,4.285714
+2025-09-22,Self-propelled artillery,1,0.142857,4.285714
+2025-09-22,Tanks,6,0.857143,25.714286
+2025-09-22,Towed artillery,2,0.285714,8.571429
+2025-09-22,Transport,25,3.571429,107.142857
+2025-09-22,Vessels,0,0.0,0.0
+2025-09-29,Airplanes,0,0.0,0.0
+2025-09-29,"Ambulances, medical vehicles",0,0.0,0.0
+2025-09-29,Anti-aircraft systems,4,0.571429,17.142857
+2025-09-29,Anti-tank systems,0,0.0,0.0
+2025-09-29,"Command posts, communication",0,0.0,0.0
+2025-09-29,Drones,0,0.0,0.0
+2025-09-29,Engineering,0,0.0,0.0
+2025-09-29,Helicopters,1,0.142857,4.285714
+2025-09-29,Infantry fighting vehicles,9,1.285714,38.571429
+2025-09-29,Infantry mobility vehicles,2,0.285714,8.571429
+2025-09-29,Other,0,0.0,0.0
+2025-09-29,"Radars, jammers",0,0.0,0.0
+2025-09-29,Rocket and missile artillery,1,0.142857,4.285714
+2025-09-29,Self-propelled artillery,1,0.142857,4.285714
+2025-09-29,Tanks,2,0.285714,8.571429
+2025-09-29,Towed artillery,1,0.142857,4.285714
+2025-09-29,Transport,12,1.714286,51.428571
+2025-09-29,Vessels,0,0.0,0.0
+2025-10-06,Airplanes,0,0.0,0.0
+2025-10-06,"Ambulances, medical vehicles",0,0.0,0.0
+2025-10-06,Anti-aircraft systems,1,0.142857,4.285714
+2025-10-06,Anti-tank systems,0,0.0,0.0
+2025-10-06,"Command posts, communication",0,0.0,0.0
+2025-10-06,Drones,4,0.571429,17.142857
+2025-10-06,Engineering,0,0.0,0.0
+2025-10-06,Helicopters,0,0.0,0.0
+2025-10-06,Infantry fighting vehicles,22,3.142857,94.285714
+2025-10-06,Infantry mobility vehicles,0,0.0,0.0
+2025-10-06,Other,0,0.0,0.0
+2025-10-06,"Radars, jammers",0,0.0,0.0
+2025-10-06,Rocket and missile artillery,1,0.142857,4.285714
+2025-10-06,Self-propelled artillery,0,0.0,0.0
+2025-10-06,Tanks,6,0.857143,25.714286
+2025-10-06,Towed artillery,0,0.0,0.0
+2025-10-06,Transport,12,1.714286,51.428571
+2025-10-06,Vessels,0,0.0,0.0
+2025-10-13,Airplanes,0,0.0,0.0
+2025-10-13,"Ambulances, medical vehicles",0,0.0,0.0
+2025-10-13,Anti-aircraft systems,0,0.0,0.0
+2025-10-13,Anti-tank systems,0,0.0,0.0
+2025-10-13,"Command posts, communication",1,0.142857,4.285714
+2025-10-13,Drones,0,0.0,0.0
+2025-10-13,Engineering,1,0.142857,4.285714
+2025-10-13,Helicopters,0,0.0,0.0
+2025-10-13,Infantry fighting vehicles,30,4.285714,128.571429
+2025-10-13,Infantry mobility vehicles,1,0.142857,4.285714
+2025-10-13,Other,2,0.285714,8.571429
+2025-10-13,"Radars, jammers",0,0.0,0.0
+2025-10-13,Rocket and missile artillery,2,0.285714,8.571429
+2025-10-13,Self-propelled artillery,0,0.0,0.0
+2025-10-13,Tanks,6,0.857143,25.714286
+2025-10-13,Towed artillery,1,0.142857,4.285714
+2025-10-13,Transport,15,2.142857,64.285714
+2025-10-13,Vessels,0,0.0,0.0
+2025-10-20,Airplanes,0,0.0,0.0
+2025-10-20,"Ambulances, medical vehicles",0,0.0,0.0
+2025-10-20,Anti-aircraft systems,0,0.0,0.0
+2025-10-20,Anti-tank systems,0,0.0,0.0
+2025-10-20,"Command posts, communication",3,0.428571,12.857143
+2025-10-20,Drones,1,0.142857,4.285714
+2025-10-20,Engineering,0,0.0,0.0
+2025-10-20,Helicopters,0,0.0,0.0
+2025-10-20,Infantry fighting vehicles,40,5.714286,171.428571
+2025-10-20,Infantry mobility vehicles,0,0.0,0.0
+2025-10-20,Other,0,0.0,0.0
+2025-10-20,"Radars, jammers",1,0.142857,4.285714
+2025-10-20,Rocket and missile artillery,1,0.142857,4.285714
+2025-10-20,Self-propelled artillery,1,0.142857,4.285714
+2025-10-20,Tanks,7,1.0,30.0
+2025-10-20,Towed artillery,1,0.142857,4.285714
+2025-10-20,Transport,8,1.142857,34.285714
+2025-10-20,Vessels,0,0.0,0.0
+2025-10-27,Airplanes,0,0.0,0.0
+2025-10-27,"Ambulances, medical vehicles",0,0.0,0.0
+2025-10-27,Anti-aircraft systems,1,0.142857,4.285714
+2025-10-27,Anti-tank systems,0,0.0,0.0
+2025-10-27,"Command posts, communication",1,0.142857,4.285714
+2025-10-27,Drones,1,0.142857,4.285714
+2025-10-27,Engineering,0,0.0,0.0
+2025-10-27,Helicopters,0,0.0,0.0
+2025-10-27,Infantry fighting vehicles,25,3.571429,107.142857
+2025-10-27,Infantry mobility vehicles,0,0.0,0.0
+2025-10-27,Other,3,0.428571,12.857143
+2025-10-27,"Radars, jammers",1,0.142857,4.285714
+2025-10-27,Rocket and missile artillery,0,0.0,0.0
+2025-10-27,Self-propelled artillery,0,0.0,0.0
+2025-10-27,Tanks,6,0.857143,25.714286
+2025-10-27,Towed artillery,0,0.0,0.0
+2025-10-27,Transport,5,0.714286,21.428571
+2025-10-27,Vessels,0,0.0,0.0
+2025-11-03,Airplanes,0,0.0,0.0
+2025-11-03,"Ambulances, medical vehicles",0,0.0,0.0
+2025-11-03,Anti-aircraft systems,0,0.0,0.0
+2025-11-03,Anti-tank systems,0,0.0,0.0
+2025-11-03,"Command posts, communication",1,0.142857,4.285714
+2025-11-03,Drones,0,0.0,0.0
+2025-11-03,Engineering,1,0.142857,4.285714
+2025-11-03,Helicopters,0,0.0,0.0
+2025-11-03,Infantry fighting vehicles,15,2.142857,64.285714
+2025-11-03,Infantry mobility vehicles,0,0.0,0.0
+2025-11-03,Other,2,0.285714,8.571429
+2025-11-03,"Radars, jammers",0,0.0,0.0
+2025-11-03,Rocket and missile artillery,3,0.428571,12.857143
+2025-11-03,Self-propelled artillery,1,0.142857,4.285714
+2025-11-03,Tanks,11,1.571429,47.142857
+2025-11-03,Towed artillery,0,0.0,0.0
+2025-11-03,Transport,10,1.428571,42.857143
+2025-11-03,Vessels,0,0.0,0.0
+2025-11-10,Airplanes,0,0.0,0.0
+2025-11-10,"Ambulances, medical vehicles",0,0.0,0.0
+2025-11-10,Anti-aircraft systems,3,0.428571,12.857143
+2025-11-10,Anti-tank systems,0,0.0,0.0
+2025-11-10,"Command posts, communication",1,0.142857,4.285714
+2025-11-10,Drones,0,0.0,0.0
+2025-11-10,Engineering,0,0.0,0.0
+2025-11-10,Helicopters,0,0.0,0.0
+2025-11-10,Infantry fighting vehicles,18,2.571429,77.142857
+2025-11-10,Infantry mobility vehicles,1,0.142857,4.285714
+2025-11-10,Other,2,0.285714,8.571429
+2025-11-10,"Radars, jammers",0,0.0,0.0
+2025-11-10,Rocket and missile artillery,2,0.285714,8.571429
+2025-11-10,Self-propelled artillery,0,0.0,0.0
+2025-11-10,Tanks,5,0.714286,21.428571
+2025-11-10,Towed artillery,2,0.285714,8.571429
+2025-11-10,Transport,11,1.571429,47.142857
+2025-11-10,Vessels,0,0.0,0.0
+2025-11-17,Airplanes,0,0.0,0.0
+2025-11-17,"Ambulances, medical vehicles",0,0.0,0.0
+2025-11-17,Anti-aircraft systems,0,0.0,0.0
+2025-11-17,Anti-tank systems,0,0.0,0.0
+2025-11-17,"Command posts, communication",0,0.0,0.0
+2025-11-17,Drones,0,0.0,0.0
+2025-11-17,Engineering,2,0.285714,8.571429
+2025-11-17,Helicopters,0,0.0,0.0
+2025-11-17,Infantry fighting vehicles,11,1.571429,47.142857
+2025-11-17,Infantry mobility vehicles,0,0.0,0.0
+2025-11-17,Other,1,0.142857,4.285714
+2025-11-17,"Radars, jammers",0,0.0,0.0
+2025-11-17,Rocket and missile artillery,0,0.0,0.0
+2025-11-17,Self-propelled artillery,0,0.0,0.0
+2025-11-17,Tanks,9,1.285714,38.571429
+2025-11-17,Towed artillery,0,0.0,0.0
+2025-11-17,Transport,9,1.285714,38.571429
+2025-11-17,Vessels,0,0.0,0.0
+2025-11-24,Airplanes,0,0.0,0.0
+2025-11-24,"Ambulances, medical vehicles",0,0.0,0.0
+2025-11-24,Anti-aircraft systems,0,0.0,0.0
+2025-11-24,Anti-tank systems,0,0.0,0.0
+2025-11-24,"Command posts, communication",0,0.0,0.0
+2025-11-24,Drones,1,0.142857,4.285714
+2025-11-24,Engineering,1,0.142857,4.285714
+2025-11-24,Helicopters,0,0.0,0.0
+2025-11-24,Infantry fighting vehicles,16,2.285714,68.571429
+2025-11-24,Infantry mobility vehicles,0,0.0,0.0
+2025-11-24,Other,2,0.285714,8.571429
+2025-11-24,"Radars, jammers",0,0.0,0.0
+2025-11-24,Rocket and missile artillery,1,0.142857,4.285714
+2025-11-24,Self-propelled artillery,0,0.0,0.0
+2025-11-24,Tanks,6,0.857143,25.714286
+2025-11-24,Towed artillery,0,0.0,0.0
+2025-11-24,Transport,13,1.857143,55.714286
+2025-11-24,Vessels,0,0.0,0.0
+2025-12-01,Airplanes,0,0.0,0.0
+2025-12-01,"Ambulances, medical vehicles",0,0.0,0.0
+2025-12-01,Anti-aircraft systems,0,0.0,0.0
+2025-12-01,Anti-tank systems,0,0.0,0.0
+2025-12-01,"Command posts, communication",0,0.0,0.0
+2025-12-01,Drones,2,0.285714,8.571429
+2025-12-01,Engineering,3,0.428571,12.857143
+2025-12-01,Helicopters,0,0.0,0.0
+2025-12-01,Infantry fighting vehicles,8,1.142857,34.285714
+2025-12-01,Infantry mobility vehicles,0,0.0,0.0
+2025-12-01,Other,1,0.142857,4.285714
+2025-12-01,"Radars, jammers",0,0.0,0.0
+2025-12-01,Rocket and missile artillery,2,0.285714,8.571429
+2025-12-01,Self-propelled artillery,1,0.142857,4.285714
+2025-12-01,Tanks,7,1.0,30.0
+2025-12-01,Towed artillery,1,0.142857,4.285714
+2025-12-01,Transport,15,2.142857,64.285714
+2025-12-01,Vessels,0,0.0,0.0
+2025-12-08,Airplanes,1,0.142857,4.285714
+2025-12-08,"Ambulances, medical vehicles",0,0.0,0.0
+2025-12-08,Anti-aircraft systems,3,0.428571,12.857143
+2025-12-08,Anti-tank systems,0,0.0,0.0
+2025-12-08,"Command posts, communication",1,0.142857,4.285714
+2025-12-08,Drones,0,0.0,0.0
+2025-12-08,Engineering,0,0.0,0.0
+2025-12-08,Helicopters,0,0.0,0.0
+2025-12-08,Infantry fighting vehicles,7,1.0,30.0
+2025-12-08,Infantry mobility vehicles,0,0.0,0.0
+2025-12-08,Other,5,0.714286,21.428571
+2025-12-08,"Radars, jammers",0,0.0,0.0
+2025-12-08,Rocket and missile artillery,1,0.142857,4.285714
+2025-12-08,Self-propelled artillery,0,0.0,0.0
+2025-12-08,Tanks,3,0.428571,12.857143
+2025-12-08,Towed artillery,0,0.0,0.0
+2025-12-08,Transport,4,0.571429,17.142857
+2025-12-08,Vessels,0,0.0,0.0
+2025-12-15,Airplanes,0,0.0,0.0
+2025-12-15,"Ambulances, medical vehicles",0,0.0,0.0
+2025-12-15,Anti-aircraft systems,2,0.285714,8.571429
+2025-12-15,Anti-tank systems,0,0.0,0.0
+2025-12-15,"Command posts, communication",0,0.0,0.0
+2025-12-15,Drones,3,0.428571,12.857143
+2025-12-15,Engineering,1,0.142857,4.285714
+2025-12-15,Helicopters,0,0.0,0.0
+2025-12-15,Infantry fighting vehicles,20,2.857143,85.714286
+2025-12-15,Infantry mobility vehicles,1,0.142857,4.285714
+2025-12-15,Other,6,0.857143,25.714286
+2025-12-15,"Radars, jammers",0,0.0,0.0
+2025-12-15,Rocket and missile artillery,0,0.0,0.0
+2025-12-15,Self-propelled artillery,1,0.142857,4.285714
+2025-12-15,Tanks,11,1.571429,47.142857
+2025-12-15,Towed artillery,5,0.714286,21.428571
+2025-12-15,Transport,14,2.0,60.0
+2025-12-15,Vessels,0,0.0,0.0
+2025-12-22,Airplanes,0,0.0,0.0
+2025-12-22,"Ambulances, medical vehicles",0,0.0,0.0
+2025-12-22,Anti-aircraft systems,1,0.142857,4.285714
+2025-12-22,Anti-tank systems,0,0.0,0.0
+2025-12-22,"Command posts, communication",0,0.0,0.0
+2025-12-22,Drones,1,0.142857,4.285714
+2025-12-22,Engineering,2,0.285714,8.571429
+2025-12-22,Helicopters,0,0.0,0.0
+2025-12-22,Infantry fighting vehicles,26,3.714286,111.428571
+2025-12-22,Infantry mobility vehicles,0,0.0,0.0
+2025-12-22,Other,4,0.571429,17.142857
+2025-12-22,"Radars, jammers",0,0.0,0.0
+2025-12-22,Rocket and missile artillery,4,0.571429,17.142857
+2025-12-22,Self-propelled artillery,0,0.0,0.0
+2025-12-22,Tanks,17,2.428571,72.857143
+2025-12-22,Towed artillery,2,0.285714,8.571429
+2025-12-22,Transport,12,1.714286,51.428571
+2025-12-22,Vessels,0,0.0,0.0
+2025-12-29,Airplanes,2,0.285714,8.571429
+2025-12-29,"Ambulances, medical vehicles",0,0.0,0.0
+2025-12-29,Anti-aircraft systems,8,1.142857,34.285714
+2025-12-29,Anti-tank systems,0,0.0,0.0
+2025-12-29,"Command posts, communication",0,0.0,0.0
+2025-12-29,Drones,2,0.285714,8.571429
+2025-12-29,Engineering,0,0.0,0.0
+2025-12-29,Helicopters,0,0.0,0.0
+2025-12-29,Infantry fighting vehicles,4,0.571429,17.142857
+2025-12-29,Infantry mobility vehicles,1,0.142857,4.285714
+2025-12-29,Other,6,0.857143,25.714286
+2025-12-29,"Radars, jammers",4,0.571429,17.142857
+2025-12-29,Rocket and missile artillery,1,0.142857,4.285714
+2025-12-29,Self-propelled artillery,1,0.142857,4.285714
+2025-12-29,Tanks,2,0.285714,8.571429
+2025-12-29,Towed artillery,0,0.0,0.0
+2025-12-29,Transport,17,2.428571,72.857143
+2025-12-29,Vessels,0,0.0,0.0
+2026-01-05,Airplanes,0,0.0,0.0
+2026-01-05,"Ambulances, medical vehicles",0,0.0,0.0
+2026-01-05,Anti-aircraft systems,0,0.0,0.0
+2026-01-05,Anti-tank systems,0,0.0,0.0
+2026-01-05,"Command posts, communication",0,0.0,0.0
+2026-01-05,Drones,1,0.142857,4.285714
+2026-01-05,Engineering,0,0.0,0.0
+2026-01-05,Helicopters,0,0.0,0.0
+2026-01-05,Infantry fighting vehicles,11,1.571429,47.142857
+2026-01-05,Infantry mobility vehicles,0,0.0,0.0
+2026-01-05,Other,1,0.142857,4.285714
+2026-01-05,"Radars, jammers",0,0.0,0.0
+2026-01-05,Rocket and missile artillery,0,0.0,0.0
+2026-01-05,Self-propelled artillery,1,0.142857,4.285714
+2026-01-05,Tanks,4,0.571429,17.142857
+2026-01-05,Towed artillery,0,0.0,0.0
+2026-01-05,Transport,6,0.857143,25.714286
+2026-01-05,Vessels,0,0.0,0.0
+2026-01-12,Airplanes,0,0.0,0.0
+2026-01-12,"Ambulances, medical vehicles",0,0.0,0.0
+2026-01-12,Anti-aircraft systems,1,0.142857,4.285714
+2026-01-12,Anti-tank systems,0,0.0,0.0
+2026-01-12,"Command posts, communication",0,0.0,0.0
+2026-01-12,Drones,0,0.0,0.0
+2026-01-12,Engineering,0,0.0,0.0
+2026-01-12,Helicopters,0,0.0,0.0
+2026-01-12,Infantry fighting vehicles,2,0.285714,8.571429
+2026-01-12,Infantry mobility vehicles,0,0.0,0.0
+2026-01-12,Other,4,0.571429,17.142857
+2026-01-12,"Radars, jammers",0,0.0,0.0
+2026-01-12,Rocket and missile artillery,2,0.285714,8.571429
+2026-01-12,Self-propelled artillery,2,0.285714,8.571429
+2026-01-12,Tanks,2,0.285714,8.571429
+2026-01-12,Towed artillery,0,0.0,0.0
+2026-01-12,Transport,13,1.857143,55.714286
+2026-01-12,Vessels,0,0.0,0.0
+2026-01-19,Airplanes,0,0.0,0.0
+2026-01-19,"Ambulances, medical vehicles",0,0.0,0.0
+2026-01-19,Anti-aircraft systems,0,0.0,0.0
+2026-01-19,Anti-tank systems,0,0.0,0.0
+2026-01-19,"Command posts, communication",0,0.0,0.0
+2026-01-19,Drones,0,0.0,0.0
+2026-01-19,Engineering,0,0.0,0.0
+2026-01-19,Helicopters,0,0.0,0.0
+2026-01-19,Infantry fighting vehicles,3,0.428571,12.857143
+2026-01-19,Infantry mobility vehicles,0,0.0,0.0
+2026-01-19,Other,6,0.857143,25.714286
+2026-01-19,"Radars, jammers",0,0.0,0.0
+2026-01-19,Rocket and missile artillery,1,0.142857,4.285714
+2026-01-19,Self-propelled artillery,0,0.0,0.0
+2026-01-19,Tanks,3,0.428571,12.857143
+2026-01-19,Towed artillery,0,0.0,0.0
+2026-01-19,Transport,11,1.571429,47.142857
+2026-01-19,Vessels,0,0.0,0.0
+2026-01-26,Airplanes,0,0.0,0.0
+2026-01-26,"Ambulances, medical vehicles",0,0.0,0.0
+2026-01-26,Anti-aircraft systems,0,0.0,0.0
+2026-01-26,Anti-tank systems,0,0.0,0.0
+2026-01-26,"Command posts, communication",0,0.0,0.0
+2026-01-26,Drones,0,0.0,0.0
+2026-01-26,Engineering,0,0.0,0.0
+2026-01-26,Helicopters,0,0.0,0.0
+2026-01-26,Infantry fighting vehicles,3,0.428571,12.857143
+2026-01-26,Infantry mobility vehicles,0,0.0,0.0
+2026-01-26,Other,6,0.857143,25.714286
+2026-01-26,"Radars, jammers",0,0.0,0.0
+2026-01-26,Rocket and missile artillery,1,0.142857,4.285714
+2026-01-26,Self-propelled artillery,0,0.0,0.0
+2026-01-26,Tanks,4,0.571429,17.142857
+2026-01-26,Towed artillery,0,0.0,0.0
+2026-01-26,Transport,4,0.571429,17.142857
+2026-01-26,Vessels,0,0.0,0.0
+2026-02-02,Airplanes,0,0.0,0.0
+2026-02-02,"Ambulances, medical vehicles",0,0.0,0.0
+2026-02-02,Anti-aircraft systems,0,0.0,0.0
+2026-02-02,Anti-tank systems,0,0.0,0.0
+2026-02-02,"Command posts, communication",0,0.0,0.0
+2026-02-02,Drones,0,0.0,0.0
+2026-02-02,Engineering,0,0.0,0.0
+2026-02-02,Helicopters,0,0.0,0.0
+2026-02-02,Infantry fighting vehicles,4,0.571429,17.142857
+2026-02-02,Infantry mobility vehicles,2,0.285714,8.571429
+2026-02-02,Other,1,0.142857,4.285714
+2026-02-02,"Radars, jammers",0,0.0,0.0
+2026-02-02,Rocket and missile artillery,3,0.428571,12.857143
+2026-02-02,Self-propelled artillery,2,0.285714,8.571429
+2026-02-02,Tanks,1,0.142857,4.285714
+2026-02-02,Towed artillery,0,0.0,0.0
+2026-02-02,Transport,7,1.0,30.0
+2026-02-02,Vessels,0,0.0,0.0
+2026-02-09,Airplanes,0,0.0,0.0
+2026-02-09,"Ambulances, medical vehicles",0,0.0,0.0
+2026-02-09,Anti-aircraft systems,0,0.0,0.0
+2026-02-09,Anti-tank systems,0,0.0,0.0
+2026-02-09,"Command posts, communication",0,0.0,0.0
+2026-02-09,Drones,0,0.0,0.0
+2026-02-09,Engineering,1,0.142857,4.285714
+2026-02-09,Helicopters,0,0.0,0.0
+2026-02-09,Infantry fighting vehicles,1,0.142857,4.285714
+2026-02-09,Infantry mobility vehicles,0,0.0,0.0
+2026-02-09,Other,4,0.571429,17.142857
+2026-02-09,"Radars, jammers",1,0.142857,4.285714
+2026-02-09,Rocket and missile artillery,4,0.571429,17.142857
+2026-02-09,Self-propelled artillery,2,0.285714,8.571429
+2026-02-09,Tanks,2,0.285714,8.571429
+2026-02-09,Towed artillery,0,0.0,0.0
+2026-02-09,Transport,7,1.0,30.0
+2026-02-09,Vessels,1,0.142857,4.285714
+2026-02-16,Airplanes,0,0.0,0.0
+2026-02-16,"Ambulances, medical vehicles",0,0.0,0.0
+2026-02-16,Anti-aircraft systems,3,0.428571,12.857143
+2026-02-16,Anti-tank systems,0,0.0,0.0
+2026-02-16,"Command posts, communication",0,0.0,0.0
+2026-02-16,Drones,1,0.142857,4.285714
+2026-02-16,Engineering,0,0.0,0.0
+2026-02-16,Helicopters,0,0.0,0.0
+2026-02-16,Infantry fighting vehicles,5,0.714286,21.428571
+2026-02-16,Infantry mobility vehicles,0,0.0,0.0
+2026-02-16,Other,0,0.0,0.0
+2026-02-16,"Radars, jammers",0,0.0,0.0
+2026-02-16,Rocket and missile artillery,3,0.428571,12.857143
+2026-02-16,Self-propelled artillery,1,0.142857,4.285714
+2026-02-16,Tanks,3,0.428571,12.857143
+2026-02-16,Towed artillery,0,0.0,0.0
+2026-02-16,Transport,10,1.428571,42.857143
+2026-02-16,Vessels,0,0.0,0.0
+2026-02-23,Airplanes,0,0.0,0.0
+2026-02-23,"Ambulances, medical vehicles",0,0.0,0.0
+2026-02-23,Anti-aircraft systems,2,0.285714,8.571429
+2026-02-23,Anti-tank systems,0,0.0,0.0
+2026-02-23,"Command posts, communication",1,0.142857,4.285714
+2026-02-23,Drones,0,0.0,0.0
+2026-02-23,Engineering,0,0.0,0.0
+2026-02-23,Helicopters,0,0.0,0.0
+2026-02-23,Infantry fighting vehicles,3,0.428571,12.857143
+2026-02-23,Infantry mobility vehicles,1,0.142857,4.285714
+2026-02-23,Other,0,0.0,0.0
+2026-02-23,"Radars, jammers",2,0.285714,8.571429
+2026-02-23,Rocket and missile artillery,5,0.714286,21.428571
+2026-02-23,Self-propelled artillery,0,0.0,0.0
+2026-02-23,Tanks,2,0.285714,8.571429
+2026-02-23,Towed artillery,0,0.0,0.0
+2026-02-23,Transport,9,1.285714,38.571429
+2026-02-23,Vessels,0,0.0,0.0
+2026-03-02,Airplanes,0,0.0,0.0
+2026-03-02,"Ambulances, medical vehicles",0,0.0,0.0
+2026-03-02,Anti-aircraft systems,5,0.714286,21.428571
+2026-03-02,Anti-tank systems,0,0.0,0.0
+2026-03-02,"Command posts, communication",0,0.0,0.0
+2026-03-02,Drones,0,0.0,0.0
+2026-03-02,Engineering,0,0.0,0.0
+2026-03-02,Helicopters,2,0.285714,8.571429
+2026-03-02,Infantry fighting vehicles,7,1.0,30.0
+2026-03-02,Infantry mobility vehicles,0,0.0,0.0
+2026-03-02,Other,0,0.0,0.0
+2026-03-02,"Radars, jammers",0,0.0,0.0
+2026-03-02,Rocket and missile artillery,1,0.142857,4.285714
+2026-03-02,Self-propelled artillery,0,0.0,0.0
+2026-03-02,Tanks,4,0.571429,17.142857
+2026-03-02,Towed artillery,0,0.0,0.0
+2026-03-02,Transport,6,0.857143,25.714286
+2026-03-02,Vessels,1,0.142857,4.285714
+2026-03-09,Airplanes,0,0.0,0.0
+2026-03-09,"Ambulances, medical vehicles",0,0.0,0.0
+2026-03-09,Anti-aircraft systems,4,0.571429,17.142857
+2026-03-09,Anti-tank systems,0,0.0,0.0
+2026-03-09,"Command posts, communication",1,0.142857,4.285714
+2026-03-09,Drones,0,0.0,0.0
+2026-03-09,Engineering,1,0.142857,4.285714
+2026-03-09,Helicopters,0,0.0,0.0
+2026-03-09,Infantry fighting vehicles,2,0.285714,8.571429
+2026-03-09,Infantry mobility vehicles,2,0.285714,8.571429
+2026-03-09,Other,6,0.857143,25.714286
+2026-03-09,"Radars, jammers",4,0.571429,17.142857
+2026-03-09,Rocket and missile artillery,1,0.142857,4.285714
+2026-03-09,Self-propelled artillery,1,0.142857,4.285714
+2026-03-09,Tanks,2,0.285714,8.571429
+2026-03-09,Towed artillery,0,0.0,0.0
+2026-03-09,Transport,26,3.714286,111.428571
+2026-03-09,Vessels,0,0.0,0.0
+2026-03-16,Airplanes,0,0.0,0.0
+2026-03-16,"Ambulances, medical vehicles",0,0.0,0.0
+2026-03-16,Anti-aircraft systems,5,0.714286,21.428571
+2026-03-16,Anti-tank systems,0,0.0,0.0
+2026-03-16,"Command posts, communication",0,0.0,0.0
+2026-03-16,Drones,0,0.0,0.0
+2026-03-16,Engineering,1,0.142857,4.285714
+2026-03-16,Helicopters,1,0.142857,4.285714
+2026-03-16,Infantry fighting vehicles,16,2.285714,68.571429
+2026-03-16,Infantry mobility vehicles,2,0.285714,8.571429
+2026-03-16,Other,1,0.142857,4.285714
+2026-03-16,"Radars, jammers",1,0.142857,4.285714
+2026-03-16,Rocket and missile artillery,5,0.714286,21.428571
+2026-03-16,Self-propelled artillery,2,0.285714,8.571429
+2026-03-16,Tanks,5,0.714286,21.428571
+2026-03-16,Towed artillery,0,0.0,0.0
+2026-03-16,Transport,10,1.428571,42.857143
+2026-03-16,Vessels,0,0.0,0.0
+2026-03-23,Airplanes,0,0.0,0.0
+2026-03-23,"Ambulances, medical vehicles",0,0.0,0.0
+2026-03-23,Anti-aircraft systems,2,0.285714,8.571429
+2026-03-23,Anti-tank systems,0,0.0,0.0
+2026-03-23,"Command posts, communication",0,0.0,0.0
+2026-03-23,Drones,0,0.0,0.0
+2026-03-23,Engineering,2,0.285714,8.571429
+2026-03-23,Helicopters,0,0.0,0.0
+2026-03-23,Infantry fighting vehicles,10,1.428571,42.857143
+2026-03-23,Infantry mobility vehicles,2,0.285714,8.571429
+2026-03-23,Other,0,0.0,0.0
+2026-03-23,"Radars, jammers",0,0.0,0.0
+2026-03-23,Rocket and missile artillery,2,0.285714,8.571429
+2026-03-23,Self-propelled artillery,0,0.0,0.0
+2026-03-23,Tanks,5,0.714286,21.428571
+2026-03-23,Towed artillery,0,0.0,0.0
+2026-03-23,Transport,13,1.857143,55.714286
+2026-03-23,Vessels,1,0.142857,4.285714
+2026-03-30,Airplanes,0,0.0,0.0
+2026-03-30,"Ambulances, medical vehicles",0,0.0,0.0
+2026-03-30,Anti-aircraft systems,2,0.285714,8.571429
+2026-03-30,Anti-tank systems,0,0.0,0.0
+2026-03-30,"Command posts, communication",0,0.0,0.0
+2026-03-30,Drones,1,0.142857,4.285714
+2026-03-30,Engineering,0,0.0,0.0
+2026-03-30,Helicopters,0,0.0,0.0
+2026-03-30,Infantry fighting vehicles,2,0.285714,8.571429
+2026-03-30,Infantry mobility vehicles,0,0.0,0.0
+2026-03-30,Other,0,0.0,0.0
+2026-03-30,"Radars, jammers",2,0.285714,8.571429
+2026-03-30,Rocket and missile artillery,1,0.142857,4.285714
+2026-03-30,Self-propelled artillery,0,0.0,0.0
+2026-03-30,Tanks,1,0.142857,4.285714
+2026-03-30,Towed artillery,2,0.285714,8.571429
+2026-03-30,Transport,14,2.0,60.0
+2026-03-30,Vessels,0,0.0,0.0
+2026-04-06,Airplanes,0,0.0,0.0
+2026-04-06,"Ambulances, medical vehicles",0,0.0,0.0
+2026-04-06,Anti-aircraft systems,0,0.0,0.0
+2026-04-06,Anti-tank systems,0,0.0,0.0
+2026-04-06,"Command posts, communication",0,0.0,0.0
+2026-04-06,Drones,0,0.0,0.0
+2026-04-06,Engineering,1,0.142857,4.285714
+2026-04-06,Helicopters,0,0.0,0.0
+2026-04-06,Infantry fighting vehicles,1,0.142857,4.285714
+2026-04-06,Infantry mobility vehicles,0,0.0,0.0
+2026-04-06,Other,3,0.428571,12.857143
+2026-04-06,"Radars, jammers",0,0.0,0.0
+2026-04-06,Rocket and missile artillery,2,0.285714,8.571429
+2026-04-06,Self-propelled artillery,0,0.0,0.0
+2026-04-06,Tanks,0,0.0,0.0
+2026-04-06,Towed artillery,0,0.0,0.0
+2026-04-06,Transport,8,1.142857,34.285714
+2026-04-06,Vessels,0,0.0,0.0
+2026-04-13,Airplanes,0,0.0,0.0
+2026-04-13,"Ambulances, medical vehicles",0,0.0,0.0
+2026-04-13,Anti-aircraft systems,2,0.285714,8.571429
+2026-04-13,Anti-tank systems,0,0.0,0.0
+2026-04-13,"Command posts, communication",1,0.142857,4.285714
+2026-04-13,Drones,0,0.0,0.0
+2026-04-13,Engineering,1,0.142857,4.285714
+2026-04-13,Helicopters,0,0.0,0.0
+2026-04-13,Infantry fighting vehicles,7,1.0,30.0
+2026-04-13,Infantry mobility vehicles,0,0.0,0.0
+2026-04-13,Other,3,0.428571,12.857143
+2026-04-13,"Radars, jammers",0,0.0,0.0
+2026-04-13,Rocket and missile artillery,4,0.571429,17.142857
+2026-04-13,Self-propelled artillery,2,0.285714,8.571429
+2026-04-13,Tanks,4,0.571429,17.142857
+2026-04-13,Towed artillery,0,0.0,0.0
+2026-04-13,Transport,10,1.428571,42.857143
+2026-04-13,Vessels,0,0.0,0.0
+2026-04-20,Airplanes,0,0.0,0.0
+2026-04-20,"Ambulances, medical vehicles",0,0.0,0.0
+2026-04-20,Anti-aircraft systems,2,0.285714,8.571429
+2026-04-20,Anti-tank systems,0,0.0,0.0
+2026-04-20,"Command posts, communication",0,0.0,0.0
+2026-04-20,Drones,1,0.142857,4.285714
+2026-04-20,Engineering,0,0.0,0.0
+2026-04-20,Helicopters,0,0.0,0.0
+2026-04-20,Infantry fighting vehicles,3,0.428571,12.857143
+2026-04-20,Infantry mobility vehicles,1,0.142857,4.285714
+2026-04-20,Other,0,0.0,0.0
+2026-04-20,"Radars, jammers",0,0.0,0.0
+2026-04-20,Rocket and missile artillery,1,0.142857,4.285714
+2026-04-20,Self-propelled artillery,1,0.142857,4.285714
+2026-04-20,Tanks,4,0.571429,17.142857
+2026-04-20,Towed artillery,0,0.0,0.0
+2026-04-20,Transport,4,0.571429,17.142857
+2026-04-20,Vessels,0,0.0,0.0
+2026-04-27,Airplanes,0,0.0,0.0
+2026-04-27,"Ambulances, medical vehicles",0,0.0,0.0
+2026-04-27,Anti-aircraft systems,2,0.285714,8.571429
+2026-04-27,Anti-tank systems,0,0.0,0.0
+2026-04-27,"Command posts, communication",0,0.0,0.0
+2026-04-27,Drones,0,0.0,0.0
+2026-04-27,Engineering,0,0.0,0.0
+2026-04-27,Helicopters,2,0.285714,8.571429
+2026-04-27,Infantry fighting vehicles,4,0.571429,17.142857
+2026-04-27,Infantry mobility vehicles,0,0.0,0.0
+2026-04-27,Other,1,0.142857,4.285714
+2026-04-27,"Radars, jammers",1,0.142857,4.285714
+2026-04-27,Rocket and missile artillery,0,0.0,0.0
+2026-04-27,Self-propelled artillery,0,0.0,0.0
+2026-04-27,Tanks,2,0.285714,8.571429
+2026-04-27,Towed artillery,0,0.0,0.0
+2026-04-27,Transport,10,1.428571,42.857143
+2026-04-27,Vessels,0,0.0,0.0
+2026-05-04,Airplanes,0,0.0,0.0
+2026-05-04,"Ambulances, medical vehicles",0,0.0,0.0
+2026-05-04,Anti-aircraft systems,2,0.285714,8.571429
+2026-05-04,Anti-tank systems,0,0.0,0.0
+2026-05-04,"Command posts, communication",1,0.142857,4.285714
+2026-05-04,Drones,0,0.0,0.0
+2026-05-04,Engineering,0,0.0,0.0
+2026-05-04,Helicopters,0,0.0,0.0
+2026-05-04,Infantry fighting vehicles,2,0.285714,8.571429
+2026-05-04,Infantry mobility vehicles,0,0.0,0.0
+2026-05-04,Other,0,0.0,0.0
+2026-05-04,"Radars, jammers",1,0.142857,4.285714
+2026-05-04,Rocket and missile artillery,1,0.142857,4.285714
+2026-05-04,Self-propelled artillery,2,0.285714,8.571429
+2026-05-04,Tanks,2,0.285714,8.571429
+2026-05-04,Towed artillery,0,0.0,0.0
+2026-05-04,Transport,17,2.428571,72.857143
+2026-05-04,Vessels,0,0.0,0.0
+2026-05-11,Airplanes,1,0.142857,4.285714
+2026-05-11,"Ambulances, medical vehicles",0,0.0,0.0
+2026-05-11,Anti-aircraft systems,0,0.0,0.0
+2026-05-11,Anti-tank systems,0,0.0,0.0
+2026-05-11,"Command posts, communication",1,0.142857,4.285714
+2026-05-11,Drones,1,0.142857,4.285714
+2026-05-11,Engineering,0,0.0,0.0
+2026-05-11,Helicopters,0,0.0,0.0
+2026-05-11,Infantry fighting vehicles,1,0.142857,4.285714
+2026-05-11,Infantry mobility vehicles,0,0.0,0.0
+2026-05-11,Other,0,0.0,0.0
+2026-05-11,"Radars, jammers",2,0.285714,8.571429
+2026-05-11,Rocket and missile artillery,3,0.428571,12.857143
+2026-05-11,Self-propelled artillery,2,0.285714,8.571429
+2026-05-11,Tanks,0,0.0,0.0
+2026-05-11,Towed artillery,1,0.142857,4.285714
+2026-05-11,Transport,8,1.142857,34.285714
+2026-05-11,Vessels,1,0.142857,4.285714
+2026-05-18,Airplanes,0,0.0,0.0
+2026-05-18,"Ambulances, medical vehicles",0,0.0,0.0
+2026-05-18,Anti-aircraft systems,2,0.285714,8.571429
+2026-05-18,Anti-tank systems,0,0.0,0.0
+2026-05-18,"Command posts, communication",0,0.0,0.0
+2026-05-18,Drones,0,0.0,0.0
+2026-05-18,Engineering,0,0.0,0.0
+2026-05-18,Helicopters,0,0.0,0.0
+2026-05-18,Infantry fighting vehicles,4,0.571429,17.142857
+2026-05-18,Infantry mobility vehicles,2,0.285714,8.571429
+2026-05-18,Other,1,0.142857,4.285714
+2026-05-18,"Radars, jammers",1,0.142857,4.285714
+2026-05-18,Rocket and missile artillery,3,0.428571,12.857143
+2026-05-18,Self-propelled artillery,3,0.428571,12.857143
+2026-05-18,Tanks,0,0.0,0.0
+2026-05-18,Towed artillery,0,0.0,0.0
+2026-05-18,Transport,31,4.428571,132.857143
+2026-05-18,Vessels,0,0.0,0.0
+2026-05-25,Airplanes,0,0.0,0.0
+2026-05-25,"Ambulances, medical vehicles",1,0.142857,4.285714
+2026-05-25,Anti-aircraft systems,1,0.142857,4.285714
+2026-05-25,Anti-tank systems,0,0.0,0.0
+2026-05-25,"Command posts, communication",0,0.0,0.0
+2026-05-25,Drones,0,0.0,0.0
+2026-05-25,Engineering,1,0.142857,4.285714
+2026-05-25,Helicopters,0,0.0,0.0
+2026-05-25,Infantry fighting vehicles,1,0.142857,4.285714
+2026-05-25,Infantry mobility vehicles,0,0.0,0.0
+2026-05-25,Other,2,0.285714,8.571429
+2026-05-25,"Radars, jammers",0,0.0,0.0
+2026-05-25,Rocket and missile artillery,0,0.0,0.0
+2026-05-25,Self-propelled artillery,0,0.0,0.0
+2026-05-25,Tanks,0,0.0,0.0
+2026-05-25,Towed artillery,0,0.0,0.0
+2026-05-25,Transport,7,1.0,30.0
+2026-05-25,Vessels,0,0.0,0.0

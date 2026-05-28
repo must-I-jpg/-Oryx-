@@ -1,0 +1,242 @@
+side,category,status,item_count,share_within_side_category
+Russia,Aircraft,damaged,36,0.20339
+Russia,Aircraft,destroyed,141,0.79661
+Russia,Anti-Aircraft Guns,captured,18,0.264706
+Russia,Anti-Aircraft Guns,damaged,1,0.014706
+Russia,Anti-Aircraft Guns,damaged+captured,1,0.014706
+Russia,Anti-Aircraft Guns,destroyed,48,0.705882
+Russia,Armoured Fighting Vehicles,abandoned,75,0.031619
+Russia,Armoured Fighting Vehicles,captured,259,0.109191
+Russia,Armoured Fighting Vehicles,damaged,38,0.01602
+Russia,Armoured Fighting Vehicles,damaged+abandoned,48,0.020236
+Russia,Armoured Fighting Vehicles,damaged+captured,12,0.005059
+Russia,Armoured Fighting Vehicles,destroyed,1939,0.817454
+Russia,Armoured Fighting Vehicles,destroyed+captured,1,0.000422
+Russia,Armoured Personnel Carriers,abandoned,23,0.03168
+Russia,Armoured Personnel Carriers,captured,92,0.126722
+Russia,Armoured Personnel Carriers,damaged,18,0.024793
+Russia,Armoured Personnel Carriers,damaged+abandoned,19,0.026171
+Russia,Armoured Personnel Carriers,damaged+captured,4,0.00551
+Russia,Armoured Personnel Carriers,destroyed,569,0.783747
+Russia,Armoured Personnel Carriers,destroyed+captured,1,0.001377
+Russia,Artillery and Missile Support Vehicles And Equipment,abandoned,1,0.005618
+Russia,Artillery and Missile Support Vehicles And Equipment,captured,55,0.308989
+Russia,Artillery and Missile Support Vehicles And Equipment,damaged,3,0.016854
+Russia,Artillery and Missile Support Vehicles And Equipment,damaged+captured,5,0.02809
+Russia,Artillery and Missile Support Vehicles And Equipment,destroyed,110,0.617978
+Russia,Artillery and Missile Support Vehicles And Equipment,destroyed+abandoned,3,0.016854
+Russia,Artillery and Missile Support Vehicles And Equipment,destroyed+captured,1,0.005618
+Russia,Command Posts And Communications Stations,abandoned,1,0.003125
+Russia,Command Posts And Communications Stations,captured,81,0.253125
+Russia,Command Posts And Communications Stations,damaged,5,0.015625
+Russia,Command Posts And Communications Stations,damaged+abandoned,3,0.009375
+Russia,Command Posts And Communications Stations,damaged+captured,6,0.01875
+Russia,Command Posts And Communications Stations,destroyed,222,0.69375
+Russia,Command Posts And Communications Stations,destroyed+captured,2,0.00625
+Russia,Engineering Vehicles And Equipment,abandoned,35,0.048476
+Russia,Engineering Vehicles And Equipment,captured,149,0.206371
+Russia,Engineering Vehicles And Equipment,damaged,50,0.069252
+Russia,Engineering Vehicles And Equipment,damaged+abandoned,27,0.037396
+Russia,Engineering Vehicles And Equipment,damaged+captured,8,0.01108
+Russia,Engineering Vehicles And Equipment,destroyed,452,0.626039
+Russia,Engineering Vehicles And Equipment,destroyed+abandoned,1,0.001385
+Russia,Helicopters,captured,1,0.006452
+Russia,Helicopters,damaged,28,0.180645
+Russia,Helicopters,damaged+captured,1,0.006452
+Russia,Helicopters,destroyed,122,0.787097
+Russia,Helicopters,destroyed+abandoned,1,0.006452
+Russia,Helicopters,destroyed+damaged+abandoned,2,0.012903
+Russia,Infantry Fighting Vehicles,abandoned,150,0.023697
+Russia,Infantry Fighting Vehicles,captured,566,0.089415
+Russia,Infantry Fighting Vehicles,damaged,150,0.023697
+Russia,Infantry Fighting Vehicles,damaged+abandoned,325,0.051343
+Russia,Infantry Fighting Vehicles,damaged+captured,55,0.008689
+Russia,Infantry Fighting Vehicles,destroyed,5080,0.802528
+Russia,Infantry Fighting Vehicles,destroyed+captured,4,0.000632
+Russia,Infantry Mobility Vehicles,abandoned,6,0.014184
+Russia,Infantry Mobility Vehicles,captured,46,0.108747
+Russia,Infantry Mobility Vehicles,damaged,18,0.042553
+Russia,Infantry Mobility Vehicles,damaged+abandoned,6,0.014184
+Russia,Infantry Mobility Vehicles,damaged+captured,5,0.01182
+Russia,Infantry Mobility Vehicles,destroyed,340,0.803783
+Russia,Infantry Mobility Vehicles,destroyed+abandoned,1,0.002364
+Russia,Infantry Mobility Vehicles,destroyed+captured,1,0.002364
+Russia,Jammers And Deception Systems,captured,10,0.105263
+Russia,Jammers And Deception Systems,damaged,13,0.136842
+Russia,Jammers And Deception Systems,destroyed,72,0.757895
+Russia,Mine-Resistant Ambush Protected (MRAP) Vehicles,captured,9,0.140625
+Russia,Mine-Resistant Ambush Protected (MRAP) Vehicles,damaged,5,0.078125
+Russia,Mine-Resistant Ambush Protected (MRAP) Vehicles,damaged+abandoned,1,0.015625
+Russia,Mine-Resistant Ambush Protected (MRAP) Vehicles,damaged+captured,2,0.03125
+Russia,Mine-Resistant Ambush Protected (MRAP) Vehicles,destroyed,47,0.734375
+Russia,Naval Ships and Submarines,damaged,11,0.34375
+Russia,Naval Ships and Submarines,destroyed,21,0.65625
+Russia,Radars And Communications Equipment,captured,10,0.078125
+Russia,Radars And Communications Equipment,damaged,36,0.28125
+Russia,Radars And Communications Equipment,destroyed,82,0.640625
+Russia,Rocket and Missile Artillery,abandoned,2,0.003559
+Russia,Rocket and Missile Artillery,captured,45,0.080071
+Russia,Rocket and Missile Artillery,damaged,47,0.08363
+Russia,Rocket and Missile Artillery,damaged+captured,9,0.016014
+Russia,Rocket and Missile Artillery,destroyed,456,0.811388
+Russia,Rocket and Missile Artillery,destroyed+abandoned,1,0.001779
+Russia,Rocket and Missile Artillery,destroyed+captured,2,0.003559
+Russia,Self-Propelled Anti-Aircraft Guns,abandoned,1,0.04
+Russia,Self-Propelled Anti-Aircraft Guns,captured,6,0.24
+Russia,Self-Propelled Anti-Aircraft Guns,damaged,2,0.08
+Russia,Self-Propelled Anti-Aircraft Guns,damaged+abandoned,1,0.04
+Russia,Self-Propelled Anti-Aircraft Guns,damaged+captured,1,0.04
+Russia,Self-Propelled Anti-Aircraft Guns,destroyed,12,0.48
+Russia,Self-Propelled Anti-Aircraft Guns,destroyed+abandoned,2,0.08
+Russia,Self-Propelled Anti-Tank Missile Systems,abandoned,4,0.085106
+Russia,Self-Propelled Anti-Tank Missile Systems,captured,19,0.404255
+Russia,Self-Propelled Anti-Tank Missile Systems,damaged,1,0.021277
+Russia,Self-Propelled Anti-Tank Missile Systems,damaged+captured,1,0.021277
+Russia,Self-Propelled Anti-Tank Missile Systems,destroyed,22,0.468085
+Russia,Self-Propelled Artillery,abandoned,5,0.005
+Russia,Self-Propelled Artillery,captured,107,0.107
+Russia,Self-Propelled Artillery,damaged,53,0.053
+Russia,Self-Propelled Artillery,damaged+abandoned,2,0.002
+Russia,Self-Propelled Artillery,damaged+captured,1,0.001
+Russia,Self-Propelled Artillery,destroyed,830,0.83
+Russia,Self-Propelled Artillery,destroyed+abandoned,2,0.002
+Russia,Surface-To-Air Missile Systems,abandoned,3,0.007212
+Russia,Surface-To-Air Missile Systems,captured,21,0.050481
+Russia,Surface-To-Air Missile Systems,damaged,74,0.177885
+Russia,Surface-To-Air Missile Systems,damaged+abandoned,1,0.002404
+Russia,Surface-To-Air Missile Systems,damaged+captured,3,0.007212
+Russia,Surface-To-Air Missile Systems,destroyed,312,0.75
+Russia,Surface-To-Air Missile Systems,destroyed+abandoned,2,0.004808
+Russia,Tanks,abandoned,113,0.0259
+Russia,Tanks,captured,481,0.110245
+Russia,Tanks,damaged,161,0.036901
+Russia,Tanks,damaged+abandoned,282,0.064634
+Russia,Tanks,damaged+captured,57,0.013064
+Russia,Tanks,destroyed,3247,0.744213
+Russia,Tanks,destroyed+abandoned,10,0.002292
+Russia,Tanks,destroyed+captured,12,0.00275
+Russia,Towed Artillery,abandoned,5,0.009398
+Russia,Towed Artillery,captured,77,0.144737
+Russia,Towed Artillery,damaged,104,0.195489
+Russia,Towed Artillery,damaged+captured,9,0.016917
+Russia,Towed Artillery,destroyed,337,0.633459
+Russia,Trucks and similar vehicles,abandoned,33,0.007812
+Russia,Trucks and similar vehicles,captured,506,0.119792
+Russia,Trucks and similar vehicles,damaged,100,0.023674
+Russia,Trucks and similar vehicles,damaged+abandoned,19,0.004498
+Russia,Trucks and similar vehicles,damaged+captured,50,0.011837
+Russia,Trucks and similar vehicles,destroyed,3515,0.83215
+Russia,Trucks and similar vehicles,destroyed+captured,1,0.000237
+Russia,Unmanned Combat Aerial Vehicles,captured,3,0.142857
+Russia,Unmanned Combat Aerial Vehicles,damaged,1,0.047619
+Russia,Unmanned Combat Aerial Vehicles,destroyed,17,0.809524
+Ukraine,Aircraft,captured,1,0.008621
+Ukraine,Aircraft,damaged,5,0.043103
+Ukraine,Aircraft,destroyed,110,0.948276
+Ukraine,Anti-Aircraft Guns,captured,7,0.875
+Ukraine,Anti-Aircraft Guns,destroyed,1,0.125
+Ukraine,Armoured Fighting Vehicles,abandoned,8,0.015209
+Ukraine,Armoured Fighting Vehicles,captured,81,0.153992
+Ukraine,Armoured Fighting Vehicles,damaged,17,0.032319
+Ukraine,Armoured Fighting Vehicles,damaged+abandoned,7,0.013308
+Ukraine,Armoured Fighting Vehicles,damaged+captured,1,0.001901
+Ukraine,Armoured Fighting Vehicles,destroyed,412,0.78327
+Ukraine,Armoured Personnel Carriers,abandoned,38,0.027921
+Ukraine,Armoured Personnel Carriers,captured,144,0.105805
+Ukraine,Armoured Personnel Carriers,damaged,42,0.03086
+Ukraine,Armoured Personnel Carriers,damaged+abandoned,111,0.081558
+Ukraine,Armoured Personnel Carriers,damaged+captured,16,0.011756
+Ukraine,Armoured Personnel Carriers,destroyed,1009,0.741367
+Ukraine,Armoured Personnel Carriers,destroyed+captured,1,0.000735
+Ukraine,Artillery and Missile Support Vehicles And Equipment,captured,11,0.323529
+Ukraine,Artillery and Missile Support Vehicles And Equipment,destroyed,23,0.676471
+Ukraine,Command Posts And Communications Stations,abandoned,2,0.022222
+Ukraine,Command Posts And Communications Stations,captured,10,0.111111
+Ukraine,Command Posts And Communications Stations,damaged+abandoned,10,0.111111
+Ukraine,Command Posts And Communications Stations,destroyed,68,0.755556
+Ukraine,Engineering Vehicles And Equipment,abandoned,15,0.052632
+Ukraine,Engineering Vehicles And Equipment,captured,34,0.119298
+Ukraine,Engineering Vehicles And Equipment,damaged,25,0.087719
+Ukraine,Engineering Vehicles And Equipment,damaged+abandoned,16,0.05614
+Ukraine,Engineering Vehicles And Equipment,damaged+captured,2,0.007018
+Ukraine,Engineering Vehicles And Equipment,destroyed,192,0.673684
+Ukraine,Engineering Vehicles And Equipment,destroyed+captured,1,0.003509
+Ukraine,Helicopters,captured,1,0.018519
+Ukraine,Helicopters,damaged,4,0.074074
+Ukraine,Helicopters,destroyed,49,0.907407
+Ukraine,Infantry Fighting Vehicles,abandoned,52,0.033291
+Ukraine,Infantry Fighting Vehicles,captured,148,0.09475
+Ukraine,Infantry Fighting Vehicles,damaged,68,0.043534
+Ukraine,Infantry Fighting Vehicles,damaged+abandoned,89,0.056978
+Ukraine,Infantry Fighting Vehicles,damaged+captured,16,0.010243
+Ukraine,Infantry Fighting Vehicles,destroyed,1184,0.758003
+Ukraine,Infantry Fighting Vehicles,destroyed+abandoned,1,0.00064
+Ukraine,Infantry Fighting Vehicles,destroyed+captured,4,0.002561
+Ukraine,Infantry Mobility Vehicles,abandoned,34,0.019231
+Ukraine,Infantry Mobility Vehicles,captured,146,0.082579
+Ukraine,Infantry Mobility Vehicles,damaged,63,0.035633
+Ukraine,Infantry Mobility Vehicles,damaged+abandoned,78,0.044118
+Ukraine,Infantry Mobility Vehicles,damaged+captured,25,0.01414
+Ukraine,Infantry Mobility Vehicles,destroyed,1421,0.803733
+Ukraine,Infantry Mobility Vehicles,destroyed+captured,1,0.000566
+Ukraine,Jammers And Deception Systems,captured,1,0.083333
+Ukraine,Jammers And Deception Systems,damaged,2,0.166667
+Ukraine,Jammers And Deception Systems,destroyed,9,0.75
+Ukraine,Mine-Resistant Ambush Protected (MRAP) Vehicles,abandoned,24,0.025946
+Ukraine,Mine-Resistant Ambush Protected (MRAP) Vehicles,captured,47,0.050811
+Ukraine,Mine-Resistant Ambush Protected (MRAP) Vehicles,damaged,44,0.047568
+Ukraine,Mine-Resistant Ambush Protected (MRAP) Vehicles,damaged+abandoned,53,0.057297
+Ukraine,Mine-Resistant Ambush Protected (MRAP) Vehicles,damaged+captured,19,0.020541
+Ukraine,Mine-Resistant Ambush Protected (MRAP) Vehicles,destroyed,738,0.797838
+Ukraine,Naval Ships and Submarines,captured,18,0.5
+Ukraine,Naval Ships and Submarines,damaged,8,0.222222
+Ukraine,Naval Ships and Submarines,damaged+captured,1,0.027778
+Ukraine,Naval Ships and Submarines,destroyed,9,0.25
+Ukraine,Radars And Communications Equipment,abandoned,1,0.006897
+Ukraine,Radars And Communications Equipment,captured,14,0.096552
+Ukraine,Radars And Communications Equipment,damaged,22,0.151724
+Ukraine,Radars And Communications Equipment,destroyed,108,0.744828
+Ukraine,Rocket and Missile Artillery,captured,9,0.077586
+Ukraine,Rocket and Missile Artillery,damaged,22,0.189655
+Ukraine,Rocket and Missile Artillery,destroyed,85,0.732759
+Ukraine,Self-Propelled Anti-Aircraft Guns,abandoned,1,0.020408
+Ukraine,Self-Propelled Anti-Aircraft Guns,captured,4,0.081633
+Ukraine,Self-Propelled Anti-Aircraft Guns,damaged,5,0.102041
+Ukraine,Self-Propelled Anti-Aircraft Guns,destroyed,37,0.755102
+Ukraine,Self-Propelled Anti-Aircraft Guns,destroyed+captured,2,0.040816
+Ukraine,Self-Propelled Anti-Tank Missile Systems,abandoned,1,0.052632
+Ukraine,Self-Propelled Anti-Tank Missile Systems,captured,9,0.473684
+Ukraine,Self-Propelled Anti-Tank Missile Systems,damaged,1,0.052632
+Ukraine,Self-Propelled Anti-Tank Missile Systems,damaged+captured,1,0.052632
+Ukraine,Self-Propelled Anti-Tank Missile Systems,destroyed,7,0.368421
+Ukraine,Self-Propelled Artillery,captured,25,0.02924
+Ukraine,Self-Propelled Artillery,damaged,102,0.119298
+Ukraine,Self-Propelled Artillery,damaged+abandoned,1,0.00117
+Ukraine,Self-Propelled Artillery,damaged+captured,1,0.00117
+Ukraine,Self-Propelled Artillery,destroyed,726,0.849123
+Ukraine,Surface-To-Air Missile Systems,abandoned,1,0.005682
+Ukraine,Surface-To-Air Missile Systems,captured,6,0.034091
+Ukraine,Surface-To-Air Missile Systems,damaged,20,0.113636
+Ukraine,Surface-To-Air Missile Systems,destroyed,149,0.846591
+Ukraine,Tanks,abandoned,24,0.016985
+Ukraine,Tanks,captured,123,0.087049
+Ukraine,Tanks,damaged,85,0.060156
+Ukraine,Tanks,damaged+abandoned,75,0.053079
+Ukraine,Tanks,damaged+captured,25,0.017693
+Ukraine,Tanks,destroyed,1078,0.762916
+Ukraine,Tanks,destroyed+captured,3,0.002123
+Ukraine,Towed Artillery,abandoned,2,0.007634
+Ukraine,Towed Artillery,captured,21,0.080153
+Ukraine,Towed Artillery,damaged,92,0.351145
+Ukraine,Towed Artillery,damaged+abandoned,1,0.003817
+Ukraine,Towed Artillery,damaged+captured,1,0.003817
+Ukraine,Towed Artillery,destroyed,144,0.549618
+Ukraine,Towed Artillery,destroyed+abandoned,1,0.003817
+Ukraine,Trucks and similar vehicles,abandoned,7,0.005319
+Ukraine,Trucks and similar vehicles,captured,183,0.139058
+Ukraine,Trucks and similar vehicles,damaged,38,0.028875
+Ukraine,Trucks and similar vehicles,damaged+abandoned,10,0.007599
+Ukraine,Trucks and similar vehicles,damaged+captured,8,0.006079
+Ukraine,Trucks and similar vehicles,destroyed,1070,0.81307
+Ukraine,Unmanned Combat Aerial Vehicles,captured,1,0.038462
+Ukraine,Unmanned Combat Aerial Vehicles,destroyed,25,0.961538

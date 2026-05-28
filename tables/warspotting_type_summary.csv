@@ -1,0 +1,19 @@
+type,loss_count,share
+Infantry fighting vehicles,8739,0.380967
+Transport,4357,0.189939
+Tanks,4022,0.175335
+Self-propelled artillery,995,0.043376
+Drones,815,0.035529
+Engineering,656,0.028598
+Infantry mobility vehicles,581,0.025328
+Rocket and missile artillery,571,0.024892
+Anti-aircraft systems,560,0.024413
+Towed artillery,471,0.020533
+"Command posts, communication",393,0.017132
+"Radars, jammers",196,0.008544
+Other,167,0.00728
+Helicopters,134,0.005842
+Airplanes,125,0.005449
+"Ambulances, medical vehicles",81,0.003531
+Anti-tank systems,46,0.002005
+Vessels,30,0.001308

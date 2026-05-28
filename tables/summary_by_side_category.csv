@@ -1,0 +1,47 @@
+side,category,evidence_rows,item_count,share_within_side
+Russia,Aircraft,173,177,0.007702
+Russia,Anti-Aircraft Guns,68,68,0.002959
+Russia,Armoured Fighting Vehicles,2338,2372,0.10322
+Russia,Armoured Personnel Carriers,720,726,0.031593
+Russia,Artillery and Missile Support Vehicles And Equipment,171,178,0.007746
+Russia,Command Posts And Communications Stations,317,320,0.013925
+Russia,Engineering Vehicles And Equipment,719,722,0.031419
+Russia,Helicopters,144,155,0.006745
+Russia,Infantry Fighting Vehicles,6203,6330,0.275457
+Russia,Infantry Mobility Vehicles,415,423,0.018407
+Russia,Jammers And Deception Systems,95,95,0.004134
+Russia,Mine-Resistant Ambush Protected (MRAP) Vehicles,64,64,0.002785
+Russia,Naval Ships and Submarines,32,32,0.001393
+Russia,Radars And Communications Equipment,125,128,0.00557
+Russia,Rocket and Missile Artillery,543,562,0.024456
+Russia,Self-Propelled Anti-Aircraft Guns,25,25,0.001088
+Russia,Self-Propelled Anti-Tank Missile Systems,46,47,0.002045
+Russia,Self-Propelled Artillery,973,1000,0.043516
+Russia,Surface-To-Air Missile Systems,412,416,0.018103
+Russia,Tanks,4282,4363,0.189861
+Russia,Towed Artillery,520,532,0.023151
+Russia,Trucks and similar vehicles,4081,4224,0.183812
+Russia,Unmanned Combat Aerial Vehicles,21,21,0.000914
+Ukraine,Aircraft,115,116,0.0104
+Ukraine,Anti-Aircraft Guns,8,8,0.000717
+Ukraine,Armoured Fighting Vehicles,518,526,0.047158
+Ukraine,Armoured Personnel Carriers,1349,1361,0.122019
+Ukraine,Artillery and Missile Support Vehicles And Equipment,34,34,0.003048
+Ukraine,Command Posts And Communications Stations,89,90,0.008069
+Ukraine,Engineering Vehicles And Equipment,285,285,0.025551
+Ukraine,Helicopters,51,54,0.004841
+Ukraine,Infantry Fighting Vehicles,1536,1562,0.140039
+Ukraine,Infantry Mobility Vehicles,1762,1768,0.158508
+Ukraine,Jammers And Deception Systems,12,12,0.001076
+Ukraine,Mine-Resistant Ambush Protected (MRAP) Vehicles,918,925,0.08293
+Ukraine,Naval Ships and Submarines,36,36,0.003228
+Ukraine,Radars And Communications Equipment,145,145,0.013
+Ukraine,Rocket and Missile Artillery,113,116,0.0104
+Ukraine,Self-Propelled Anti-Aircraft Guns,49,49,0.004393
+Ukraine,Self-Propelled Anti-Tank Missile Systems,18,19,0.001703
+Ukraine,Self-Propelled Artillery,851,855,0.076654
+Ukraine,Surface-To-Air Missile Systems,170,176,0.015779
+Ukraine,Tanks,1401,1413,0.126681
+Ukraine,Towed Artillery,257,262,0.023489
+Ukraine,Trucks and similar vehicles,1287,1316,0.117985
+Ukraine,Unmanned Combat Aerial Vehicles,26,26,0.002331

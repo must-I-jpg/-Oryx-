@@ -74,7 +74,9 @@ warspotting_losses.csv
     ├── warspotting_spatial_macro_region_summary.csv
     ├── warspotting_spatial_macro_region_by_type.csv
     ├── warspotting_spatial_grid_1deg_summary.csv
-    └── warspotting_location_area_summary.csv
+    ├── warspotting_location_area_summary.csv
+    ├── observation_probability_sensitivity_overall.csv
+    └── observation_probability_sensitivity_by_category.csv
 ```
 
 ## 运行顺序
@@ -188,6 +190,32 @@ West: lon < 28
 North: lat >= 50
 South: lat < 47.5
 Central: 其余有坐标记录
+```
+
+### 7. 生成观测概率敏感性分析表
+
+```bash
+python3 scripts/build_observation_sensitivity.py
+```
+
+主要输出：
+
+```text
+tables/observation_probability_sensitivity_overall.csv
+tables/observation_probability_sensitivity_by_category.csv
+```
+
+该分析不直接估计观测概率，而是假设不同的俄乌观测概率组合：
+
+```text
+p_observed_russia, p_observed_ukraine ∈ {0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0}
+```
+
+并计算：
+
+```text
+corrected_count = observed_count / p_observed
+corrected_rate_ratio = corrected_russia_rate / corrected_ukraine_rate
 ```
 
 ## 已实现的统计方法
@@ -312,6 +340,21 @@ Missing coordinates: 8891
 
 由于约 38.76% 记录缺少坐标，空间分层结果应作为观测偏误分析，而不是完整地理分布估计。
 
+### 观测概率敏感性分析
+
+已构造简单观测概率敏感性分析。总体结果显示，在 49 个观测概率组合中，有 47 个组合下修正后的 `Russia / Ukraine` rate ratio 仍大于 1。
+
+关键场景：
+
+```text
+p_Russia = 0.7, p_Ukraine = 0.7 -> corrected RR = 2.060247
+p_Russia = 0.8, p_Ukraine = 0.6 -> corrected RR = 1.545186
+p_Russia = 0.9, p_Ukraine = 0.5 -> corrected RR = 1.144582
+p_Russia = 1.0, p_Ukraine = 0.4 -> corrected RR = 0.824099
+```
+
+这说明总体结论对中等程度的观测概率差异较稳健；只有在假设俄方损失几乎完全可观测、而乌方损失观测概率很低的极端场景下，rate ratio 才可能低于 1。
+
 ## 当前主要结果
 
 基于 Oryx 双方数据，当前总体损失数为：
@@ -350,3 +393,4 @@ Russia / Ukraine = 2.060247
 1. 将 Oryx 和 WarSpotting 的装备类型进一步标准化，比较俄方记录一致性。
 2. 若能获得乌方带日期数据，可扩展为真正的双方时间分层和 Block Bootstrap 检验。
 3. 使用更精确的 GIS 行政区边界替代当前经纬度阈值区域划分。
+4. 引入外部审计数据或多源匹配方法，直接估计不同地区和装备类型的观测概率。

@@ -1,0 +1,2 @@
+statistic,source,n_weeks,bootstrap_reps,seed,theta_hat_rate_per_day,theta_hat_rate_per_30_days,bootstrap_mean_rate_per_day,bootstrap_sd_rate_per_day,percentile_ci_low_per_day,percentile_ci_high_per_day,bca_ci_low_per_day,bca_ci_high_per_day,bca_z0,bca_acceleration,bca_adjusted_quantile_low,bca_adjusted_quantile_high
+weekly_block_bootstrap_rate_per_day,tables/warspotting_weekly_total.csv,223,10000,20260528,14.695067,440.852018,14.70342,0.821683,13.214574,16.407479,13.377314,16.656228,0.050656,0.040615,0.042603,0.987457

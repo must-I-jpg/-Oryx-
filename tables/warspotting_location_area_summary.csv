@@ -1,0 +1,173 @@
+location_area,loss_count,share_all_records
+Pokrovsk raion,3257,0.141985
+Missing location,1487,0.064824
+Bakhmut raion,1368,0.059636
+Volnovakha raion,1325,0.057762
+Donetsk oblast,1174,0.051179
+Siverskodonetsk raion,1060,0.04621
+Kharkiv oblast,1054,0.045948
+Izium raion,979,0.042678
+Kherson oblast,801,0.034919
+Kramatorsk raion,780,0.034003
+Polohy raion,733,0.031954
+Kupiansk raion,638,0.027813
+Svatove raion,524,0.022843
+Bucha raion,523,0.0228
+Luhansk oblast,497,0.021666
+Kherson raion,408,0.017786
+Sudzha raion,362,0.015781
+Zaporizhzhia oblast,358,0.015607
+Beryslav raion,355,0.015476
+Kharkiv raion,352,0.015345
+Kursk oblast,280,0.012206
+East Ukraine,269,0.011727
+Donetsk raion,260,0.011334
+Nizhyn raion,205,0.008937
+Chuhuiv raion,201,0.008762
+Chernihiv oblast,188,0.008196
+Chernihiv raion,186,0.008108
+Vyshhorod raion,180,0.007847
+Korenevo raion,173,0.007542
+Okhtyrka raion,154,0.006713
+Mykolaiv oblast,147,0.006408
+Bashtanka raion,133,0.005798
+Kakhovka raion,131,0.005711
+Hostomel,129,0.005624
+Mariupol raion,127,0.005536
+Vasylivka raion,120,0.005231
+Brovary raion,114,0.00497
+Sumy oblast,103,0.00449
+Mykolaiv raion,101,0.004403
+Pryluky raion,101,0.004403
+South Ukraine,96,0.004185
+Sumy raion,93,0.004054
+Kyiv oblast,85,0.003705
+Chornobaivka,81,0.003531
+Horlivka raion,74,0.003226
+Shebekino raion,64,0.00279
+Glushkovo raion,63,0.002746
+Belgorod oblast,60,0.002616
+Alchevsk raion,57,0.002485
+Belgorod raion,56,0.002441
+Skadovsk raion,55,0.002398
+Berdiansk raion,43,0.001875
+Kalmiuske raion,36,0.001569
+Synelnykove raion,35,0.001526
+Kamianka,31,0.001351
+Odesa oblast,30,0.001308
+Yevpatoriia raion,30,0.001308
+Rylsk raion,28,0.001221
+Konotop raion,27,0.001177
+Valuyki raion,25,0.00109
+Voznesensk raion,24,0.001046
+Crimea,21,0.000915
+Dnipropetrovsk oblast,20,0.000872
+Myrhorod raion,20,0.000872
+Shchastia raion,20,0.000872
+Koriukivka raion,19,0.000828
+Belovsk raion,18,0.000785
+Russia,18,0.000785
+Yakovlevo raion,18,0.000785
+Melitopol raion,16,0.000698
+Romny raion,14,0.00061
+Bohodukhiv raion,13,0.000567
+Grayvoron raion,13,0.000567
+Black Sea,11,0.00048
+Klintsy okrug,10,0.000436
+North Ukraine,10,0.000436
+Usolye raion,10,0.000436
+Nova Kakhovka,9,0.000392
+Poltava oblast,9,0.000392
+Rostov oblast,9,0.000392
+Bolshoe Soldatskoe raion,8,0.000349
+Feodosiia raion,8,0.000349
+Luhansk,8,0.000349
+Rovenky raion,8,0.000349
+Solntsevo raion,8,0.000349
+Borisovka raion,7,0.000305
+Henichesk raion,7,0.000305
+Bakhchysarai raion,6,0.000262
+Sevastopol,6,0.000262
+Starobilsk raion,6,0.000262
+Bryansk oblast,5,0.000218
+Dzhankoi,5,0.000218
+Korosten raion,5,0.000218
+Kryvyi Rih raion,5,0.000218
+Olenegorsk okrug,5,0.000218
+Simferopol raion,5,0.000218
+Korocha raion,4,0.000174
+Krasnaya Yaruga raion,4,0.000174
+Poltava raion,4,0.000174
+Pskov,4,0.000174
+Yeysk raion,4,0.000174
+Donetsk,3,0.000131
+Dzhankoi raion,3,0.000131
+Klintsy raion,3,0.000131
+Millerovo raion,3,0.000131
+Morozovsk raion,3,0.000131
+Novorossiysk okrug,3,0.000131
+Perekop raion,3,0.000131
+Rivne oblast,3,0.000131
+Ukraine,3,0.000131
+Aeroflotskyi,2,8.7e-05
+Fastiv raion,2,8.7e-05
+Ivyna raion,2,8.7e-05
+Kacha,2,8.7e-05
+Kerch raion,2,8.7e-05
+Lgov raion,2,8.7e-05
+Luhansk raion,2,8.7e-05
+Melitopol,2,8.7e-05
+Novhorod-Siverskyi raion,2,8.7e-05
+Novokubansk raion,2,8.7e-05
+Odesa raion,2,8.7e-05
+Prokhorovka raion,2,8.7e-05
+Rossosh raion,2,8.7e-05
+Ryazan,2,8.7e-05
+Turkey,2,8.7e-05
+Unecha raion,2,8.7e-05
+Voronezh oblast,2,8.7e-05
+Yeysk,2,8.7e-05
+Zaporizhzhia raion,2,8.7e-05
+Zhytomyr oblast,2,8.7e-05
+Akhtubinsk raion,1,4.4e-05
+Alexeyevka raion,1,4.4e-05
+Azov sea,1,4.4e-05
+Belarus,1,4.4e-05
+Brest oblast,1,4.4e-05
+Caspian sea,1,4.4e-05
+Cheremkhovo raion,1,4.4e-05
+Chertkovo raion,1,4.4e-05
+Dmitriyev raion,1,4.4e-05
+Dovzhansk raion,1,4.4e-05
+Engels raion,1,4.4e-05
+Fatezh raion,1,4.4e-05
+Kanevskaya raion,1,4.4e-05
+Kantemirovka raion,1,4.4e-05
+Kashirskoe raion,1,4.4e-05
+Krasnogvardeiskoe raion (Belgorod oblast),1,4.4e-05
+Krasnogvardeiskoe raion (Stavropol krai),1,4.4e-05
+Krymsk raion,1,4.4e-05
+Kurman raion,1,4.4e-05
+Kursk raion,1,4.4e-05
+Kushchyovskaya raion,1,4.4e-05
+Neklinovka raion,1,4.4e-05
+Nikopol raion,1,4.4e-05
+Novaya Usman raion,1,4.4e-05
+Omsk,1,4.4e-05
+Oryol oblast,1,4.4e-05
+Ostrogozhsk raion,1,4.4e-05
+Ostrov raion,1,4.4e-05
+Pavlovsk raion,1,4.4e-05
+Rakitnoe raion,1,4.4e-05
+Samara oblast,1,4.4e-05
+Serafimovich raion,1,4.4e-05
+Sevsk raion,1,4.4e-05
+Siverskodonetsk,1,4.4e-05
+Soltsy raion,1,4.4e-05
+Starodub raion,1,4.4e-05
+Talovaya raion,1,4.4e-05
+Tim raion,1,4.4e-05
+Uritsky raion,1,4.4e-05
+Vyborg raion,1,4.4e-05
+Yalta raion,1,4.4e-05
+Zhizdra raion,1,4.4e-05

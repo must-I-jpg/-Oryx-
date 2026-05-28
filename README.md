@@ -66,7 +66,15 @@ warspotting_losses.csv
     ├── warspotting_weekly_total.csv
     ├── warspotting_weekly_by_type.csv
     ├── warspotting_weekly_by_status.csv
-    └── warspotting_type_summary.csv
+    ├── warspotting_type_summary.csv
+    ├── warspotting_weekly_block_bootstrap_bca.csv
+    ├── warspotting_weekly_bootstrap_distribution.csv
+    ├── warspotting_weekly_jackknife_rates.csv
+    ├── warspotting_coordinate_quality.csv
+    ├── warspotting_spatial_macro_region_summary.csv
+    ├── warspotting_spatial_macro_region_by_type.csv
+    ├── warspotting_spatial_grid_1deg_summary.csv
+    └── warspotting_location_area_summary.csv
 ```
 
 ## 运行顺序
@@ -140,6 +148,46 @@ tables/warspotting_weekly_total.csv
 tables/warspotting_weekly_by_type.csv
 tables/warspotting_weekly_by_status.csv
 tables/warspotting_type_summary.csv
+```
+
+### 5. 生成 WarSpotting 周度 Block Bootstrap / BCa 区间
+
+```bash
+python3 scripts/build_warspotting_bootstrap.py
+```
+
+主要输出：
+
+```text
+tables/warspotting_weekly_block_bootstrap_bca.csv
+tables/warspotting_weekly_bootstrap_distribution.csv
+tables/warspotting_weekly_jackknife_rates.csv
+```
+
+### 6. 生成 WarSpotting 坐标/地区分层表
+
+```bash
+python3 scripts/build_warspotting_spatial.py
+```
+
+主要输出：
+
+```text
+tables/warspotting_coordinate_quality.csv
+tables/warspotting_spatial_macro_region_summary.csv
+tables/warspotting_spatial_macro_region_by_type.csv
+tables/warspotting_spatial_grid_1deg_summary.csv
+tables/warspotting_location_area_summary.csv
+```
+
+宏观区域由经纬度阈值构造，不是官方行政区：
+
+```text
+East: lon >= 36
+West: lon < 28
+North: lat >= 50
+South: lat < 47.5
+Central: 其余有坐标记录
 ```
 
 ## 已实现的统计方法
@@ -223,6 +271,47 @@ tables/warspotting_weekly_by_status.csv
 
 这些表可作为后续 Block Bootstrap 的输入。
 
+### Block Bootstrap 与 BCa 区间
+
+已基于 `warspotting_weekly_total.csv` 将每一周作为一个 block，进行 10000 次有放回重抽样，并使用 jackknife 计算 BCa 校正项。
+
+输出文件：
+
+```text
+tables/warspotting_weekly_block_bootstrap_bca.csv
+```
+
+当前结果：
+
+```text
+theta_hat = 14.695067 件/天
+percentile 95% CI = [13.214574, 16.407479]
+BCa 95% CI = [13.377314, 16.656228]
+```
+
+### 坐标/地区分层
+
+已基于 WarSpotting 的 `latitude` 和 `longitude` 字段构造空间分层。
+
+坐标覆盖情况：
+
+```text
+records_with_coordinates = 14048 / 22939
+coordinate_coverage = 61.2407%
+```
+
+宏观区域分布：
+
+```text
+East: 10171
+North: 2275
+South: 1514
+Central: 88
+Missing coordinates: 8891
+```
+
+由于约 38.76% 记录缺少坐标，空间分层结果应作为观测偏误分析，而不是完整地理分布估计。
+
 ## 当前主要结果
 
 基于 Oryx 双方数据，当前总体损失数为：
@@ -258,8 +347,6 @@ Russia / Ukraine = 2.060247
 
 ## 后续可扩展方向
 
-1. 基于 `warspotting_weekly_total.csv` 做周度 Block Bootstrap。
-2. 使用 BCa 方法估计俄方周度损失率的不确定性。
-3. 从 WarSpotting 坐标字段构造地区分层，分析空间观测偏误。
-4. 将 Oryx 和 WarSpotting 的装备类型进一步标准化，比较俄方记录一致性。
-5. 若能获得乌方带日期数据，可扩展为真正的双方时间分层和 Block Bootstrap 检验。
+1. 将 Oryx 和 WarSpotting 的装备类型进一步标准化，比较俄方记录一致性。
+2. 若能获得乌方带日期数据，可扩展为真正的双方时间分层和 Block Bootstrap 检验。
+3. 使用更精确的 GIS 行政区边界替代当前经纬度阈值区域划分。

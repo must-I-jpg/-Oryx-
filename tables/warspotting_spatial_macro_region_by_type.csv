@@ -1,0 +1,81 @@
+macro_region,type,loss_count,share_within_region
+Central,Infantry fighting vehicles,46,0.522727
+Central,Tanks,14,0.159091
+Central,Transport,14,0.159091
+Central,Infantry mobility vehicles,6,0.068182
+Central,Drones,4,0.045455
+Central,Rocket and missile artillery,2,0.022727
+Central,Helicopters,1,0.011364
+Central,Other,1,0.011364
+East,Infantry fighting vehicles,4827,0.474585
+East,Tanks,2372,0.233212
+East,Transport,1168,0.114836
+East,Self-propelled artillery,388,0.038148
+East,Engineering,270,0.026546
+East,Rocket and missile artillery,266,0.026153
+East,Anti-aircraft systems,191,0.018779
+East,Infantry mobility vehicles,181,0.017796
+East,Towed artillery,134,0.013175
+East,"Command posts, communication",82,0.008062
+East,"Radars, jammers",62,0.006096
+East,Other,57,0.005604
+East,Airplanes,56,0.005506
+East,Helicopters,49,0.004818
+East,Drones,33,0.003245
+East,"Ambulances, medical vehicles",20,0.001966
+East,Anti-tank systems,11,0.001082
+East,Vessels,4,0.000393
+Missing coordinates,Infantry fighting vehicles,2668,0.300079
+Missing coordinates,Transport,2096,0.235744
+Missing coordinates,Tanks,1192,0.134068
+Missing coordinates,Drones,767,0.086267
+Missing coordinates,Self-propelled artillery,469,0.05275
+Missing coordinates,Infantry mobility vehicles,269,0.030255
+Missing coordinates,Towed artillery,256,0.028793
+Missing coordinates,Anti-aircraft systems,247,0.027781
+Missing coordinates,Rocket and missile artillery,213,0.023957
+Missing coordinates,Engineering,211,0.023732
+Missing coordinates,"Command posts, communication",210,0.023619
+Missing coordinates,Other,91,0.010235
+Missing coordinates,"Radars, jammers",74,0.008323
+Missing coordinates,"Ambulances, medical vehicles",41,0.004611
+Missing coordinates,Helicopters,32,0.003599
+Missing coordinates,Anti-tank systems,28,0.003149
+Missing coordinates,Airplanes,21,0.002362
+Missing coordinates,Vessels,6,0.000675
+North,Transport,732,0.321758
+North,Infantry fighting vehicles,719,0.316044
+North,Tanks,280,0.123077
+North,Engineering,141,0.061978
+North,Infantry mobility vehicles,97,0.042637
+North,"Command posts, communication",73,0.032088
+North,Self-propelled artillery,72,0.031648
+North,Anti-aircraft systems,36,0.015824
+North,Rocket and missile artillery,27,0.011868
+North,Airplanes,22,0.00967
+North,Helicopters,17,0.007473
+North,"Radars, jammers",16,0.007033
+North,"Ambulances, medical vehicles",15,0.006593
+North,Towed artillery,13,0.005714
+North,Anti-tank systems,6,0.002637
+North,Other,6,0.002637
+North,Drones,2,0.000879
+North,Vessels,1,0.00044
+South,Infantry fighting vehicles,479,0.31638
+South,Transport,347,0.229194
+South,Tanks,164,0.108322
+South,Anti-aircraft systems,86,0.056803
+South,Towed artillery,68,0.044914
+South,Self-propelled artillery,66,0.043593
+South,Rocket and missile artillery,63,0.041612
+South,"Radars, jammers",44,0.029062
+South,Helicopters,35,0.023118
+South,Engineering,34,0.022457
+South,"Command posts, communication",28,0.018494
+South,Infantry mobility vehicles,28,0.018494
+South,Airplanes,26,0.017173
+South,Vessels,19,0.01255
+South,Other,12,0.007926
+South,Drones,9,0.005945
+South,"Ambulances, medical vehicles",5,0.003303
+South,Anti-tank systems,1,0.000661

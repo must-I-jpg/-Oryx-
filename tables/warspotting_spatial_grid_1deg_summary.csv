@@ -1,0 +1,82 @@
+grid_1deg,loss_count,share_coordinate_records,most_common_location_area
+"lat[48,49)_lon[37,38)",3019,0.214906,Pokrovsk raion
+"lat[47,48)_lon[37,38)",1690,0.120302,Pokrovsk raion
+"lat[49,50)_lon[37,38)",1634,0.116315,Izium raion
+"lat[48,49)_lon[38,39)",1325,0.094319,Bakhmut raion
+"lat[47,48)_lon[36,37)",819,0.0583,Volnovakha raion
+"lat[49,50)_lon[38,39)",783,0.055737,Siverskodonetsk raion
+"lat[50,51)_lon[30,31)",514,0.036589,Bucha raion
+"lat[47,48)_lon[35,36)",511,0.036375,Polohy raion
+"lat[50,51)_lon[36,37)",476,0.033884,Kharkiv raion
+"lat[51,52)_lon[35,36)",418,0.029755,Sudzha raion
+"lat[46,47)_lon[32,33)",383,0.027264,Kherson raion
+"lat[50,51)_lon[29,30)",245,0.01744,Bucha raion
+"lat[46,47)_lon[33,34)",236,0.0168,Kakhovka raion
+"lat[47,48)_lon[33,34)",227,0.016159,Beryslav raion
+"lat[50,51)_lon[31,32)",205,0.014593,Nizhyn raion
+"lat[51,52)_lon[34,35)",197,0.014023,Korenevo raion
+"lat[50,51)_lon[34,35)",193,0.013739,Okhtyrka raion
+"lat[49,50)_lon[36,37)",174,0.012386,Izium raion
+"lat[51,52)_lon[31,32)",167,0.011888,Chernihiv raion
+"lat[50,51)_lon[32,33)",138,0.009823,Pryluky raion
+"lat[47,48)_lon[32,33)",93,0.00662,Bashtanka raion
+"lat[48,49)_lon[36,37)",70,0.004983,Pokrovsk raion
+"lat[51,52)_lon[29,30)",69,0.004912,Vyshhorod raion
+"lat[50,51)_lon[35,36)",46,0.003274,Grayvoron raion
+"lat[50,51)_lon[37,38)",46,0.003274,Valuyki raion
+"lat[45,46)_lon[33,34)",32,0.002278,Yevpatoriia raion
+"lat[45,46)_lon[30,31)",25,0.00178,Odesa oblast
+"lat[46,47)_lon[36,37)",24,0.001708,Berdiansk raion
+"lat[47,48)_lon[38,39)",21,0.001495,Kalmiuske raion
+"lat[44,45)_lon[33,34)",20,0.001424,Crimea
+"lat[51,52)_lon[33,34)",18,0.001281,Konotop raion
+"lat[51,52)_lon[32,33)",16,0.001139,Koriukivka raion
+"lat[47,48)_lon[31,32)",15,0.001068,Voznesensk raion
+"lat[48,49)_lon[39,40)",15,0.001068,Luhansk
+"lat[52,53)_lon[32,33)",15,0.001068,Klintsy okrug
+"lat[46,47)_lon[31,32)",12,0.000854,Mykolaiv raion
+"lat[47,48)_lon[34,35)",11,0.000783,Vasylivka raion
+"lat[51,52)_lon[36,37)",11,0.000783,Solntsevo raion
+"lat[52,53)_lon[103,104)",11,0.000783,Usolye raion
+"lat[50,51)_lon[33,34)",10,0.000712,Romny raion
+"lat[46,47)_lon[35,36)",9,0.000641,Melitopol raion
+"lat[45,46)_lon[34,35)",8,0.000569,Dzhankoi
+"lat[50,51)_lon[38,39)",8,0.000569,Valuyki raion
+"lat[51,52)_lon[30,31)",8,0.000569,Vyshhorod raion
+"lat[45,46)_lon[32,33)",7,0.000498,Yevpatoriia raion
+"lat[45,46)_lon[35,36)",7,0.000498,Feodosiia raion
+"lat[46,47)_lon[38,39)",6,0.000427,Yeysk raion
+"lat[57,58)_lon[28,29)",5,0.000356,Pskov
+"lat[68,69)_lon[33,34)",5,0.000356,Olenegorsk okrug
+"lat[46,47)_lon[34,35)",4,0.000285,Henichesk raion
+"lat[44,45)_lon[37,38)",3,0.000214,Novorossiysk okrug
+"lat[48,49)_lon[40,41)",3,0.000214,Millerovo raion
+"lat[49,50)_lon[39,40)",3,0.000214,Starobilsk raion
+"lat[51,52)_lon[37,38)",3,0.000214,Prokhorovka raion
+"lat[51,52)_lon[39,40)",3,0.000214,Ostrogozhsk raion
+"lat[44,45)_lon[40,41)",2,0.000142,Novokubansk raion
+"lat[45,46)_lon[36,37)",2,0.000142,Kerch raion
+"lat[47,48)_lon[39,40)",2,0.000142,Rovenky raion
+"lat[48,49)_lon[41,42)",2,0.000142,Morozovsk raion
+"lat[50,51)_lon[39,40)",2,0.000142,Rossosh raion
+"lat[54,55)_lon[39,40)",2,0.000142,Ryazan
+"lat[44,45)_lon[34,35)",1,7.1e-05,Yalta raion
+"lat[44,45)_lon[38,39)",1,7.1e-05,Krymsk raion
+"lat[45,46)_lon[31,32)",1,7.1e-05,Black Sea
+"lat[45,46)_lon[41,42)",1,7.1e-05,Krasnogvardeiskoe raion (Stavropol krai)
+"lat[46,47)_lon[37,38)",1,7.1e-05,Yeysk raion
+"lat[46,47)_lon[39,40)",1,7.1e-05,Kushchyovskaya raion
+"lat[48,49)_lon[46,47)",1,7.1e-05,Akhtubinsk raion
+"lat[49,50)_lon[40,41)",1,7.1e-05,Chertkovo raion
+"lat[49,50)_lon[42,43)",1,7.1e-05,Serafimovich raion
+"lat[50,51)_lon[40,41)",1,7.1e-05,Pavlovsk raion
+"lat[51,52)_lon[28,29)",1,7.1e-05,Korosten raion
+"lat[51,52)_lon[40,41)",1,7.1e-05,Talovaya raion
+"lat[51,52)_lon[46,47)",1,7.1e-05,Engels raion
+"lat[52,53)_lon[31,32)",1,7.1e-05,Belarus
+"lat[52,53)_lon[34,35)",1,7.1e-05,Sevsk raion
+"lat[52,53)_lon[35,36)",1,7.1e-05,Dmitriyev raion
+"lat[53,54)_lon[50,51)",1,7.1e-05,Samara oblast
+"lat[54,55)_lon[73,74)",1,7.1e-05,Omsk
+"lat[58,59)_lon[30,31)",1,7.1e-05,Soltsy raion
+"lat[60,61)_lon[28,29)",1,7.1e-05,Vyborg raion

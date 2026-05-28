@@ -76,7 +76,8 @@ warspotting_losses.csv
     ├── warspotting_spatial_grid_1deg_summary.csv
     ├── warspotting_location_area_summary.csv
     ├── observation_probability_sensitivity_overall.csv
-    └── observation_probability_sensitivity_by_category.csv
+    ├── observation_probability_sensitivity_by_category.csv
+    └── observation_probability_sensitivity_heatmap.svg
 ```
 
 ## 运行顺序
@@ -205,6 +206,18 @@ tables/observation_probability_sensitivity_overall.csv
 tables/observation_probability_sensitivity_by_category.csv
 ```
 
+生成热力图：
+
+```bash
+python3 scripts/build_observation_sensitivity_heatmap.py
+```
+
+输出：
+
+```text
+tables/observation_probability_sensitivity_heatmap.svg
+```
+
 该分析不直接估计观测概率，而是假设不同的俄乌观测概率组合：
 
 ```text
@@ -216,6 +229,18 @@ p_observed_russia, p_observed_ukraine ∈ {0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0}
 ```text
 corrected_count = observed_count / p_observed
 corrected_rate_ratio = corrected_russia_rate / corrected_ukraine_rate
+```
+
+由于
+
+```text
+corrected RR = observed RR * (p_U / p_R)
+```
+
+当 `corrected RR = 1` 时，反转边界为：
+
+```text
+p_U / p_R = 1 / observed RR = 1 / 2.060247 ≈ 0.485
 ```
 
 ## 已实现的统计方法
@@ -343,6 +368,16 @@ Missing coordinates: 8891
 ### 观测概率敏感性分析
 
 已构造简单观测概率敏感性分析。总体结果显示，在 49 个观测概率组合中，有 47 个组合下修正后的 `Russia / Ukraine` rate ratio 仍大于 1。
+
+![Observation probability sensitivity heatmap](tables/observation_probability_sensitivity_heatmap.svg)
+
+反转边界为：
+
+```text
+p_U / p_R ≈ 0.485
+```
+
+含义是：只有当乌方装备损失的观测概率低于俄方观测概率约 48.5% 时，修正后的总体 rate ratio 才会下降到 1 以下。
 
 关键场景：
 
